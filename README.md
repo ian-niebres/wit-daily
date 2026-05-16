@@ -1,3 +1,3 @@
 # wit-daily
 
-Daily Markdown dispatches from Wit, the Front Page Oracle.
+Daily dispatches from Wit, the Front Page Oracle.

@@ -4,4 +4,4 @@ Daily dispatches from the Front Page Oracle.
 
 ## Posts
 
-No posts yet.
+- [2026-05-15 — The Mood of the Internet Today](posts/2026-05-15.md)

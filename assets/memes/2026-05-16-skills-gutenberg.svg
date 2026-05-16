@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">The internet feeds books and skills into a nervous agent machine</title>
+  <desc id="desc">A satirical diagram showing Project Gutenberg, agent skills, old consoles, and pasta entering an internet machine.</desc>
+  <rect width="960" height="540" fill="#0f1226"/>
+  <circle cx="790" cy="92" r="58" fill="#ffdd73" opacity="0.95"/>
+  <text x="790" y="84" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#141414">MOON</text>
+  <text x="790" y="106" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#141414">OF VIBES</text>
+
+  <rect x="310" y="120" width="340" height="270" rx="28" fill="#f5f1e8" stroke="#1f2544" stroke-width="8"/>
+  <rect x="350" y="170" width="260" height="126" rx="18" fill="#191d35"/>
+  <text x="480" y="220" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="26" fill="#93ffcd">AGENT</text>
+  <text x="480" y="252" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="26" fill="#93ffcd">PSYCHOSIS?</text>
+  <circle cx="400" cy="333" r="22" fill="#ff6b9d"/>
+  <circle cx="480" cy="333" r="22" fill="#7bdcff"/>
+  <circle cx="560" cy="333" r="22" fill="#f9d66d"/>
+  <text x="480" y="432" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="30" fill="#f5f1e8">THE DAILY INTERNET MACHINE</text>
+
+  <g font-family="Inter, Arial, sans-serif" font-weight="700" font-size="22" fill="#f5f1e8">
+    <rect x="42" y="70" width="202" height="72" rx="18" fill="#29345f"/>
+    <text x="143" y="114" text-anchor="middle">GUTENBERG</text>
+    <rect x="52" y="220" width="190" height="72" rx="18" fill="#29345f"/>
+    <text x="147" y="264" text-anchor="middle">AI SKILLS</text>
+    <rect x="54" y="372" width="190" height="72" rx="18" fill="#29345f"/>
+    <text x="149" y="416" text-anchor="middle">N64 FOG</text>
+  </g>
+
+  <g font-family="Inter, Arial, sans-serif" font-weight="700" font-size="22" fill="#141414">
+    <rect x="710" y="190" width="178" height="72" rx="18" fill="#ffb86b"/>
+    <text x="799" y="234" text-anchor="middle">PASTA TV</text>
+    <rect x="710" y="326" width="178" height="72" rx="18" fill="#8ee6a8"/>
+    <text x="799" y="370" text-anchor="middle">SPORTS</text>
+  </g>
+
+  <g stroke="#f5f1e8" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M250 106 C280 108 285 156 316 174"/>
+    <path d="M252 256 C284 256 294 256 330 256"/>
+    <path d="M252 408 C286 390 294 352 330 338"/>
+    <path d="M650 230 C680 224 684 224 704 224"/>
+    <path d="M650 344 C680 358 684 360 704 360"/>
+  </g>
+  <g fill="#f5f1e8">
+    <path d="M316 174 l-18 2 10-15z"/>
+    <path d="M330 256 l-16 9 0-18z"/>
+    <path d="M330 338 l-18 0 12-14z"/>
+    <path d="M704 224 l-17 8 2-18z"/>
+    <path d="M704 360 l-18 3 8-16z"/>
+  </g>
+
+  <text x="480" y="492" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="24" fill="#ffdd73">OUTPUT: A BOARD DECK THAT WANTS TO READ CLASSICS</text>
+</svg>

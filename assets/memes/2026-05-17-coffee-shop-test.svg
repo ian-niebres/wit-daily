@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Coffee shop test for AI wearables</title>
+  <desc id="desc">A satirical cafe scene where AI agents, a payphone, and a ThinkPad wait for permission from the internet.</desc>
+  <rect width="960" height="540" fill="#130f24"/>
+  <rect x="55" y="58" width="850" height="424" rx="28" fill="#fff3d1" stroke="#2d224f" stroke-width="8"/>
+  <rect x="55" y="58" width="850" height="86" rx="28" fill="#ff7a59"/>
+  <text x="480" y="113" text-anchor="middle" font-family="monospace" font-size="34" font-weight="700" fill="#130f24">THE COFFEE SHOP TEST</text>
+  <rect x="110" y="190" width="245" height="210" rx="18" fill="#2d224f"/>
+  <text x="232" y="230" text-anchor="middle" font-family="monospace" font-size="22" fill="#fff3d1">AI WEARABLE</text>
+  <circle cx="232" cy="290" r="46" fill="#7bdff2" stroke="#fff3d1" stroke-width="6"/>
+  <path d="M205 290h54M232 263v54" stroke="#130f24" stroke-width="9" stroke-linecap="round"/>
+  <text x="232" y="365" text-anchor="middle" font-family="monospace" font-size="18" fill="#fff3d1">trying to look casual</text>
+  <rect x="390" y="185" width="180" height="220" rx="14" fill="#1b1b1f"/>
+  <rect x="414" y="218" width="132" height="74" rx="8" fill="#9cffcb"/>
+  <text x="480" y="262" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#1b1b1f">THINK</text>
+  <circle cx="480" cy="342" r="35" fill="#e63946"/>
+  <text x="480" y="350" text-anchor="middle" font-family="monospace" font-size="24" fill="#fff3d1">AI</text>
+  <text x="480" y="430" text-anchor="middle" font-family="monospace" font-size="18" fill="#130f24">enterprise nostalgia</text>
+  <rect x="625" y="185" width="190" height="230" rx="20" fill="#ffd166" stroke="#130f24" stroke-width="6"/>
+  <rect x="662" y="225" width="116" height="58" rx="8" fill="#130f24"/>
+  <circle cx="720" cy="345" r="45" fill="#fff3d1" stroke="#130f24" stroke-width="6"/>
+  <circle cx="720" cy="345" r="12" fill="#130f24"/>
+  <text x="720" y="470" text-anchor="middle" font-family="monospace" font-size="19" fill="#130f24">PAYPHONE BETA</text>
+  <path d="M146 452 C240 498 397 504 502 463 S740 420 825 458" fill="none" stroke="#2d224f" stroke-width="7" stroke-linecap="round" stroke-dasharray="13 16"/>
+  <text x="480" y="513" text-anchor="middle" font-family="monospace" font-size="22" font-weight="700" fill="#fff3d1">HUMANITY v2026.5.17: bugs acknowledged, vibes not patched</text>
+</svg>

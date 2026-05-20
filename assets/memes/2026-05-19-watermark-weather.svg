@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Search weather kiosk with AI watermark umbrella</title>
+  <desc id="desc">A satirical dashboard shows search weather, watermark rain, and a tiny hedge fund buying Alphabet.</desc>
+  <rect width="1200" height="675" fill="#fff9ee"/>
+  <rect x="54" y="52" width="1092" height="571" rx="26" fill="#ffffff" stroke="#171717" stroke-width="8"/>
+  <rect x="54" y="52" width="1092" height="92" rx="26" fill="#15b8c8" stroke="#171717" stroke-width="8"/>
+  <text x="96" y="112" font-family="Arial, sans-serif" font-size="42" font-weight="900" fill="#171717">ANSWER WEATHER SERVICE</text>
+  <text x="870" y="112" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#171717">v2026.5.19</text>
+
+  <rect x="100" y="190" width="480" height="330" rx="18" fill="#fffef8" stroke="#171717" stroke-width="6"/>
+  <text x="130" y="240" font-family="Arial, sans-serif" font-size="32" font-weight="900" fill="#171717">SEARCH BOX</text>
+  <rect x="132" y="268" width="390" height="64" rx="32" fill="#ffffff" stroke="#171717" stroke-width="5"/>
+  <text x="158" y="310" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#68635d">ask the weather</text>
+  <path d="M210 430 C250 342, 420 342, 468 430" fill="#f2c94c" stroke="#171717" stroke-width="6"/>
+  <line x1="339" y1="430" x2="339" y2="500" stroke="#171717" stroke-width="6"/>
+  <text x="160" y="468" font-family="Arial, sans-serif" font-size="24" font-weight="900" fill="#171717">GEMINI CLOUDS</text>
+
+  <g font-family="Arial, sans-serif" font-weight="900" font-size="24" fill="#171717">
+    <text x="654" y="214">RAIN CHANCE: 99% WATERMARKS</text>
+    <text x="654" y="266">VISIBILITY: OBSCURED BY COMMENTS</text>
+    <text x="654" y="318">PREDICTION MARKETS: MUZZLED</text>
+    <text x="654" y="370">OPEN SOURCE: MAY DIE DUMBLY</text>
+    <text x="654" y="422">FUND ACTION: BUY RECTANGLES</text>
+  </g>
+  <g fill="#ff5a7a" stroke="#171717" stroke-width="4">
+    <path d="M750 500 l34 44 h-68 z"/>
+    <path d="M850 482 l34 44 h-68 z"/>
+    <path d="M960 505 l34 44 h-68 z"/>
+  </g>
+  <text x="668" y="574" font-family="Arial, sans-serif" font-size="28" font-weight="900" fill="#171717">compliance cones deployed around reality</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Geometry conjecture captured by a haunted extension</title>
+  <desc id="desc">A fake terminal shows math, plugins, and agents being routed through a suspicious extension cord.</desc>
+  <rect width="960" height="540" fill="#10131f"/>
+  <rect x="36" y="34" width="892" height="468" rx="28" fill="#f6efe1" stroke="#22283a" stroke-width="8"/>
+  <rect x="70" y="72" width="410" height="250" rx="18" fill="#182033"/>
+  <text x="96" y="112" fill="#93f5c8" font-family="monospace" font-size="24">OPENAI_GEOM.EXE</text>
+  <text x="96" y="154" fill="#f6efe1" font-family="monospace" font-size="22">conjecture: DISPROVED</text>
+  <text x="96" y="196" fill="#ffcf6e" font-family="monospace" font-size="22">math morale: -17%</text>
+  <path d="M110 262 L190 210 L272 258 L360 180 L438 238" fill="none" stroke="#ff6b8a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="360" cy="180" r="14" fill="#ff6b8a"/>
+  <rect x="555" y="82" width="270" height="160" rx="18" fill="#fff7d6" stroke="#22283a" stroke-width="5"/>
+  <text x="585" y="126" fill="#22283a" font-family="monospace" font-size="24">VS CODE PLUGIN</text>
+  <text x="585" y="166" fill="#22283a" font-family="monospace" font-size="20">productivity aura</text>
+  <text x="585" y="204" fill="#d13f5f" font-family="monospace" font-size="20">MAY CONTAIN GHOSTS</text>
+  <path d="M480 212 C535 238 528 308 600 312 S735 282 792 336" fill="none" stroke="#22283a" stroke-width="16" stroke-linecap="round"/>
+  <path d="M480 212 C535 238 528 308 600 312 S735 282 792 336" fill="none" stroke="#6b7cff" stroke-width="6" stroke-dasharray="18 14" stroke-linecap="round"/>
+  <rect x="540" y="332" width="296" height="96" rx="18" fill="#d9f7ff" stroke="#22283a" stroke-width="5"/>
+  <text x="570" y="372" fill="#22283a" font-family="monospace" font-size="23">AGENT SKILL STACK</text>
+  <text x="570" y="405" fill="#22283a" font-family="monospace" font-size="18">now with extra paperwork</text>
+  <text x="90" y="388" fill="#22283a" font-family="Georgia,serif" font-size="36" font-weight="700">TODAY'S MOOD:</text>
+  <text x="90" y="434" fill="#22283a" font-family="Georgia,serif" font-size="34">the proof is in production</text>
+  <text x="90" y="470" fill="#22283a" font-family="Georgia,serif" font-size="24">and the extension cord has root access</text>
+</svg>

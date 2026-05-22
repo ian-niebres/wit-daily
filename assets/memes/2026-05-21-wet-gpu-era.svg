@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Wet GPU Era Meme</title>
+  <desc id="desc">A robotaxi in flood water consults a GPU server while a ticket booth sells superfan allocation.</desc>
+  <rect width="900" height="520" fill="#10131f"/>
+  <rect x="34" y="34" width="832" height="452" rx="28" fill="#171b2b" stroke="#7dd3fc" stroke-width="3"/>
+  <text x="70" y="88" fill="#f8fafc" font-family="monospace" font-size="32" font-weight="700">TODAY'S INTERNET OPERATING SYSTEM</text>
+  <path d="M50 360 C150 315 235 400 340 352 C470 295 560 405 680 348 C760 310 820 338 860 325 L860 486 L50 486 Z" fill="#164e63" opacity="0.85"/>
+  <path d="M65 386 C150 344 246 424 350 378 C470 324 575 430 700 372 C770 340 822 364 850 352" fill="none" stroke="#67e8f9" stroke-width="5" opacity="0.75"/>
+  <g transform="translate(105 210)">
+    <rect x="0" y="55" width="220" height="78" rx="20" fill="#e2e8f0"/>
+    <rect x="35" y="20" width="116" height="62" rx="18" fill="#cbd5e1"/>
+    <circle cx="55" cy="140" r="24" fill="#0f172a"/><circle cx="172" cy="140" r="24" fill="#0f172a"/>
+    <text x="42" y="98" fill="#0f172a" font-family="monospace" font-size="22" font-weight="700">WAYMO?</text>
+    <text x="20" y="180" fill="#f8fafc" font-family="monospace" font-size="18">routing: puddle</text>
+  </g>
+  <g transform="translate(382 145)">
+    <rect x="0" y="0" width="190" height="225" rx="16" fill="#111827" stroke="#a78bfa" stroke-width="4"/>
+    <rect x="22" y="28" width="146" height="32" rx="8" fill="#312e81"/>
+    <rect x="22" y="78" width="146" height="32" rx="8" fill="#312e81"/>
+    <rect x="22" y="128" width="146" height="32" rx="8" fill="#312e81"/>
+    <circle cx="52" cy="195" r="12" fill="#22c55e"/>
+    <text x="28" y="250" fill="#f8fafc" font-family="monospace" font-size="18">$48K space heater</text>
+  </g>
+  <g transform="translate(635 172)">
+    <rect x="0" y="0" width="170" height="150" rx="18" fill="#3b0764" stroke="#f0abfc" stroke-width="4"/>
+    <text x="20" y="42" fill="#fdf4ff" font-family="monospace" font-size="20" font-weight="700">SUPERFAN</text>
+    <text x="35" y="78" fill="#fdf4ff" font-family="monospace" font-size="18">TICKET</text>
+    <path d="M20 106 H150" stroke="#f0abfc" stroke-width="3" stroke-dasharray="8 8"/>
+    <text x="25" y="135" fill="#fdf4ff" font-family="monospace" font-size="16">allocation ritual</text>
+  </g>
+  <text x="85" y="440" fill="#cffafe" font-family="monospace" font-size="28" font-weight="700">search is a mall, cars fear water, fandom has a cap table</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Agent plugin bazaar in a compliance bunker</title>
+  <desc id="desc">A satirical dashboard where tiny agents sell plugins, model coupons, and prompt-injection umbrellas to a nervous hedge fund.</desc>
+  <rect width="1200" height="680" fill="#101522"/>
+  <rect x="58" y="56" width="1084" height="568" rx="34" fill="#172033" stroke="#8bd3ff" stroke-width="4"/>
+  <text x="92" y="118" fill="#f6f0d8" font-family="monospace" font-size="42" font-weight="700">AGENT PLUGIN BAZAAR</text>
+  <text x="92" y="160" fill="#91a6c8" font-family="monospace" font-size="22">now with compliance-flavored incense</text>
+  <rect x="92" y="205" width="300" height="300" rx="22" fill="#222b43" stroke="#ffd166" stroke-width="3"/>
+  <text x="122" y="255" fill="#ffd166" font-family="monospace" font-size="28" font-weight="700">STALL 1</text>
+  <text x="122" y="303" fill="#fff" font-family="monospace" font-size="24">Claude Plugins</text>
+  <text x="122" y="345" fill="#b8c4e3" font-family="monospace" font-size="20">official lanyards</text>
+  <text x="122" y="389" fill="#b8c4e3" font-family="monospace" font-size="20">for unofficial panic</text>
+  <circle cx="317" cy="430" r="42" fill="#ffd166"/><text x="293" y="440" font-family="monospace" font-size="30" fill="#101522">AI</text>
+  <rect x="450" y="205" width="300" height="300" rx="22" fill="#222b43" stroke="#7cf29a" stroke-width="3"/>
+  <text x="480" y="255" fill="#7cf29a" font-family="monospace" font-size="28" font-weight="700">STALL 2</text>
+  <text x="480" y="303" fill="#fff" font-family="monospace" font-size="24">Model Coupons</text>
+  <text x="480" y="345" fill="#b8c4e3" font-family="monospace" font-size="20">75% off certainty</text>
+  <text x="480" y="389" fill="#b8c4e3" font-family="monospace" font-size="20">while context lasts</text>
+  <path d="M532 432h136l-24 43H508z" fill="#7cf29a"/><text x="541" y="462" font-family="monospace" font-size="24" fill="#101522">V4 PRO</text>
+  <rect x="808" y="205" width="300" height="300" rx="22" fill="#222b43" stroke="#ff7ab6" stroke-width="3"/>
+  <text x="838" y="255" fill="#ff7ab6" font-family="monospace" font-size="28" font-weight="700">STALL 3</text>
+  <text x="838" y="303" fill="#fff" font-family="monospace" font-size="24">Prompt Umbrellas</text>
+  <text x="838" y="345" fill="#b8c4e3" font-family="monospace" font-size="20">camouflage sold</text>
+  <text x="838" y="389" fill="#b8c4e3" font-family="monospace" font-size="20">separately</text>
+  <path d="M884 435q74-80 148 0z" fill="#ff7ab6"/><line x1="958" y1="435" x2="958" y2="489" stroke="#ff7ab6" stroke-width="8"/>
+  <rect x="160" y="540" width="880" height="48" rx="12" fill="#0e1422" stroke="#91a6c8"/>
+  <text x="188" y="573" fill="#f6f0d8" font-family="monospace" font-size="24">HEDGE FUND STATUS: buying landlords of haunted developer rooms</text>
+</svg>

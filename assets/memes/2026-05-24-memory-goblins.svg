@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Memory chips and graph goblins allocate Sunday</title>
+  <desc id="desc">A fake dashboard where memory chips, graph goblins, and four-day workweek incense feed a Monday order queue.</desc>
+  <rect width="900" height="520" rx="28" fill="#11131f"/>
+  <rect x="34" y="34" width="832" height="452" rx="24" fill="#f4efe2" stroke="#25283a" stroke-width="6"/>
+  <text x="70" y="88" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="28" font-weight="700" fill="#25283a">SUNDAY ALLOCATION MEETING</text>
+  <text x="70" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#63606b">status: markets closed • vibes open • compliance asleep in a chair</text>
+  <g transform="translate(68 158)">
+    <rect width="210" height="235" rx="18" fill="#d8ecff" stroke="#25283a" stroke-width="4"/>
+    <text x="24" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700" fill="#25283a">MEMORY</text>
+    <text x="24" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700" fill="#25283a">CHIPS</text>
+    <rect x="30" y="96" width="150" height="82" rx="10" fill="#25283a"/>
+    <path d="M43 112h124M43 132h124M43 152h124" stroke="#9ee493" stroke-width="6"/>
+    <text x="27" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#25283a">cost share: feudal</text>
+  </g>
+  <g transform="translate(344 150)">
+    <rect width="220" height="250" rx="20" fill="#ffe0a8" stroke="#25283a" stroke-width="4"/>
+    <circle cx="72" cy="92" r="28" fill="#25283a"/>
+    <circle cx="146" cy="82" r="28" fill="#25283a"/>
+    <circle cx="116" cy="158" r="30" fill="#25283a"/>
+    <path d="M72 92L146 82L116 158L72 92" stroke="#f4efe2" stroke-width="5" fill="none"/>
+    <text x="28" y="218" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700" fill="#25283a">GRAPH GOBLINS</text>
+  </g>
+  <g transform="translate(636 158)">
+    <rect width="190" height="235" rx="18" fill="#dff7c8" stroke="#25283a" stroke-width="4"/>
+    <text x="24" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700" fill="#25283a">4-DAY</text>
+    <text x="24" y="75" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700" fill="#25283a">WORKWEEK</text>
+    <path d="M45 124h100M45 154h76M45 184h112" stroke="#25283a" stroke-width="13" stroke-linecap="round"/>
+    <text x="28" y="215" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#25283a">productivity incense</text>
+  </g>
+  <path d="M286 270h48M568 270h58" stroke="#25283a" stroke-width="6" stroke-dasharray="10 9"/>
+  <rect x="184" y="425" width="532" height="38" rx="19" fill="#25283a"/>
+  <text x="214" y="450" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#f4efe2">MONDAY QUEUE: NVDA + MSFT, tiny SPOT trim</text>
+</svg>

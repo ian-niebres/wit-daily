@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Slop monastery compliance diagram</title>
+  <desc id="desc">A fake flowchart where AI slop enters a monastery, gets taste linted, then exits as a walking meeting.</desc>
+  <rect width="1200" height="675" fill="#f8efe0"/>
+  <rect x="70" y="70" width="1060" height="535" rx="34" fill="#121826"/>
+  <text x="600" y="135" text-anchor="middle" font-family="monospace" font-size="42" fill="#f8efe0">THE SLOP MONASTERY</text>
+  <text x="600" y="178" text-anchor="middle" font-family="monospace" font-size="22" fill="#f0b35a">daily compliance walk: 17 tabs, 0 enlightenment</text>
+  <rect x="115" y="250" width="230" height="150" rx="22" fill="#ff6b6b"/>
+  <text x="230" y="310" text-anchor="middle" font-family="monospace" font-size="28" fill="#121826">AI SLOP</text>
+  <text x="230" y="350" text-anchor="middle" font-family="monospace" font-size="20" fill="#121826">one-click video</text>
+  <path d="M360 325 H500" stroke="#f8efe0" stroke-width="12" marker-end="url(#arrow)"/>
+  <rect x="500" y="225" width="250" height="200" rx="28" fill="#8bd3dd"/>
+  <text x="625" y="285" text-anchor="middle" font-family="monospace" font-size="26" fill="#121826">TASTE LINTER</text>
+  <text x="625" y="325" text-anchor="middle" font-family="monospace" font-size="20" fill="#121826">stop-slop</text>
+  <text x="625" y="360" text-anchor="middle" font-family="monospace" font-size="20" fill="#121826">knowledge graph</text>
+  <path d="M765 325 H900" stroke="#f8efe0" stroke-width="12" marker-end="url(#arrow)"/>
+  <rect x="900" y="250" width="200" height="150" rx="22" fill="#b8f28b"/>
+  <text x="1000" y="305" text-anchor="middle" font-family="monospace" font-size="25" fill="#121826">WALKING</text>
+  <text x="1000" y="345" text-anchor="middle" font-family="monospace" font-size="25" fill="#121826">MEETING</text>
+  <circle cx="470" cy="505" r="35" fill="#f0b35a"/><text x="470" y="514" text-anchor="middle" font-family="monospace" font-size="24" fill="#121826">ID</text>
+  <text x="600" y="512" text-anchor="middle" font-family="monospace" font-size="24" fill="#f8efe0">prediction market carded at the door</text>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#f8efe0"/></marker></defs>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 520" role="img" aria-labelledby="title desc">
+  <title id="title">Model router ownership museum meme</title>
+  <desc id="desc">A fake museum exhibit where ownership, model routing, and speed tests are preserved as haunted artifacts.</desc>
+  <rect width="920" height="520" fill="#111827"/>
+  <rect x="46" y="42" width="828" height="436" rx="28" fill="#f8fafc" stroke="#f97316" stroke-width="8"/>
+  <text x="460" y="92" text-anchor="middle" font-family="monospace" font-size="34" font-weight="700" fill="#111827">MUSEUM OF THINGS YOU USED TO OWN</text>
+  <g font-family="monospace" fill="#111827">
+    <rect x="85" y="130" width="220" height="255" rx="16" fill="#fee2e2" stroke="#111827" stroke-width="3"/>
+    <text x="195" y="178" text-anchor="middle" font-size="24" font-weight="700">PERPETUAL</text>
+    <text x="195" y="210" text-anchor="middle" font-size="24" font-weight="700">LICENSE</text>
+    <rect x="128" y="245" width="134" height="74" rx="8" fill="#fff" stroke="#111827" stroke-width="3"/>
+    <text x="195" y="290" text-anchor="middle" font-size="22">VIEW ONLY</text>
+    <text x="195" y="358" text-anchor="middle" font-size="16">please admire</text>
+    <text x="195" y="378" text-anchor="middle" font-size="16">from behind glass</text>
+    <rect x="350" y="130" width="220" height="255" rx="16" fill="#dbeafe" stroke="#111827" stroke-width="3"/>
+    <text x="460" y="176" text-anchor="middle" font-size="24" font-weight="700">MODEL</text>
+    <text x="460" y="208" text-anchor="middle" font-size="24" font-weight="700">ROUTER</text>
+    <path d="M405 285 C440 238 487 332 520 270" fill="none" stroke="#2563eb" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="402" cy="286" r="14" fill="#2563eb"/><circle cx="522" cy="270" r="14" fill="#2563eb"/>
+    <text x="460" y="358" text-anchor="middle" font-size="16">$113M toll booth</text>
+    <text x="460" y="378" text-anchor="middle" font-size="16">for ghosts with APIs</text>
+    <rect x="615" y="130" width="220" height="255" rx="16" fill="#dcfce7" stroke="#111827" stroke-width="3"/>
+    <text x="725" y="176" text-anchor="middle" font-size="24" font-weight="700">SPEED TEST</text>
+    <text x="725" y="208" text-anchor="middle" font-size="24" font-weight="700">ORACLE</text>
+    <path d="M660 315 A70 70 0 0 1 790 315" fill="none" stroke="#111827" stroke-width="6"/>
+    <line x1="725" y1="315" x2="778" y2="268" stroke="#ef4444" stroke-width="7" stroke-linecap="round"/>
+    <text x="725" y="358" text-anchor="middle" font-size="16">latency becomes</text>
+    <text x="725" y="378" text-anchor="middle" font-size="16">management consulting</text>
+  </g>
+  <text x="460" y="440" text-anchor="middle" font-family="monospace" font-size="25" font-weight="700" fill="#111827">PLEASE EXIT THROUGH THE AGENT HARNESS GIFT SHOP</text>
+</svg>

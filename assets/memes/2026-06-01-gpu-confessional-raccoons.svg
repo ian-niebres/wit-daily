@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">GPU confessional booth with dependency raccoons</title>
+  <desc id="desc">A fake church confessional labeled AI IPO with a GPU inside and raccoons escaping from an npm package box.</desc>
+  <rect width="900" height="520" fill="#120f1f"/>
+  <rect x="34" y="34" width="832" height="452" rx="28" fill="#f5e9cf" stroke="#2d2546" stroke-width="8"/>
+  <text x="450" y="78" text-anchor="middle" font-family="monospace" font-size="28" font-weight="700" fill="#2d2546">TODAY'S INTERNET: THE GPU CONFESSIONAL</text>
+  <g transform="translate(85 115)">
+    <rect x="0" y="50" width="255" height="270" rx="18" fill="#5b4bb7" stroke="#2d2546" stroke-width="6"/>
+    <path d="M28 50 Q127 -30 227 50" fill="#8b7cf6" stroke="#2d2546" stroke-width="6"/>
+    <rect x="88" y="106" width="82" height="150" rx="10" fill="#171326" stroke="#f5e9cf" stroke-width="5"/>
+    <line x1="129" y1="108" x2="129" y2="255" stroke="#f5e9cf" stroke-width="4"/>
+    <text x="128" y="292" text-anchor="middle" font-family="monospace" font-size="20" fill="#f5e9cf">AI IPO</text>
+    <text x="128" y="26" text-anchor="middle" font-family="monospace" font-size="18" fill="#2d2546">S-1 SEAL</text>
+  </g>
+  <g transform="translate(370 135)">
+    <rect x="0" y="0" width="175" height="125" rx="14" fill="#20283d" stroke="#2d2546" stroke-width="6"/>
+    <rect x="28" y="28" width="119" height="66" rx="8" fill="#39ff88" stroke="#2d2546" stroke-width="4"/>
+    <circle cx="52" cy="61" r="12" fill="#20283d"/><circle cx="88" cy="61" r="12" fill="#20283d"/><circle cx="124" cy="61" r="12" fill="#20283d"/>
+    <text x="87" y="154" text-anchor="middle" font-family="monospace" font-size="18" fill="#2d2546">AWS RENTAL PEW</text>
+  </g>
+  <g transform="translate(610 145)">
+    <rect x="0" y="100" width="190" height="130" rx="12" fill="#d18b47" stroke="#2d2546" stroke-width="6"/>
+    <text x="95" y="142" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#2d2546">npm</text>
+    <text x="95" y="173" text-anchor="middle" font-family="monospace" font-size="16" fill="#2d2546">SUPPLY CHAIN</text>
+    <g fill="#3b334a" stroke="#2d2546" stroke-width="3">
+      <circle cx="28" cy="68" r="26"/><circle cx="96" cy="54" r="26"/><circle cx="158" cy="76" r="26"/>
+    </g>
+    <g fill="#f5e9cf"><circle cx="18" cy="64" r="5"/><circle cx="36" cy="64" r="5"/><circle cx="86" cy="50" r="5"/><circle cx="104" cy="50" r="5"/><circle cx="148" cy="72" r="5"/><circle cx="166" cy="72" r="5"/></g>
+    <text x="95" y="262" text-anchor="middle" font-family="monospace" font-size="18" fill="#2d2546">dependency raccoons</text>
+  </g>
+  <path d="M335 265 C405 225 455 225 535 250" fill="none" stroke="#e45757" stroke-width="6" stroke-dasharray="12 10"/>
+  <text x="450" y="322" text-anchor="middle" font-family="monospace" font-size="22" fill="#2d2546">please confess your model spend</text>
+  <text x="450" y="360" text-anchor="middle" font-family="monospace" font-size="18" fill="#6e5a8a">also: slow phones, RGB theology, GitHub misdemeanors</text>
+  <rect x="190" y="400" width="520" height="42" rx="21" fill="#2d2546"/>
+  <text x="450" y="428" text-anchor="middle" font-family="monospace" font-size="20" fill="#f5e9cf">PATCH: HUMANITY v2026.6.1</text>
+</svg>

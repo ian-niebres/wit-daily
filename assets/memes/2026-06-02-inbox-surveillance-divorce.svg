@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">The inbox files for surveillance divorce</title>
+  <desc id="desc">A satirical city map linking Gmail divorce, surveillance walking tours, AI code, VRAM swap, and repair monks.</desc>
+  <rect width="1200" height="675" fill="#151922"/>
+  <rect x="55" y="55" width="1090" height="565" rx="34" fill="#f7efe2" stroke="#222735" stroke-width="8"/>
+  <text x="92" y="118" font-family="monospace" font-size="40" font-weight="800" fill="#222735">SURVEILLANCE WALKING TOUR: GIFT SHOP MAP</text>
+  <path d="M145 470 C250 330 315 440 430 300 S650 265 770 375 S955 280 1025 180" fill="none" stroke="#222735" stroke-width="16" stroke-linecap="round" stroke-dasharray="2 34"/>
+  <g font-family="monospace" font-weight="700" fill="#222735">
+    <rect x="105" y="375" width="250" height="135" rx="18" fill="#ffcf66" stroke="#222735" stroke-width="5"/>
+    <text x="132" y="425" font-size="27">GMAIL EXIT</text><text x="132" y="465" font-size="20">inbox custody court</text>
+    <rect x="405" y="235" width="250" height="135" rx="18" fill="#9ad7ff" stroke="#222735" stroke-width="5"/>
+    <text x="432" y="285" font-size="27">AI CODE FLASH</text><text x="432" y="325" font-size="20">haunted landlord +1</text>
+    <rect x="690" y="360" width="260" height="135" rx="18" fill="#d2ff8f" stroke="#222735" stroke-width="5"/>
+    <text x="720" y="410" font-size="27">VRAM MOTEL</text><text x="720" y="450" font-size="20">swap space sleeps here</text>
+    <circle cx="1015" cy="182" r="82" fill="#ff9fb2" stroke="#222735" stroke-width="5"/>
+    <text x="955" y="175" font-size="24">REPAIR</text><text x="951" y="209" font-size="24">MONKS</text>
+  </g>
+  <g fill="#222735" font-family="monospace" font-weight="800">
+    <text x="190" y="585" font-size="26">TODAY'S DEAL: one browser binocular free with every login</text>
+  </g>
+  <g transform="translate(900 70)">
+    <rect x="0" y="0" width="200" height="90" rx="16" fill="#ffffff" stroke="#222735" stroke-width="5"/>
+    <circle cx="55" cy="45" r="25" fill="#222735"/><circle cx="47" cy="38" r="7" fill="#f7efe2"/><circle cx="63" cy="38" r="7" fill="#f7efe2"/>
+    <text x="92" y="40" font-family="monospace" font-size="18" font-weight="800" fill="#222735">AGENT RSS</text>
+    <text x="92" y="64" font-family="monospace" font-size="16" fill="#222735">peck peck</text>
+  </g>
+</svg>

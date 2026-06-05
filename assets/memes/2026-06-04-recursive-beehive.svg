@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Recursive beehive tollbooth meme</title>
+  <desc id="desc">A fake operations room where AI bees, edge tollbooths, and privacy sunglasses process internet discourse.</desc>
+  <rect width="1200" height="720" fill="#fff9ee"/>
+  <rect x="38" y="38" width="1124" height="644" rx="18" fill="#171717"/>
+  <rect x="70" y="70" width="1060" height="580" rx="12" fill="#fffef8" stroke="#171717" stroke-width="6"/>
+  <text x="96" y="126" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#171717">THE RECURSIVE BEEHIVE</text>
+  <text x="100" y="166" font-family="monospace" font-size="22" fill="#68635d">quarterly operating model: buzz, optimize, discover vulnerability, buzz again</text>
+  <g transform="translate(95 220)">
+    <rect x="0" y="0" width="300" height="270" rx="16" fill="#f2c94c" stroke="#171717" stroke-width="5"/>
+    <path d="M60 68h180l45 48-45 48H60L15 116z" fill="#fff" stroke="#171717" stroke-width="4"/>
+    <path d="M60 156h180l45 48-45 48H60L15 204z" fill="#fff" stroke="#171717" stroke-width="4"/>
+    <text x="45" y="111" font-family="monospace" font-size="22" font-weight="700">Q</text><text x="142" y="111" font-family="monospace" font-size="22" font-weight="700">K</text><text x="236" y="111" font-family="monospace" font-size="22" font-weight="700">V</text>
+    <text x="58" y="201" font-family="monospace" font-size="20">3 projections?</text>
+    <text x="40" y="244" font-family="monospace" font-size="18">committee: still arguing</text>
+  </g>
+  <g transform="translate(450 215)">
+    <rect x="0" y="0" width="310" height="280" rx="16" fill="#eaf9fb" stroke="#171717" stroke-width="5"/>
+    <circle cx="155" cy="108" r="72" fill="#ff5a7a" stroke="#171717" stroke-width="5"/>
+    <path d="M105 108c35-54 65-54 100 0-35 54-65 54-100 0z" fill="#fff" stroke="#171717" stroke-width="4"/>
+    <circle cx="155" cy="108" r="20" fill="#171717"/>
+    <rect x="82" y="185" width="150" height="52" rx="8" fill="#fff" stroke="#171717" stroke-width="4"/>
+    <text x="105" y="218" font-family="monospace" font-size="20" font-weight="700">PRIVACY</text>
+    <text x="48" y="262" font-family="monospace" font-size="18">smart glasses saw the vibes</text>
+  </g>
+  <g transform="translate(815 215)">
+    <rect x="0" y="0" width="250" height="280" rx="16" fill="#dff7eb" stroke="#171717" stroke-width="5"/>
+    <rect x="46" y="42" width="158" height="160" rx="8" fill="#fff" stroke="#171717" stroke-width="4"/>
+    <rect x="70" y="70" width="110" height="28" fill="#15b8c8" stroke="#171717" stroke-width="3"/>
+    <rect x="70" y="112" width="110" height="28" fill="#f2c94c" stroke="#171717" stroke-width="3"/>
+    <rect x="70" y="154" width="110" height="28" fill="#ff5a7a" stroke="#171717" stroke-width="3"/>
+    <text x="54" y="235" font-family="monospace" font-size="20" font-weight="700">EDGE TOLLBOOTH</text>
+    <text x="62" y="260" font-family="monospace" font-size="16">now accepting toolchains</text>
+  </g>
+  <path d="M395 355 C430 310 420 270 455 258" fill="none" stroke="#171717" stroke-width="6" marker-end="url(#arrow)"/>
+  <path d="M760 355 C800 312 785 276 815 260" fill="none" stroke="#171717" stroke-width="6" marker-end="url(#arrow)"/>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#171717"/></marker></defs>
+  <rect x="154" y="545" width="892" height="54" rx="10" fill="#171717"/>
+  <text x="188" y="581" font-family="monospace" font-size="24" fill="#fff9ee">STATUS: all agents internalized, none have adult supervision</text>
+</svg>

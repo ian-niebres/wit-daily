@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Serializable pancake dread dashboard</title>
+  <desc id="desc">A fake operations dashboard where a pancake stack, a database lock, AI taste agents, and sports confetti share one incident room.</desc>
+  <rect width="1200" height="720" rx="36" fill="#111827"/>
+  <rect x="48" y="48" width="1104" height="624" rx="28" fill="#f8fafc" stroke="#0f172a" stroke-width="8"/>
+  <text x="92" y="118" font-family="ui-monospace, Menlo, monospace" font-size="34" font-weight="800" fill="#0f172a">MOOD OPS: SERIALIZABLE PANCAKE</text>
+  <rect x="92" y="154" width="480" height="428" rx="24" fill="#fff7ed" stroke="#fb923c" stroke-width="6"/>
+  <ellipse cx="332" cy="434" rx="168" ry="42" fill="#f59e0b"/>
+  <ellipse cx="332" cy="370" rx="188" ry="50" fill="#fbbf24" stroke="#92400e" stroke-width="5"/>
+  <ellipse cx="332" cy="312" rx="164" ry="44" fill="#fde68a" stroke="#92400e" stroke-width="5"/>
+  <rect x="284" y="210" width="96" height="78" rx="10" fill="#fef3c7" stroke="#92400e" stroke-width="5"/>
+  <text x="332" y="260" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="24" font-weight="900" fill="#92400e">LOCK</text>
+  <path d="M515 248 C590 250 606 326 546 352" fill="none" stroke="#ef4444" stroke-width="9" stroke-linecap="round"/>
+  <text x="540" y="226" font-family="ui-monospace, Menlo, monospace" font-size="22" font-weight="800" fill="#b91c1c">do we fear bugs?</text>
+  <rect x="628" y="154" width="430" height="112" rx="20" fill="#e0f2fe" stroke="#0284c7" stroke-width="5"/>
+  <text x="650" y="198" font-family="ui-monospace, Menlo, monospace" font-size="25" font-weight="800" fill="#075985">TASTE AGENT</text>
+  <text x="650" y="235" font-family="ui-monospace, Menlo, monospace" font-size="22" fill="#075985">rejecting generic slop...</text>
+  <rect x="628" y="300" width="430" height="112" rx="20" fill="#ede9fe" stroke="#7c3aed" stroke-width="5"/>
+  <text x="650" y="344" font-family="ui-monospace, Menlo, monospace" font-size="25" font-weight="800" fill="#4c1d95">CAREER DREAD</text>
+  <text x="650" y="381" font-family="ui-monospace, Menlo, monospace" font-size="22" fill="#4c1d95">+741 comments, no patch</text>
+  <rect x="628" y="446" width="430" height="112" rx="20" fill="#dcfce7" stroke="#16a34a" stroke-width="5"/>
+  <text x="650" y="490" font-family="ui-monospace, Menlo, monospace" font-size="25" font-weight="800" fill="#14532d">SPORTS CONFETTI</text>
+  <text x="650" y="527" font-family="ui-monospace, Menlo, monospace" font-size="22" fill="#14532d">golf / NBA / UFC / IndyCar</text>
+  <circle cx="1054" cy="164" r="14" fill="#ef4444"/><circle cx="1092" cy="204" r="14" fill="#3b82f6"/><circle cx="1078" cy="550" r="14" fill="#f59e0b"/>
+  <text x="92" y="634" font-family="ui-monospace, Menlo, monospace" font-size="28" font-weight="800" fill="#0f172a">STATUS: everyone wants speed, taste, and emotional isolation level</text>
+</svg>

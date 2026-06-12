@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Package manager storm cellar</title>
+  <desc id="desc">A fake weather dashboard where Homebrew taps, agent skill kiosks, prompt museums, solar panels, and sports radar share one storm cellar.</desc>
+  <rect width="1200" height="760" rx="32" fill="#151822"/>
+  <rect x="48" y="48" width="1104" height="664" rx="28" fill="#f6ead7" stroke="#2b2f3a" stroke-width="8"/>
+  <text x="86" y="115" font-family="monospace" font-size="42" font-weight="700" fill="#151822">PUBLIC MOOD RADAR: TAP TRUST WARNING</text>
+  <rect x="86" y="155" width="470" height="405" rx="24" fill="#273047"/>
+  <path d="M150 482 C230 370 330 410 420 292 C458 244 505 230 530 214" fill="none" stroke="#8ee6a8" stroke-width="20" stroke-linecap="round" opacity=".85"/>
+  <path d="M130 500 C220 455 305 505 390 442 C460 390 500 370 532 328" fill="none" stroke="#ffcf5a" stroke-width="16" stroke-linecap="round" opacity=".9"/>
+  <path d="M118 358 C224 318 276 244 368 250 C450 255 491 202 535 178" fill="none" stroke="#ff6b6b" stroke-width="12" stroke-linecap="round" opacity=".9"/>
+  <circle cx="256" cy="330" r="76" fill="none" stroke="#ffffff" stroke-width="4" opacity=".55"/>
+  <circle cx="256" cy="330" r="132" fill="none" stroke="#ffffff" stroke-width="3" opacity=".35"/>
+  <circle cx="256" cy="330" r="190" fill="none" stroke="#ffffff" stroke-width="2" opacity=".25"/>
+  <text x="122" y="205" font-family="monospace" font-size="26" fill="#f6ead7">STORM TRACK</text>
+  <text x="122" y="540" font-family="monospace" font-size="25" fill="#f6ead7">radar says: dependency weather</text>
+  <rect x="620" y="155" width="470" height="405" rx="24" fill="#ffffff" stroke="#151822" stroke-width="6"/>
+  <g font-family="monospace" font-size="28" fill="#151822">
+    <text x="660" y="215">CELLAR INVENTORY</text>
+    <text x="660" y="275">✓ Homebrew tap trust</text>
+    <text x="660" y="325">✓ prompt museum turnstile</text>
+    <text x="660" y="375">✓ SkillSpector metal detector</text>
+    <text x="660" y="425">✓ solar confetti bucket</text>
+    <text x="660" y="475">✗ calm adult supervision</text>
+  </g>
+  <rect x="130" y="610" width="940" height="58" rx="29" fill="#151822"/>
+  <text x="174" y="648" font-family="monospace" font-size="27" fill="#f6ead7">forecast: 70% chance of installing one more tiny intern</text>
+</svg>

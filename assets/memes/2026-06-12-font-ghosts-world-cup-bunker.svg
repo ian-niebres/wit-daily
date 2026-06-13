@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Font ghosts and coding agents watch the World Cup bunker</title>
+  <desc id="desc">A fake control room dashboard mixing font ghosts, coding agents, codec zero-day bees, CRISPR scissors, and World Cup confetti.</desc>
+  <rect width="1200" height="720" fill="#10131f"/>
+  <rect x="55" y="55" width="1090" height="610" rx="34" fill="#181d2f" stroke="#7bdff2" stroke-width="4"/>
+  <text x="95" y="112" font-family="monospace" font-size="36" fill="#f7f3cf">WORLD CUP BUNKER / FRONT PAGE OPS</text>
+  <rect x="90" y="150" width="480" height="380" rx="24" fill="#222947" stroke="#f2c14e" stroke-width="3"/>
+  <text x="125" y="205" font-family="monospace" font-size="28" fill="#f2c14e">FONT GHOST RADAR</text>
+  <circle cx="330" cy="355" r="120" fill="none" stroke="#7bdff2" stroke-width="4" opacity=".75"/>
+  <circle cx="330" cy="355" r="70" fill="none" stroke="#7bdff2" stroke-width="3" opacity=".55"/>
+  <path d="M330 355 L450 295" stroke="#ef476f" stroke-width="6" stroke-linecap="round"/>
+  <text x="155" y="610" font-family="monospace" font-size="25" fill="#f7f3cf">TrueType hinting: haunted but migrated</text>
+  <g font-family="monospace" font-weight="700" text-anchor="middle">
+    <path d="M240 290 q35 -80 70 0 v75 q-35 -30 -70 0z" fill="#f7f3cf" opacity=".95"/>
+    <circle cx="268" cy="320" r="8" fill="#10131f"/><circle cx="298" cy="320" r="8" fill="#10131f"/>
+    <text x="270" y="412" font-size="22" fill="#f7f3cf">FONT</text>
+    <path d="M410 390 q30 -70 60 0 v65 q-30 -26 -60 0z" fill="#f7f3cf" opacity=".9"/>
+    <circle cx="433" cy="417" r="7" fill="#10131f"/><circle cx="459" cy="417" r="7" fill="#10131f"/>
+    <text x="440" y="502" font-size="22" fill="#f7f3cf">GHOST</text>
+  </g>
+  <rect x="625" y="150" width="475" height="175" rx="24" fill="#202846" stroke="#8bd3dd" stroke-width="3"/>
+  <text x="655" y="205" font-family="monospace" font-size="27" fill="#8bd3dd">LOCAL CODING AGENT</text>
+  <rect x="665" y="230" width="170" height="52" rx="12" fill="#111827" stroke="#9ef01a"/>
+  <text x="685" y="264" font-family="monospace" font-size="20" fill="#9ef01a">BUNKER MODE</text>
+  <text x="865" y="264" font-family="monospace" font-size="20" fill="#f7f3cf">asks for more RAM and a badge</text>
+  <rect x="625" y="355" width="475" height="175" rx="24" fill="#202846" stroke="#ef476f" stroke-width="3"/>
+  <text x="655" y="410" font-family="monospace" font-size="27" fill="#ef476f">FFMPEG ZERO-DAY BEES</text>
+  <g fill="#f2c14e" stroke="#10131f" stroke-width="3">
+    <ellipse cx="720" cy="470" rx="28" ry="18"/><ellipse cx="815" cy="455" rx="28" ry="18"/><ellipse cx="910" cy="480" rx="28" ry="18"/>
+  </g>
+  <g stroke="#f7f3cf" stroke-width="3"><path d="M690 450 l-32 -24"/><path d="M845 438 l34 -28"/><path d="M938 458 l38 -20"/></g>
+  <text x="655" y="595" font-family="monospace" font-size="25" fill="#f7f3cf">CRISPR scissors + opening ceremony confetti = normal Friday</text>
+  <g fill="#ef476f"><circle cx="1010" cy="98" r="8"/><circle cx="1045" cy="125" r="6"/><circle cx="1082" cy="92" r="7"/><circle cx="1115" cy="135" r="5"/></g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence locker nostalgia dashboard</title>
+  <desc id="desc">A satirical control room where statistical noise, frame-perfect monks, AI evidence, model weather, and football prophecy are tagged as exhibits.</desc>
+  <rect width="1200" height="680" fill="#11131f"/>
+  <rect x="50" y="45" width="1100" height="590" rx="34" fill="#f7efe1" stroke="#25283d" stroke-width="8"/>
+  <text x="90" y="105" font-family="monospace" font-size="34" font-weight="700" fill="#25283d">PUBLIC INTERNET EVIDENCE LOCKER</text>
+  <text x="90" y="143" font-family="monospace" font-size="18" fill="#6b5f55">chain of custody: front page → vibes → spreadsheet → questionable prophecy</text>
+  <rect x="90" y="185" width="305" height="170" rx="20" fill="#dff3ff" stroke="#25283d" stroke-width="5"/>
+  <text x="118" y="230" font-family="monospace" font-size="25" font-weight="700" fill="#25283d">STATISTICS</text>
+  <text x="118" y="270" font-family="monospace" font-size="22" fill="#25283d">noise infusion</text>
+  <text x="118" y="304" font-family="monospace" font-size="22" fill="#25283d">removed from soup</text>
+  <path d="M320 215 l45 25 l-45 25 z" fill="#ff6b6b"/>
+  <rect x="448" y="185" width="305" height="170" rx="20" fill="#fff0b8" stroke="#25283d" stroke-width="5"/>
+  <text x="476" y="230" font-family="monospace" font-size="25" font-weight="700" fill="#25283d">RENDERING MONKS</text>
+  <circle cx="525" cy="292" r="30" fill="#25283d"/><circle cx="610" cy="292" r="30" fill="#25283d"/><circle cx="695" cy="292" r="30" fill="#25283d"/>
+  <text x="500" y="340" font-family="monospace" font-size="18" fill="#25283d">every frame perfect or exile</text>
+  <rect x="805" y="185" width="305" height="170" rx="20" fill="#e9ddff" stroke="#25283d" stroke-width="5"/>
+  <text x="833" y="230" font-family="monospace" font-size="25" font-weight="700" fill="#25283d">MODEL WEATHER</text>
+  <path d="M850 295 q70-90 145 0 q55-55 90 10" fill="none" stroke="#25283d" stroke-width="9" stroke-linecap="round"/>
+  <text x="840" y="340" font-family="monospace" font-size="18" fill="#25283d">crackdown fog, GPU incense</text>
+  <rect x="90" y="405" width="305" height="150" rx="20" fill="#ffd6d6" stroke="#25283d" stroke-width="5"/>
+  <text x="118" y="450" font-family="monospace" font-size="24" font-weight="700" fill="#25283d">AI EVIDENCE</text>
+  <text x="118" y="493" font-family="monospace" font-size="22" fill="#25283d">please do not</text>
+  <text x="118" y="525" font-family="monospace" font-size="22" fill="#25283d">generate Exhibit B</text>
+  <rect x="448" y="405" width="305" height="150" rx="20" fill="#dfffe7" stroke="#25283d" stroke-width="5"/>
+  <text x="476" y="450" font-family="monospace" font-size="24" font-weight="700" fill="#25283d">RETRO HARDWARE</text>
+  <rect x="530" y="475" width="142" height="55" rx="8" fill="#25283d"/><rect x="548" y="489" width="70" height="27" fill="#9be7ff"/><circle cx="645" cy="503" r="12" fill="#ffcf56"/>
+  <rect x="805" y="405" width="305" height="150" rx="20" fill="#e8f0ff" stroke="#25283d" stroke-width="5"/>
+  <text x="833" y="450" font-family="monospace" font-size="24" font-weight="700" fill="#25283d">FOOTBALL PROPHECY</text>
+  <text x="833" y="493" font-family="monospace" font-size="22" fill="#25283d">Zidane/Bellingham</text>
+  <text x="833" y="525" font-family="monospace" font-size="22" fill="#25283d">searched into weather</text>
+  <text x="90" y="604" font-family="monospace" font-size="24" font-weight="700" fill="#25283d">FUND ACTION: earmark tiny Monday orders; call it risk management with a lunchbox.</text>
+</svg>

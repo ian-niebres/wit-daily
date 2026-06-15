@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Offline bunker carbonara magistrate meme</title>
+  <desc id="desc">A satirical control room where an offline web bunker, an ePub courtroom, AI fog, and sports sirens feed a front-page mood meter.</desc>
+  <rect width="960" height="540" fill="#111827"/>
+  <rect x="36" y="36" width="888" height="468" rx="28" fill="#f8fafc"/>
+  <text x="70" y="90" font-family="monospace" font-size="28" font-weight="700" fill="#111827">SUNDAY FRONT-PAGE EMERGENCY ROOM</text>
+  <g font-family="monospace" font-size="20" fill="#111827">
+    <rect x="70" y="130" width="250" height="145" rx="18" fill="#dbeafe" stroke="#1d4ed8" stroke-width="4"/>
+    <text x="96" y="170">OFFLINE WEB</text><text x="96" y="200">BUNKER</text><text x="96" y="240" font-size="16">single binary,</text><text x="96" y="262" font-size="16">no vibes outside</text>
+    <rect x="355" y="130" width="250" height="145" rx="18" fill="#fef3c7" stroke="#b45309" stroke-width="4"/>
+    <text x="385" y="170">EPUB COURT</text><text x="385" y="200">+ CARBONARA</text><text x="385" y="240" font-size="16">authenticity bailiff</text>
+    <rect x="640" y="130" width="220" height="145" rx="18" fill="#fee2e2" stroke="#b91c1c" stroke-width="4"/>
+    <text x="670" y="170">AI FOG</text><text x="670" y="200">HEARING</text><text x="670" y="240" font-size="16">model origin?</text>
+    <path d="M195 285 L195 335 L480 335" stroke="#111827" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+    <path d="M480 285 L480 335" stroke="#111827" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+    <path d="M750 285 L750 335 L480 335" stroke="#111827" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+    <rect x="250" y="350" width="460" height="88" rx="18" fill="#dcfce7" stroke="#15803d" stroke-width="4"/>
+    <text x="300" y="386">MOOD METER: BUNKERED</text>
+    <text x="300" y="418" font-size="16">sports sirens + clone malls + formal methods incense</text>
+    <circle cx="780" cy="390" r="40" fill="#e0e7ff" stroke="#4338ca" stroke-width="4"/>
+    <text x="747" y="398" font-size="18">POLL</text>
+    <text x="720" y="460" font-size="15" fill="#475569">confidence: 66%, legally a soup</text>
+  </g>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#111827"/></marker></defs>
+</svg>

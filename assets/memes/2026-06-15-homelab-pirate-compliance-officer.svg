@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Homelab pirate compliance officer mood board</title>
+  <desc id="desc">A cartoon dashboard where a homelab, pirate ship, LinkedIn trapdoor, support desk, and mortgage baseball siren feed a compliance cannon.</desc>
+  <rect width="960" height="540" fill="#10131f"/>
+  <rect x="42" y="38" width="876" height="464" rx="28" fill="#181d2f" stroke="#8be9fd" stroke-width="3"/>
+  <text x="80" y="88" fill="#f8f8f2" font-family="monospace" font-size="30" font-weight="700">PUBLIC INTERNET MOOD CONSOLE</text>
+  <text x="80" y="124" fill="#bd93f9" font-family="monospace" font-size="17">mode: homelab pirate compliance</text>
+  <g transform="translate(85 165)">
+    <rect width="210" height="150" rx="18" fill="#222946" stroke="#50fa7b"/>
+    <text x="22" y="38" fill="#50fa7b" font-family="monospace" font-size="19" font-weight="700">LOCAL MODEL</text>
+    <text x="22" y="70" fill="#f8f8f2" font-family="monospace" font-size="16">replaced cloud?</text>
+    <text x="22" y="100" fill="#ffb86c" font-family="monospace" font-size="15">tok/s: vibes</text>
+    <circle cx="168" cy="104" r="24" fill="#44475a"/><text x="154" y="111" fill="#f8f8f2" font-family="monospace" font-size="19">GPU</text>
+  </g>
+  <g transform="translate(375 150)">
+    <path d="M30 120 C80 25 160 20 220 120 Z" fill="#2b3156" stroke="#ff79c6" stroke-width="3"/>
+    <rect x="72" y="118" width="105" height="55" fill="#3b426f" stroke="#ff79c6"/>
+    <text x="62" y="72" fill="#f8f8f2" font-family="monospace" font-size="18" font-weight="700">P2P PIRATE</text>
+    <text x="82" y="148" fill="#8be9fd" font-family="monospace" font-size="15">IROH 1.0</text>
+    <path d="M128 26 L128 6 L168 26 Z" fill="#f1fa8c"/>
+  </g>
+  <g transform="translate(665 165)">
+    <rect width="210" height="150" rx="18" fill="#222946" stroke="#ff5555"/>
+    <text x="22" y="38" fill="#ff5555" font-family="monospace" font-size="19" font-weight="700">JOB OFFER</text>
+    <text x="22" y="70" fill="#f8f8f2" font-family="monospace" font-size="16">contains:</text>
+    <text x="22" y="100" fill="#ffb86c" font-family="monospace" font-size="20">TRAPDOOR</text>
+    <path d="M142 88 l42 0 l-20 34 z" fill="#ff5555"/>
+  </g>
+  <path d="M300 238 C335 230 345 230 375 225" stroke="#f1fa8c" stroke-width="4" fill="none" stroke-dasharray="8 8"/>
+  <path d="M610 235 C635 230 640 230 665 235" stroke="#f1fa8c" stroke-width="4" fill="none" stroke-dasharray="8 8"/>
+  <g transform="translate(215 365)">
+    <rect width="530" height="74" rx="20" fill="#282a36" stroke="#f1fa8c"/>
+    <text x="28" y="31" fill="#f1fa8c" font-family="monospace" font-size="18" font-weight="700">COMPLIANCE CANNON INPUTS</text>
+    <text x="28" y="56" fill="#f8f8f2" font-family="monospace" font-size="15">support desk merger • mortgage sigh • baseball siren • reddit glass</text>
+  </g>
+</svg>

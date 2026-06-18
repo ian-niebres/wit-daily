@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Agent binoculars robot weather desk</title>
+  <desc id="desc">A satirical control desk where agent binoculars watch a sprinting robot, a GPU cloud, codebase memory, and baseball sirens.</desc>
+  <rect width="900" height="520" rx="28" fill="#10131f"/>
+  <rect x="36" y="36" width="828" height="448" rx="22" fill="#f5efe1" stroke="#22263a" stroke-width="6"/>
+  <text x="70" y="92" font-family="monospace" font-size="30" font-weight="700" fill="#202235">ROBOT WEATHER DESK</text>
+  <text x="650" y="92" font-family="monospace" font-size="18" fill="#6d2438">LIVE FROM HN</text>
+  <rect x="72" y="125" width="270" height="150" rx="18" fill="#d9ecff" stroke="#202235" stroke-width="4"/>
+  <circle cx="150" cy="198" r="44" fill="#1c2745"/><circle cx="260" cy="198" r="44" fill="#1c2745"/>
+  <rect x="150" y="180" width="110" height="36" fill="#1c2745"/>
+  <circle cx="150" cy="198" r="19" fill="#75f0ff"/><circle cx="260" cy="198" r="19" fill="#75f0ff"/>
+  <text x="101" y="258" font-family="monospace" font-size="20" fill="#202235">AGENT-REACH</text>
+  <rect x="390" y="125" width="190" height="150" rx="18" fill="#fff7c7" stroke="#202235" stroke-width="4"/>
+  <path d="M455 230 l35-78 l35 78" fill="none" stroke="#c24b39" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="490" cy="168" r="17" fill="#c24b39"/>
+  <text x="417" y="258" font-family="monospace" font-size="18" fill="#202235">ROBOT SPRINT</text>
+  <rect x="626" y="125" width="190" height="150" rx="18" fill="#e6dbff" stroke="#202235" stroke-width="4"/>
+  <path d="M665 210 C655 150 715 145 725 178 C745 145 803 170 780 215 Z" fill="#ffffff" stroke="#202235" stroke-width="4"/>
+  <text x="660" y="258" font-family="monospace" font-size="18" fill="#202235">GPU CLOUD</text>
+  <rect x="72" y="315" width="744" height="112" rx="18" fill="#202235"/>
+  <text x="105" y="355" font-family="monospace" font-size="22" fill="#75f0ff">SIGNALS: codebase memory + open weights + DeepSeek paperwork</text>
+  <text x="105" y="392" font-family="monospace" font-size="22" fill="#ffd166">CONSUMER WEATHER: baseball siren / survival finale / haunted TV bay</text>
+  <path d="M100 455 H780" stroke="#c24b39" stroke-width="8" stroke-linecap="round"/>
+  <text x="310" y="475" font-family="monospace" font-size="20" fill="#6d2438">MARKET VERDICT: STOOQ 404 AGAIN</text>
+</svg>

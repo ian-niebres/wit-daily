@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">The nuclear mailbox has submitted itself to the sneaker economy</title>
+  <desc id="desc">A satirical control room combining nuclear policy, malware repos, slow Outlook, agent graphs, and signature sneakers.</desc>
+  <rect width="960" height="540" fill="#101827"/>
+  <rect x="40" y="38" width="880" height="464" rx="28" fill="#18243a" stroke="#7dd3fc" stroke-width="3"/>
+  <text x="80" y="92" fill="#e5f7ff" font-family="monospace" font-size="28" font-weight="700">PUBLIC INTERNET MOOD REACTOR</text>
+  <text x="80" y="126" fill="#93c5fd" font-family="monospace" font-size="15">2026-06-18 · all gauges fake, vibes unfortunately real</text>
+  <g transform="translate(82 165)">
+    <path d="M70 190 C85 80 115 80 130 190 Z" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="4"/>
+    <path d="M35 200 H165 L150 245 H50 Z" fill="#64748b"/>
+    <circle cx="100" cy="94" r="22" fill="#bae6fd" opacity=".8"/>
+    <text x="100" y="285" text-anchor="middle" fill="#f8fafc" font-family="monospace" font-size="20">NUCLEAR</text>
+  </g>
+  <g transform="translate(300 170)">
+    <rect x="0" y="35" width="210" height="140" rx="18" fill="#f8fafc" stroke="#38bdf8" stroke-width="4"/>
+    <path d="M18 55 L105 115 L192 55" fill="none" stroke="#0f172a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="105" y="208" text-anchor="middle" fill="#f8fafc" font-family="monospace" font-size="20">OUTLOOK: 10s</text>
+    <rect x="36" y="82" width="138" height="20" rx="10" fill="#cbd5e1"/>
+    <rect x="36" y="82" width="32" height="20" rx="10" fill="#fb7185"/>
+  </g>
+  <g transform="translate(590 154)">
+    <path d="M50 72 C95 38 150 40 190 78 C151 82 121 96 100 126 C80 103 64 88 50 72 Z" fill="#60a5fa"/>
+    <path d="M96 124 C132 106 182 110 214 146 C164 145 126 158 98 188 C86 162 84 141 96 124 Z" fill="#2563eb"/>
+    <path d="M44 198 C96 184 154 188 224 214 L210 254 C146 232 88 228 30 238 Z" fill="#f8fafc"/>
+    <text x="132" y="292" text-anchor="middle" fill="#f8fafc" font-family="monospace" font-size="20">SNEAKER FUTURES</text>
+  </g>
+  <g stroke="#facc15" stroke-width="5" stroke-linecap="round" fill="none">
+    <path d="M240 282 C285 248 308 245 330 245"/>
+    <path d="M520 245 C555 230 575 226 610 226"/>
+  </g>
+  <g transform="translate(86 392)">
+    <rect x="0" y="0" width="790" height="70" rx="14" fill="#0f172a" stroke="#475569"/>
+    <text x="22" y="30" fill="#fecaca" font-family="monospace" font-size="18">REPO HAZMAT: 10k trojans blinking near the clone button</text>
+    <text x="22" y="56" fill="#bbf7d0" font-family="monospace" font-size="18">AGENT GRAPH: insists this is a knowledge product</text>
+  </g>
+</svg>

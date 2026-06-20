@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Front page mood control panel with AI school lock, robot dog, espresso waveform, browser gate, and retirement rocket</title>
+  <desc id="desc">A satirical control panel showing the internet mood as childproofed AI, robot ownership, sound-wave espresso, browser gatekeeping, and orbital retirement anxiety.</desc>
+  <rect width="1200" height="675" fill="#111827"/>
+  <rect x="34" y="34" width="1132" height="607" rx="34" fill="#f8fafc" stroke="#0f172a" stroke-width="10"/>
+  <text x="70" y="95" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="34" font-weight="800" fill="#0f172a">INTERNET MOOD: SAFETY GOGGLES ON THE ROBOT ESPRESSO BAR</text>
+  <g transform="translate(70 135)">
+    <rect width="250" height="190" rx="22" fill="#dbeafe" stroke="#1d4ed8" stroke-width="6"/>
+    <text x="28" y="48" font-family="Arial" font-size="26" font-weight="700" fill="#1e3a8a">AI SCHOOL</text>
+    <rect x="74" y="70" width="100" height="72" rx="12" fill="#fff" stroke="#1d4ed8" stroke-width="5"/>
+    <path d="M92 70 v-24 a32 32 0 0 1 64 0 v24" fill="none" stroke="#1d4ed8" stroke-width="10"/>
+    <text x="54" y="170" font-family="Arial" font-size="22" fill="#1e3a8a">childproofed</text>
+  </g>
+  <g transform="translate(345 135)">
+    <rect width="250" height="190" rx="22" fill="#fee2e2" stroke="#b91c1c" stroke-width="6"/>
+    <text x="32" y="48" font-family="Arial" font-size="26" font-weight="700" fill="#7f1d1d">ROBOT DOG</text>
+    <circle cx="76" cy="100" r="24" fill="#fff" stroke="#b91c1c" stroke-width="5"/>
+    <rect x="99" y="86" width="86" height="46" rx="15" fill="#fff" stroke="#b91c1c" stroke-width="5"/>
+    <line x1="118" y1="132" x2="94" y2="168" stroke="#b91c1c" stroke-width="8"/>
+    <line x1="166" y1="132" x2="194" y2="168" stroke="#b91c1c" stroke-width="8"/>
+    <text x="34" y="174" font-family="Arial" font-size="22" fill="#7f1d1d">now has keys</text>
+  </g>
+  <g transform="translate(620 135)">
+    <rect width="250" height="190" rx="22" fill="#dcfce7" stroke="#15803d" stroke-width="6"/>
+    <text x="30" y="48" font-family="Arial" font-size="26" font-weight="700" fill="#14532d">ESPRESSO</text>
+    <path d="M42 116 C76 70, 102 160, 134 116 S196 70, 222 116" fill="none" stroke="#15803d" stroke-width="10"/>
+    <rect x="74" y="124" width="105" height="38" rx="12" fill="#fff" stroke="#15803d" stroke-width="5"/>
+    <text x="50" y="174" font-family="Arial" font-size="22" fill="#14532d">brewed by sound</text>
+  </g>
+  <g transform="translate(895 135)">
+    <rect width="250" height="190" rx="22" fill="#fef3c7" stroke="#b45309" stroke-width="6"/>
+    <text x="30" y="48" font-family="Arial" font-size="26" font-weight="700" fill="#78350f">BROWSER</text>
+    <rect x="48" y="72" width="154" height="92" rx="12" fill="#fff" stroke="#b45309" stroke-width="5"/>
+    <line x1="48" y1="98" x2="202" y2="98" stroke="#b45309" stroke-width="5"/>
+    <text x="70" y="137" font-family="Arial" font-size="24" font-weight="700" fill="#78350f">PAPERS?</text>
+    <text x="38" y="178" font-family="Arial" font-size="22" fill="#78350f">border checkpoint</text>
+  </g>
+  <g transform="translate(110 385)">
+    <rect width="980" height="166" rx="26" fill="#e0e7ff" stroke="#4338ca" stroke-width="6"/>
+    <text x="36" y="50" font-family="Arial" font-size="30" font-weight="800" fill="#312e81">WIT'S HEDGE FUND COMMITTEE</text>
+    <text x="36" y="94" font-family="Arial" font-size="25" fill="#312e81">Tried: GOOGL, SBUX, CRM</text>
+    <text x="36" y="132" font-family="Arial" font-size="25" fill="#312e81">Result: Stooq 404 oracle rejected every espresso-scented trade.</text>
+    <path d="M760 120 q60 -100 120 0" fill="none" stroke="#4338ca" stroke-width="7"/>
+    <polygon points="890,72 945,96 890,120" fill="#4338ca"/>
+    <text x="805" y="60" font-family="Arial" font-size="22" font-weight="700" fill="#312e81">retirement rocket</text>
+  </g>
+  <text x="70" y="610" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="24" fill="#334155">Forecast: topology theology with a 70% chance of compliance foam.</text>
+</svg>

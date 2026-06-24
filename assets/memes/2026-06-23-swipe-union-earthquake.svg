@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Swipe Keyboard Union Earthquake</title>
+  <desc id="desc">A fake operating desk shows swipe keyboards, Apple package custody, union wizards, and an extreme heat meeting cancelled by heat.</desc>
+  <rect width="960" height="540" fill="#141018"/>
+  <rect x="36" y="36" width="888" height="468" rx="28" fill="#22172d" stroke="#f6d365" stroke-width="4"/>
+  <text x="70" y="88" fill="#f6d365" font-family="monospace" font-size="28" font-weight="700">HUMANITY v2026.6.23 CONTROL PANEL</text>
+  <g transform="translate(70 125)">
+    <rect width="360" height="230" rx="18" fill="#302044" stroke="#8bd3dd" stroke-width="3"/>
+    <text x="24" y="42" fill="#8bd3dd" font-family="monospace" font-size="22">INPUT METHOD</text>
+    <path d="M42 120 C90 70, 170 180, 255 88 S340 135, 318 190" fill="none" stroke="#ff8fab" stroke-width="14" stroke-linecap="round"/>
+    <g fill="#f7f0ff" font-family="monospace" font-size="24" font-weight="700">
+      <text x="48" y="190">S</text><text x="128" y="190">W</text><text x="208" y="190">I</text><text x="288" y="190">P</text><text x="328" y="190">E</text>
+    </g>
+    <text x="30" y="222" fill="#f7f0ff" font-family="monospace" font-size="16">keyboard becomes weather</text>
+  </g>
+  <g transform="translate(500 125)">
+    <rect width="360" height="230" rx="18" fill="#302044" stroke="#c3f584" stroke-width="3"/>
+    <text x="24" y="42" fill="#c3f584" font-family="monospace" font-size="22">COMPLIANCE OVEN</text>
+    <rect x="32" y="72" width="140" height="88" rx="12" fill="#50385f" stroke="#f6d365"/>
+    <text x="52" y="123" fill="#f6d365" font-family="monospace" font-size="18">HEAT</text>
+    <rect x="190" y="72" width="140" height="88" rx="12" fill="#50385f" stroke="#ff8fab"/>
+    <text x="204" y="112" fill="#ff8fab" font-family="monospace" font-size="15">CONFERENCE</text>
+    <line x1="172" y1="116" x2="190" y2="116" stroke="#f7f0ff" stroke-width="4" marker-end="url(#arrow)"/>
+    <text x="38" y="202" fill="#f7f0ff" font-family="monospace" font-size="16">cancelled by its own boss fight</text>
+  </g>
+  <g transform="translate(96 390)">
+    <rect width="180" height="58" rx="12" fill="#3a2a4f" stroke="#f7f0ff"/>
+    <text x="22" y="36" fill="#f7f0ff" font-family="monospace" font-size="18">APPLE PKG</text>
+    <rect x="220" width="180" height="58" rx="12" fill="#3a2a4f" stroke="#f7f0ff"/>
+    <text x="244" y="36" fill="#f7f0ff" font-family="monospace" font-size="18">RED SQUIGGLE</text>
+    <rect x="440" width="180" height="58" rx="12" fill="#3a2a4f" stroke="#f7f0ff"/>
+    <text x="474" y="36" fill="#f7f0ff" font-family="monospace" font-size="18">UNION WIZARDS</text>
+    <rect x="660" width="120" height="58" rx="12" fill="#3a2a4f" stroke="#f7f0ff"/>
+    <text x="685" y="36" fill="#f7f0ff" font-family="monospace" font-size="18">404 NAV</text>
+  </g>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#f7f0ff"/></marker></defs>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Scroll-chip Waffle House mood board</title>
+  <desc id="desc">A fake oracle dashboard connects an ancient scroll, a sub-nanometer chip, privacy paperwork, an agent CEO stack, and a Waffle House teleportation warning.</desc>
+  <rect width="960" height="540" fill="#130f1f"/>
+  <rect x="36" y="34" width="888" height="472" rx="28" fill="#211a35" stroke="#f3d36b" stroke-width="3"/>
+  <text x="68" y="82" fill="#f8e9b0" font-family="monospace" font-size="26" font-weight="700">INTERNET WEATHER DESK // 2026-06-25</text>
+  <rect x="70" y="116" width="245" height="150" rx="18" fill="#33264f" stroke="#8bd3ff"/>
+  <text x="92" y="154" fill="#8bd3ff" font-family="monospace" font-size="20" font-weight="700">ANCIENT SCROLL</text>
+  <path d="M112 194 C150 162, 210 230, 268 190" fill="none" stroke="#f8e9b0" stroke-width="14" stroke-linecap="round"/>
+  <text x="95" y="238" fill="#fff" font-family="monospace" font-size="17">finally read;</text>
+  <text x="95" y="260" fill="#fff" font-family="monospace" font-size="17">immediately made a thread</text>
+  <rect x="358" y="116" width="245" height="150" rx="18" fill="#33264f" stroke="#a7f58b"/>
+  <text x="382" y="154" fill="#a7f58b" font-family="monospace" font-size="20" font-weight="700">SUB-1nm CHIP</text>
+  <rect x="430" y="178" width="86" height="58" rx="8" fill="#101820" stroke="#a7f58b" stroke-width="4"/>
+  <path d="M410 191h-24M410 222h-24M516 191h24M516 222h24M450 166v-22M491 166v-22M450 236v22M491 236v22" stroke="#a7f58b" stroke-width="5"/>
+  <text x="383" y="260" fill="#fff" font-family="monospace" font-size="17">atoms now have OKRs</text>
+  <rect x="646" y="116" width="245" height="150" rx="18" fill="#33264f" stroke="#ff8fb3"/>
+  <text x="670" y="154" fill="#ff8fb3" font-family="monospace" font-size="20" font-weight="700">PAPERS PLEASE</text>
+  <rect x="708" y="176" width="118" height="72" rx="6" fill="#f8e9b0"/>
+  <path d="M727 198h80M727 218h58M727 238h72" stroke="#4b2b5f" stroke-width="6"/>
+  <text x="676" y="260" fill="#fff" font-family="monospace" font-size="17">privacy debuffed</text>
+  <path d="M192 284 C280 338, 388 332, 472 284" fill="none" stroke="#f3d36b" stroke-width="5" stroke-dasharray="10 10"/>
+  <path d="M480 284 C570 338, 682 332, 768 284" fill="none" stroke="#f3d36b" stroke-width="5" stroke-dasharray="10 10"/>
+  <rect x="90" y="330" width="220" height="110" rx="16" fill="#2b2145" stroke="#f3d36b"/>
+  <text x="112" y="366" fill="#f3d36b" font-family="monospace" font-size="19" font-weight="700">AGENT CEO STACK</text>
+  <text x="112" y="397" fill="#fff" font-family="monospace" font-size="16">CEO, QA, Doc Goblin</text>
+  <text x="112" y="421" fill="#fff" font-family="monospace" font-size="16">all requesting PTO</text>
+  <rect x="370" y="330" width="220" height="110" rx="16" fill="#2b2145" stroke="#f3d36b"/>
+  <text x="396" y="366" fill="#f3d36b" font-family="monospace" font-size="19" font-weight="700">WAFFLE HOUSE</text>
+  <text x="405" y="397" fill="#fff" font-family="monospace" font-size="16">teleportation claim</text>
+  <text x="405" y="421" fill="#fff" font-family="monospace" font-size="16">requires incident report</text>
+  <rect x="650" y="330" width="220" height="110" rx="16" fill="#2b2145" stroke="#f3d36b"/>
+  <text x="692" y="366" fill="#f3d36b" font-family="monospace" font-size="19" font-weight="700">FUND VERDICT</text>
+  <text x="676" y="397" fill="#fff" font-family="monospace" font-size="16">IBM/AAPL/CRM:</text>
+  <text x="704" y="421" fill="#ff8fb3" font-family="monospace" font-size="18" font-weight="700">STOOQ 404</text>
+</svg>

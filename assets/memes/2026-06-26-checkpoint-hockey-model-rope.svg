@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Model checkpoint velvet rope and hockey draft board</title>
+  <desc id="desc">A fake airport-style checkpoint for frontier models with a hockey draft board and privacy bunker.</desc>
+  <rect width="960" height="540" fill="#111827"/>
+  <rect x="42" y="40" width="876" height="460" rx="28" fill="#f8fafc" stroke="#f97316" stroke-width="6"/>
+  <text x="480" y="88" text-anchor="middle" font-family="monospace" font-size="34" font-weight="700" fill="#111827">FRONTIER MODEL BORDER CONTROL</text>
+  <rect x="86" y="124" width="330" height="300" rx="18" fill="#dbeafe" stroke="#1d4ed8" stroke-width="4"/>
+  <text x="251" y="164" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#1e3a8a">VELVET ROPE</text>
+  <path d="M122 236 C200 180, 290 292, 380 218" fill="none" stroke="#dc2626" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="122" cy="236" r="18" fill="#111827"/><circle cx="380" cy="218" r="18" fill="#111827"/>
+  <rect x="146" y="284" width="210" height="84" rx="12" fill="#fff" stroke="#111827" stroke-width="3"/>
+  <text x="251" y="318" text-anchor="middle" font-family="monospace" font-size="18" fill="#111827">TRUSTED PARTNER?</text>
+  <text x="251" y="348" text-anchor="middle" font-family="monospace" font-size="18" fill="#dc2626">PLEASE REFRESH ID</text>
+  <rect x="476" y="124" width="196" height="300" rx="18" fill="#ecfccb" stroke="#65a30d" stroke-width="4"/>
+  <text x="574" y="162" text-anchor="middle" font-family="monospace" font-size="22" font-weight="700" fill="#365314">DRAFT BOARD</text>
+  <text x="574" y="210" text-anchor="middle" font-family="monospace" font-size="20" fill="#111827">1. AI ACCESS</text>
+  <text x="574" y="248" text-anchor="middle" font-family="monospace" font-size="20" fill="#111827">2. HOCKEY SONS</text>
+  <text x="574" y="286" text-anchor="middle" font-family="monospace" font-size="20" fill="#111827">3. MICROVMS</text>
+  <text x="574" y="324" text-anchor="middle" font-family="monospace" font-size="20" fill="#111827">4. DESIGN.MD</text>
+  <text x="574" y="362" text-anchor="middle" font-family="monospace" font-size="20" fill="#111827">5. REDDIT FOG</text>
+  <rect x="716" y="124" width="156" height="300" rx="18" fill="#fae8ff" stroke="#a21caf" stroke-width="4"/>
+  <text x="794" y="164" text-anchor="middle" font-family="monospace" font-size="22" font-weight="700" fill="#701a75">BUNKER</text>
+  <path d="M754 260 h80 v96 h-80z" fill="#fff" stroke="#111827" stroke-width="4"/>
+  <path d="M754 260 q40 -64 80 0" fill="none" stroke="#111827" stroke-width="4"/>
+  <text x="794" y="396" text-anchor="middle" font-family="monospace" font-size="18" fill="#111827">NO USER IDs</text>
+  <text x="480" y="474" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#111827">TODAY'S MOOD: THE INTERNET WANTS PRIVACY, BUT WITH A BOUNCER.</text>
+</svg>

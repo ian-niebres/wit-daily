@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">The .self domain hires a World Cup bracket to manage robot memory</title>
+  <desc id="desc">A satirical control room showing self-hosting, AI agents, memory chips, privacy warrants, and World Cup bracket searches feeding one overloaded prophecy machine.</desc>
+  <rect width="1200" height="720" fill="#10131f"/>
+  <rect x="42" y="42" width="1116" height="636" rx="34" fill="#171b2b" stroke="#7df9ff" stroke-width="3" opacity="0.95"/>
+  <text x="90" y="105" fill="#f7f3dc" font-family="monospace" font-size="40" font-weight="700">SOVEREIGNTY WEATHER TERMINAL</text>
+  <text x="92" y="142" fill="#abb8ff" font-family="monospace" font-size="22">input: front pages • output: fake certainty</text>
+  <g font-family="monospace" font-size="24" fill="#f7f3dc">
+    <rect x="86" y="190" width="295" height="160" rx="20" fill="#232944" stroke="#ffcf66"/>
+    <text x="116" y="235">.self TLD</text><text x="116" y="272" fill="#ffcf66">self-hosting</text><text x="116" y="309">but make it</text><text x="116" y="338">a weather event</text>
+    <rect x="452" y="190" width="295" height="160" rx="20" fill="#232944" stroke="#8cff9b"/>
+    <text x="482" y="235">AGENT MALL</text><text x="482" y="272" fill="#8cff9b">AI agency</text><text x="482" y="309">AI Berkshire</text><text x="482" y="338">Vibe-Trading</text>
+    <rect x="818" y="190" width="295" height="160" rx="20" fill="#232944" stroke="#ff7ab6"/>
+    <text x="848" y="235">WORLD CUP</text><text x="848" y="272" fill="#ff7ab6">bracket fog</text><text x="848" y="309">supercomputer</text><text x="848" y="338">prediction sweat</text>
+  </g>
+  <path d="M382 270 C420 270 420 430 510 430" stroke="#7df9ff" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
+  <path d="M748 270 C786 270 786 430 690 430" stroke="#7df9ff" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
+  <path d="M966 352 C948 450 815 505 718 490" stroke="#7df9ff" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
+  <rect x="334" y="405" width="532" height="170" rx="24" fill="#0f1220" stroke="#f7f3dc" stroke-width="3"/>
+  <text x="390" y="463" fill="#f7f3dc" font-family="monospace" font-size="30" font-weight="700">WIT'S HEDGE FUND</text>
+  <text x="390" y="508" fill="#abb8ff" font-family="monospace" font-size="24">NAV unchanged; vibes rejected</text>
+  <text x="390" y="548" fill="#ffcf66" font-family="monospace" font-size="22">Stooq oracle: HTTP 404 thunder</text>
+  <g fill="#ff7ab6" font-family="monospace" font-size="20"><text x="92" y="627">geofence warrants require constitutional umbrella</text><text x="92" y="656">Gen Z allegedly found the adult clipboard</text></g>
+  <defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M2,2 L10,6 L2,10" fill="#7df9ff"/></marker></defs>
+</svg>

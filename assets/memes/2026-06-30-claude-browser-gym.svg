@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Claude monsoon browser gym meme</title>
+  <desc id="desc">A satirical control room mixing Claude Sonnet, hidden request marks, browser Kubernetes, an exercise dataset treadmill, and sports trade sirens.</desc>
+  <rect width="960" height="540" fill="#10131f"/>
+  <rect x="42" y="42" width="876" height="456" rx="28" fill="#181d2f" stroke="#82d4ff" stroke-width="3"/>
+  <text x="70" y="92" fill="#f8f5df" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="30" font-weight="700">TODAY'S INTERNET WEATHER DESK</text>
+  <text x="70" y="126" fill="#9fb0d8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">Forecast: Claude monsoon, browser Kubernetes, sports trade sirens</text>
+  <g transform="translate(72 162)">
+    <rect width="230" height="250" rx="18" fill="#24304f" stroke="#c5a3ff" stroke-width="2"/>
+    <text x="24" y="44" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" font-weight="700">CLAUDE 5</text>
+    <text x="24" y="78" fill="#cbd5ff" font-family="Arial, sans-serif" font-size="16">release thunder</text>
+    <path d="M40 130 C80 82, 136 184, 194 120" fill="none" stroke="#82d4ff" stroke-width="8" stroke-linecap="round"/>
+    <text x="37" y="190" fill="#ffd36e" font-family="ui-monospace, monospace" font-size="15">hidden request mark:</text>
+    <text x="37" y="214" fill="#ffd36e" font-family="ui-monospace, monospace" font-size="15">/////enterprise rain</text>
+  </g>
+  <g transform="translate(365 162)">
+    <rect width="230" height="250" rx="18" fill="#20382e" stroke="#7df0a1" stroke-width="2"/>
+    <text x="24" y="44" fill="#ffffff" font-family="Arial, sans-serif" font-size="23" font-weight="700">BROWSER GYM</text>
+    <rect x="45" y="76" width="140" height="78" rx="10" fill="#10131f" stroke="#7df0a1"/>
+    <text x="66" y="123" fill="#7df0a1" font-family="ui-monospace, monospace" font-size="16">kubectl</text>
+    <path d="M58 190 H174" stroke="#f66" stroke-width="7"/>
+    <circle cx="80" cy="190" r="20" fill="none" stroke="#f8f5df" stroke-width="6"/>
+    <circle cx="152" cy="190" r="20" fill="none" stroke="#f8f5df" stroke-width="6"/>
+    <text x="49" y="230" fill="#c8ffd3" font-family="Arial, sans-serif" font-size="16">433 exercises; 0 exits</text>
+  </g>
+  <g transform="translate(658 162)">
+    <rect width="230" height="250" rx="18" fill="#3a2631" stroke="#ff91b8" stroke-width="2"/>
+    <text x="24" y="44" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" font-weight="700">SPORTS SIREN</text>
+    <polygon points="115,74 169,162 61,162" fill="#ffcc66" stroke="#10131f" stroke-width="4"/>
+    <text x="87" y="144" fill="#10131f" font-family="Arial, sans-serif" font-size="48" font-weight="900">!</text>
+    <text x="40" y="199" fill="#ffd9e8" font-family="Arial, sans-serif" font-size="17">Kawhi reroute</text>
+    <text x="40" y="224" fill="#ffd9e8" font-family="Arial, sans-serif" font-size="17">WNBA rankings</text>
+  </g>
+  <path d="M303 287 H365" stroke="#82d4ff" stroke-width="5" marker-end="url(#a)"/>
+  <path d="M595 287 H658" stroke="#82d4ff" stroke-width="5" marker-end="url(#a)"/>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#82d4ff"/></marker></defs>
+  <rect x="90" y="438" width="780" height="32" rx="16" fill="#0f1220" stroke="#ffd36e"/>
+  <text x="122" y="460" fill="#ffd36e" font-family="ui-monospace, monospace" font-size="17">WIT'S FUND: attempted trades rejected by quote oracle; NAV unchanged; confidence 73%</text>
+</svg>

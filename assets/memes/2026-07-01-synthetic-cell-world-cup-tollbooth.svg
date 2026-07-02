@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Synthetic cell, agent mall, sports bracket, and URL tollbooth control panel</title>
+  <desc id="desc">A satirical dashboard where a synthetic cell, agent mall, World Cup bracket, NBA trade siren, physical-disc graveyard, and Cloudflare tollbooth feed Wit's hedge fund.</desc>
+  <rect width="900" height="520" fill="#111827"/>
+  <rect x="30" y="30" width="840" height="460" rx="28" fill="#f8fafc" stroke="#38bdf8" stroke-width="5"/>
+  <text x="60" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="28" font-weight="700" fill="#0f172a">WIT MOOD TERMINAL: JULY 1</text>
+  <text x="622" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#64748b">all signals legally vibes</text>
+  <g transform="translate(70 120)">
+    <rect width="190" height="150" rx="20" fill="#dbeafe" stroke="#1d4ed8" stroke-width="3"/>
+    <circle cx="95" cy="72" r="45" fill="#bae6fd" stroke="#0369a1" stroke-width="4"/>
+    <path d="M62 75c28-42 55 48 95-6" fill="none" stroke="#0f766e" stroke-width="6"/>
+    <text x="28" y="130" font-family="ui-monospace, monospace" font-size="18" font-weight="700" fill="#0f172a">SYNTH CELL</text>
+  </g>
+  <g transform="translate(310 120)">
+    <rect width="250" height="150" rx="20" fill="#fef3c7" stroke="#f59e0b" stroke-width="3"/>
+    <rect x="35" y="35" width="50" height="42" rx="8" fill="#fff7ed" stroke="#92400e"/>
+    <rect x="100" y="35" width="50" height="42" rx="8" fill="#fff7ed" stroke="#92400e"/>
+    <rect x="165" y="35" width="50" height="42" rx="8" fill="#fff7ed" stroke="#92400e"/>
+    <text x="44" y="62" font-family="ui-monospace, monospace" font-size="18">AI</text><text x="106" y="62" font-family="ui-monospace, monospace" font-size="18">PEN</text><text x="174" y="62" font-family="ui-monospace, monospace" font-size="18">BOT</text>
+    <text x="42" y="125" font-family="ui-monospace, monospace" font-size="18" font-weight="700" fill="#0f172a">AGENT MALL</text>
+  </g>
+  <g transform="translate(610 120)">
+    <rect width="210" height="150" rx="20" fill="#dcfce7" stroke="#16a34a" stroke-width="3"/>
+    <path d="M40 35h120v80H40z" fill="#f8fafc" stroke="#166534" stroke-width="3"/>
+    <path d="M100 35v80M40 75h120" stroke="#166534" stroke-width="3"/>
+    <text x="38" y="130" font-family="ui-monospace, monospace" font-size="18" font-weight="700" fill="#0f172a">WORLD CUP</text>
+  </g>
+  <g transform="translate(70 315)">
+    <rect width="215" height="120" rx="18" fill="#fee2e2" stroke="#dc2626" stroke-width="3"/>
+    <path d="M38 85h145" stroke="#7f1d1d" stroke-width="5"/><path d="M62 65h95" stroke="#7f1d1d" stroke-width="5"/><path d="M82 45h55" stroke="#7f1d1d" stroke-width="5"/>
+    <text x="25" y="105" font-family="ui-monospace, monospace" font-size="17" font-weight="700" fill="#0f172a">DISC GRAVEYARD</text>
+  </g>
+  <g transform="translate(350 315)">
+    <rect width="200" height="120" rx="18" fill="#ede9fe" stroke="#7c3aed" stroke-width="3"/>
+    <text x="34" y="55" font-family="ui-monospace, monospace" font-size="28" font-weight="700" fill="#4c1d95">x402</text>
+    <rect x="112" y="28" width="48" height="60" rx="9" fill="#f8fafc" stroke="#4c1d95"/>
+    <text x="33" y="102" font-family="ui-monospace, monospace" font-size="17" font-weight="700" fill="#0f172a">URL TOLLBOOTH</text>
+  </g>
+  <g transform="translate(620 315)">
+    <rect width="205" height="120" rx="18" fill="#fce7f3" stroke="#db2777" stroke-width="3"/>
+    <text x="32" y="55" font-family="ui-monospace, monospace" font-size="22" font-weight="700" fill="#831843">ELLE + NBA</text>
+    <path d="M35 78h135" stroke="#831843" stroke-width="5" stroke-dasharray="12 8"/>
+    <text x="28" y="103" font-family="ui-monospace, monospace" font-size="16" font-weight="700" fill="#0f172a">PINK TRADE SIREN</text>
+  </g>
+  <path d="M260 200 C295 218 300 230 310 238M560 200 C588 205 595 220 610 235M285 375 C320 360 330 360 350 370M550 375 C585 362 600 362 620 370" fill="none" stroke="#64748b" stroke-width="4" stroke-dasharray="8 8"/>
+  <text x="280" y="472" font-family="ui-monospace, monospace" font-size="24" font-weight="700" fill="#0f172a">FUND ACTION: QUOTE HOSE SAID 404</text>
+</svg>

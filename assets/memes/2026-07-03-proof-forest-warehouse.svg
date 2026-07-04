@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Proof forest warehouse oracle</title>
+  <desc id="desc">A satirical dashboard where giant trees, theorem proofs, agent security tools, Costco carts, and a search engine gather around Wit's hedge fund.</desc>
+  <rect width="960" height="540" fill="#10131f"/>
+  <rect x="38" y="38" width="884" height="464" rx="28" fill="#f5ead1" stroke="#241b2f" stroke-width="8"/>
+  <text x="480" y="86" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="30" font-weight="700" fill="#241b2f">TODAY'S INTERNET WEATHER MAP</text>
+  <g transform="translate(78 124)">
+    <rect x="0" y="0" width="245" height="310" rx="20" fill="#d7f0d0" stroke="#241b2f" stroke-width="5"/>
+    <text x="122" y="36" text-anchor="middle" font-family="ui-monospace, monospace" font-size="20" font-weight="700" fill="#241b2f">PROOF FOREST</text>
+    <path d="M56 238 L96 104 L136 238 Z" fill="#246b45"/>
+    <path d="M122 238 L164 88 L206 238 Z" fill="#1e553c"/>
+    <rect x="88" y="238" width="16" height="42" fill="#765234"/>
+    <rect x="156" y="238" width="16" height="42" fill="#765234"/>
+    <text x="122" y="292" text-anchor="middle" font-family="ui-monospace, monospace" font-size="16" fill="#241b2f">trees pump water</text>
+  </g>
+  <g transform="translate(358 124)">
+    <rect x="0" y="0" width="245" height="310" rx="20" fill="#dbeafe" stroke="#241b2f" stroke-width="5"/>
+    <text x="122" y="36" text-anchor="middle" font-family="ui-monospace, monospace" font-size="20" font-weight="700" fill="#241b2f">AGENT MALL</text>
+    <rect x="42" y="78" width="160" height="110" rx="14" fill="#ffffff" stroke="#241b2f" stroke-width="4"/>
+    <text x="122" y="120" text-anchor="middle" font-family="ui-monospace, monospace" font-size="18" font-weight="700" fill="#241b2f">PENTEST</text>
+    <text x="122" y="148" text-anchor="middle" font-family="ui-monospace, monospace" font-size="18" font-weight="700" fill="#241b2f">CAVEMAN</text>
+    <path d="M54 224 h136" stroke="#241b2f" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="78" cy="248" r="18" fill="#ff6b4a" stroke="#241b2f" stroke-width="4"/>
+    <circle cx="168" cy="248" r="18" fill="#ff6b4a" stroke="#241b2f" stroke-width="4"/>
+    <text x="122" y="292" text-anchor="middle" font-family="ui-monospace, monospace" font-size="16" fill="#241b2f">all tools want badges</text>
+  </g>
+  <g transform="translate(637 124)">
+    <rect x="0" y="0" width="245" height="310" rx="20" fill="#ffe0c2" stroke="#241b2f" stroke-width="5"/>
+    <text x="122" y="36" text-anchor="middle" font-family="ui-monospace, monospace" font-size="20" font-weight="700" fill="#241b2f">ANTI-AMAZON</text>
+    <rect x="52" y="90" width="142" height="90" rx="10" fill="#ffffff" stroke="#241b2f" stroke-width="4"/>
+    <path d="M69 180 l18 64 h94 l18-64" fill="none" stroke="#241b2f" stroke-width="7" stroke-linejoin="round"/>
+    <circle cx="96" cy="258" r="14" fill="#241b2f"/>
+    <circle cx="170" cy="258" r="14" fill="#241b2f"/>
+    <text x="122" y="126" text-anchor="middle" font-family="ui-monospace, monospace" font-size="18" font-weight="700" fill="#241b2f">WHOLESALE</text>
+    <text x="122" y="152" text-anchor="middle" font-family="ui-monospace, monospace" font-size="18" font-weight="700" fill="#241b2f">CALM</text>
+    <text x="122" y="292" text-anchor="middle" font-family="ui-monospace, monospace" font-size="16" fill="#241b2f">cart beats cloud</text>
+  </g>
+  <path d="M220 456 C348 504 588 504 740 456" fill="none" stroke="#241b2f" stroke-width="6" stroke-dasharray="12 12"/>
+  <text x="480" y="486" text-anchor="middle" font-family="ui-monospace, monospace" font-size="22" font-weight="700" fill="#241b2f">WIT'S HEDGE FUND: QUOTE HOSE STILL HIDING</text>
+</svg>

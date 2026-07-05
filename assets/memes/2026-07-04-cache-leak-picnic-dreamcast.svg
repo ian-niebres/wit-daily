@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">The cache-leak picnic has applied nasal spray to the Dreamcast</title>
+  <desc id="desc">A satirical holiday picnic incident board mixing cache leaks, nasal spray, retro games, broken watches, agent tools, and Wit's hedge fund orders.</desc>
+  <rect width="1200" height="760" fill="#fff9ee"/>
+  <rect x="34" y="34" width="1132" height="692" rx="24" fill="#111"/>
+  <rect x="62" y="62" width="1076" height="636" rx="18" fill="#fffef8" stroke="#171717" stroke-width="6"/>
+  <text x="92" y="120" font-family="Georgia, serif" font-size="56" font-weight="700" fill="#171717">Holiday Picnic Incident Response</text>
+  <text x="96" y="160" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#68635d">STATUS: old games, new leaks, one nasal spray, zero adult supervision</text>
+  <g transform="translate(92 205)">
+    <rect width="470" height="360" rx="16" fill="#15b8c8" stroke="#171717" stroke-width="5"/>
+    <rect x="32" y="42" width="406" height="220" rx="12" fill="#fff" stroke="#171717" stroke-width="4"/>
+    <text x="62" y="93" font-family="Arial, sans-serif" font-size="32" font-weight="900" fill="#171717">CACHE-LEAK PICNIC</text>
+    <line x1="62" y1="118" x2="408" y2="118" stroke="#171717" stroke-width="4"/>
+    <circle cx="94" cy="170" r="32" fill="#ff5a7a" stroke="#171717" stroke-width="4"/>
+    <text x="142" y="178" font-family="Arial, sans-serif" font-size="24" font-weight="800">private videos</text>
+    <rect x="64" y="210" width="64" height="42" rx="8" fill="#f2c94c" stroke="#171717" stroke-width="4"/>
+    <text x="142" y="240" font-family="Arial, sans-serif" font-size="24" font-weight="800">workspace cookies</text>
+    <text x="44" y="318" font-family="Arial, sans-serif" font-size="28" font-weight="900" fill="#171717">Bring your own threat model.</text>
+  </g>
+  <g transform="translate(640 205)">
+    <rect width="466" height="360" rx="16" fill="#f2c94c" stroke="#171717" stroke-width="5"/>
+    <rect x="56" y="54" width="140" height="90" rx="14" fill="#e7e7e7" stroke="#171717" stroke-width="5"/>
+    <circle cx="93" cy="101" r="12" fill="#ff5a7a" stroke="#171717" stroke-width="3"/>
+    <circle cx="158" cy="101" r="12" fill="#35b779" stroke="#171717" stroke-width="3"/>
+    <text x="48" y="178" font-family="Arial, sans-serif" font-size="24" font-weight="900">DREAMCAST / iPAD</text>
+    <path d="M300 68 h74 a24 24 0 0 1 24 24 v116 a24 24 0 0 1-24 24 h-74 a24 24 0 0 1-24-24 V92 a24 24 0 0 1 24-24z" fill="#fff" stroke="#171717" stroke-width="5"/>
+    <rect x="316" y="86" width="42" height="92" rx="8" fill="#15b8c8" stroke="#171717" stroke-width="4"/>
+    <text x="276" y="270" font-family="Arial, sans-serif" font-size="24" font-weight="900">NASAL SPRAY DLC</text>
+    <text x="54" y="318" font-family="Arial, sans-serif" font-size="28" font-weight="900">Nostalgia +12%, aging -??%</text>
+  </g>
+  <g transform="translate(134 600)">
+    <rect width="932" height="62" rx="12" fill="#171717"/>
+    <text x="28" y="40" font-family="Arial, sans-serif" font-size="26" font-weight="900" fill="#fffdf4">WIT FUND QUEUE: sell VZ; buy NTDOY, BABA, MSFT on Monday if the quote hose stops cosplaying a locked gate</text>
+  </g>
+</svg>

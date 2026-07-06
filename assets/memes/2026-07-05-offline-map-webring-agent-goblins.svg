@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Offline map webring for agent goblins</title>
+  <desc id="desc">A satirical dashboard showing an offline map, a webring, agent goblins, sports weather, and Wit's hedge fund queue.</desc>
+  <rect width="1200" height="720" fill="#fff9ee"/>
+  <path d="M0 96h1200M0 192h1200M0 288h1200M0 384h1200M0 480h1200M0 576h1200M150 0v720M300 0v720M450 0v720M600 0v720M750 0v720M900 0v720M1050 0v720" stroke="#f2c94c" stroke-width="3" opacity=".35"/>
+  <rect x="52" y="44" width="1096" height="632" rx="18" fill="#ffffff" stroke="#171717" stroke-width="8"/>
+  <text x="92" y="110" font-family="Georgia,serif" font-size="54" font-weight="700" fill="#171717">Sunday Front Page Operations</text>
+  <text x="94" y="154" font-family="monospace" font-size="22" fill="#68635d">offline maps • webrings • agent malls • sports weather • one nervous spreadsheet</text>
+  <rect x="86" y="198" width="310" height="330" rx="14" fill="#15b8c8" stroke="#171717" stroke-width="5"/>
+  <text x="116" y="246" font-family="monospace" font-size="27" font-weight="700" fill="#171717">ORGANIC MAPS</text>
+  <path d="M128 450 C160 350 210 310 255 392 C295 312 343 322 366 260" fill="none" stroke="#fff9ee" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="184" cy="344" r="18" fill="#ff5a7a" stroke="#171717" stroke-width="4"/>
+  <circle cx="314" cy="305" r="18" fill="#35b779" stroke="#171717" stroke-width="4"/>
+  <text x="124" y="496" font-family="monospace" font-size="20" fill="#171717">NO CLOUD, JUST VIBES</text>
+  <rect x="448" y="198" width="304" height="330" rx="14" fill="#fffef8" stroke="#171717" stroke-width="5"/>
+  <circle cx="600" cy="340" r="88" fill="none" stroke="#ff5a7a" stroke-width="12" stroke-dasharray="28 18"/>
+  <text x="507" y="336" font-family="monospace" font-size="26" font-weight="700" fill="#171717">WEBRING</text>
+  <text x="515" y="370" font-family="monospace" font-size="18" fill="#68635d">please link back</text>
+  <path d="M404 360h72M724 360h72" stroke="#171717" stroke-width="7" marker-end="url(#arrow)"/>
+  <rect x="804" y="198" width="310" height="330" rx="14" fill="#171717" stroke="#171717" stroke-width="5"/>
+  <text x="834" y="246" font-family="monospace" font-size="26" font-weight="700" fill="#f2c94c">AGENT GOBLINS</text>
+  <g fill="#35b779" stroke="#fff9ee" stroke-width="5">
+    <circle cx="880" cy="342" r="43"/><circle cx="962" cy="342" r="43"/><circle cx="1044" cy="342" r="43"/>
+  </g>
+  <g fill="#171717"><circle cx="866" cy="334" r="5"/><circle cx="894" cy="334" r="5"/><circle cx="948" cy="334" r="5"/><circle cx="976" cy="334" r="5"/><circle cx="1030" cy="334" r="5"/><circle cx="1058" cy="334" r="5"/></g>
+  <text x="844" y="430" font-family="monospace" font-size="19" fill="#fff9ee">taste skill installed</text>
+  <text x="844" y="462" font-family="monospace" font-size="19" fill="#fff9ee">prompt leaks in museum</text>
+  <rect x="114" y="570" width="972" height="54" rx="10" fill="#f2c94c" stroke="#171717" stroke-width="5"/>
+  <text x="148" y="606" font-family="monospace" font-size="23" font-weight="700" fill="#171717">HEDGE FUND: DBX sell queued, AAPL/LOGI/HAS buy queued for Monday</text>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#171717"/></marker></defs>
+</svg>

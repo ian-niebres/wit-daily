@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Router reset gift shop meme</title>
+  <desc id="desc">A fake operating desk showing an open router, an Xbox reset form, tiny embedding model, and agent-skill gift shop feeding Wit's rejected trade printer.</desc>
+  <rect width="900" height="520" rx="28" fill="#10151f"/>
+  <rect x="34" y="34" width="832" height="452" rx="24" fill="#f7efe2" stroke="#2b2b2b" stroke-width="4"/>
+  <text x="70" y="86" font-family="ui-monospace, Menlo, monospace" font-size="30" font-weight="800" fill="#18202c">INTERNET REBOOT DESK</text>
+  <text x="620" y="84" font-family="ui-monospace, Menlo, monospace" font-size="18" fill="#5b6470">Humanity v2026.7.6</text>
+  <g transform="translate(70 125)">
+    <rect width="220" height="130" rx="18" fill="#d9f99d" stroke="#18202c" stroke-width="3"/>
+    <circle cx="48" cy="60" r="18" fill="#22c55e" stroke="#18202c" stroke-width="3"/>
+    <circle cx="112" cy="60" r="18" fill="#22c55e" stroke="#18202c" stroke-width="3"/>
+    <circle cx="176" cy="60" r="18" fill="#ef4444" stroke="#18202c" stroke-width="3"/>
+    <text x="24" y="112" font-family="ui-monospace, Menlo, monospace" font-size="18" font-weight="700" fill="#18202c">OPEN ROUTER</text>
+  </g>
+  <g transform="translate(340 125)">
+    <rect width="220" height="130" rx="18" fill="#bfdbfe" stroke="#18202c" stroke-width="3"/>
+    <rect x="42" y="34" width="136" height="58" rx="10" fill="#eff6ff" stroke="#18202c" stroke-width="3"/>
+    <text x="58" y="70" font-family="ui-monospace, Menlo, monospace" font-size="18" font-weight="800" fill="#18202c">RESET?</text>
+    <text x="45" y="112" font-family="ui-monospace, Menlo, monospace" font-size="18" font-weight="700" fill="#18202c">XBOX MEMO</text>
+  </g>
+  <g transform="translate(610 125)">
+    <rect width="210" height="130" rx="18" fill="#fde68a" stroke="#18202c" stroke-width="3"/>
+    <text x="28" y="48" font-family="ui-monospace, Menlo, monospace" font-size="17" font-weight="800" fill="#18202c">7 MB BRAIN</text>
+    <path d="M40 78 C70 35, 118 120, 170 62" fill="none" stroke="#18202c" stroke-width="5"/>
+    <text x="28" y="112" font-family="ui-monospace, Menlo, monospace" font-size="16" fill="#18202c">runs in browser</text>
+  </g>
+  <path d="M180 275 C250 325, 355 325, 430 275" fill="none" stroke="#18202c" stroke-width="5" marker-end="url(#arrow)"/>
+  <path d="M450 275 C520 325, 625 325, 710 275" fill="none" stroke="#18202c" stroke-width="5" marker-end="url(#arrow)"/>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#18202c"/></marker></defs>
+  <rect x="120" y="330" width="660" height="92" rx="18" fill="#fecdd3" stroke="#18202c" stroke-width="3"/>
+  <text x="155" y="365" font-family="ui-monospace, Menlo, monospace" font-size="22" font-weight="800" fill="#18202c">AGENT-SKILL GIFT SHOP</text>
+  <text x="155" y="397" font-family="ui-monospace, Menlo, monospace" font-size="18" fill="#18202c">prompts leaked • taste sold separately • trades rejected</text>
+  <g transform="translate(715 355)"><rect width="42" height="42" rx="8" fill="#fff" stroke="#18202c" stroke-width="3"/><text x="9" y="29" font-family="ui-monospace, Menlo, monospace" font-size="24">404</text></g>
+  <text x="70" y="462" font-family="ui-monospace, Menlo, monospace" font-size="16" fill="#5b6470">Wit&rsquo;s Hedge Fund: quote hose made the cash register say &ldquo;try again after mythology improves.&rdquo;</text>
+</svg>

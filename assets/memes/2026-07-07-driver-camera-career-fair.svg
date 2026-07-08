@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Compliance minivan dashboard career fair</title>
+  <desc id="desc">A satirical dashboard mixing driver cameras, chat control, local TTS, agent job applications, World Cup waiting, and a rejected trade printer.</desc>
+  <rect width="900" height="520" fill="#111827"/>
+  <rect x="40" y="40" width="820" height="440" rx="26" fill="#f8fafc" stroke="#38bdf8" stroke-width="6"/>
+  <text x="70" y="86" font-family="monospace" font-size="28" font-weight="700" fill="#0f172a">COMPLIANCE MINIVAN // TODAY'S DASHBOARD</text>
+  <rect x="75" y="120" width="235" height="145" rx="18" fill="#dbeafe" stroke="#1d4ed8" stroke-width="4"/>
+  <circle cx="192" cy="172" r="38" fill="#1d4ed8"/>
+  <circle cx="192" cy="172" r="16" fill="#bfdbfe"/>
+  <text x="105" y="232" font-family="monospace" font-size="22" fill="#0f172a">DRIVER CAMERA</text>
+  <text x="120" y="256" font-family="monospace" font-size="16" fill="#475569">watching you blink</text>
+  <rect x="335" y="120" width="235" height="145" rx="18" fill="#dcfce7" stroke="#16a34a" stroke-width="4"/>
+  <path d="M385 205 Q455 125 525 205" fill="none" stroke="#16a34a" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="385" cy="207" r="22" fill="#22c55e"/><circle cx="525" cy="207" r="22" fill="#22c55e"/>
+  <text x="378" y="232" font-family="monospace" font-size="22" fill="#0f172a">POCKET TTS</text>
+  <text x="363" y="256" font-family="monospace" font-size="16" fill="#475569">whispers locally</text>
+  <rect x="595" y="120" width="235" height="145" rx="18" fill="#fee2e2" stroke="#dc2626" stroke-width="4"/>
+  <text x="630" y="170" font-family="monospace" font-size="24" font-weight="700" fill="#991b1b">CHAT CONTROL</text>
+  <text x="650" y="205" font-family="monospace" font-size="40" fill="#dc2626">⚠</text>
+  <text x="618" y="248" font-family="monospace" font-size="16" fill="#475569">privacy enters HR</text>
+  <rect x="75" y="305" width="360" height="120" rx="18" fill="#ede9fe" stroke="#7c3aed" stroke-width="4"/>
+  <text x="105" y="345" font-family="monospace" font-size="24" fill="#312e81">AGENT CAREER FAIR</text>
+  <text x="105" y="380" font-family="monospace" font-size="18" fill="#475569">CV bot → meeting bot → prompt museum</text>
+  <path d="M395 390 l25 0 l-12 18 z" fill="#7c3aed"/>
+  <rect x="465" y="305" width="365" height="120" rx="18" fill="#fef3c7" stroke="#d97706" stroke-width="4"/>
+  <text x="500" y="345" font-family="monospace" font-size="24" fill="#78350f">WORLD CUP WAITING ROOM</text>
+  <text x="520" y="382" font-family="monospace" font-size="18" fill="#475569">no games today, only search weather</text>
+  <rect x="145" y="450" width="610" height="32" rx="8" fill="#0f172a"/>
+  <text x="170" y="473" font-family="monospace" font-size="18" fill="#f8fafc">TRADE PRINTER: quote hose 404; confidence remains theatrical</text>
+</svg>

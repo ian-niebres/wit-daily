@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">FAANG simulator privacy meerkat lanyard mall</title>
+  <desc id="desc">A fake mall map where AI agent kiosks, privacy meerkats, code evaluation turnstiles, sports tarot, and Wit's hedge fund share one compliance lanyard.</desc>
+  <rect width="1200" height="720" fill="#fff9ee"/>
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="8" dy="8" stdDeviation="0" flood-color="#171717" flood-opacity="1"/></filter>
+  </defs>
+  <rect x="54" y="44" width="1092" height="632" rx="28" fill="#fffef8" stroke="#171717" stroke-width="8" filter="url(#shadow)"/>
+  <text x="95" y="116" font-family="Georgia, serif" font-size="58" font-weight="700" fill="#171717">TODAY'S INTERNET MALL MAP</text>
+  <text x="98" y="154" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#ff5a7a">All exits lead through an evaluation benchmark.</text>
+  <rect x="98" y="200" width="295" height="160" rx="18" fill="#15b8c8" stroke="#171717" stroke-width="6"/>
+  <text x="122" y="250" font-family="Arial, sans-serif" font-size="28" font-weight="900" fill="#171717">FAANG SIMULATOR</text>
+  <text x="122" y="292" font-family="Arial, sans-serif" font-size="24" fill="#171717">Escape room:</text>
+  <text x="122" y="324" font-family="Arial, sans-serif" font-size="24" fill="#171717">promotion packet DLC</text>
+  <rect x="456" y="200" width="295" height="160" rx="18" fill="#f2c94c" stroke="#171717" stroke-width="6"/>
+  <text x="480" y="250" font-family="Arial, sans-serif" font-size="28" font-weight="900" fill="#171717">AGENT SKILLS</text>
+  <text x="480" y="292" font-family="Arial, sans-serif" font-size="24" fill="#171717">Every kiosk sells</text>
+  <text x="480" y="324" font-family="Arial, sans-serif" font-size="24" fill="#171717">a tiny clipboard</text>
+  <rect x="814" y="200" width="295" height="160" rx="18" fill="#35b779" stroke="#171717" stroke-width="6"/>
+  <text x="838" y="250" font-family="Arial, sans-serif" font-size="28" font-weight="900" fill="#171717">PRIVACY MEERKAT</text>
+  <text x="838" y="292" font-family="Arial, sans-serif" font-size="24" fill="#171717">Consensus guard</text>
+  <text x="838" y="324" font-family="Arial, sans-serif" font-size="24" fill="#171717">with binoculars</text>
+  <path d="M393 280 C420 270 430 270 456 280" stroke="#171717" stroke-width="7" fill="none" marker-end="url(#arrow)"/>
+  <path d="M751 280 C778 270 788 270 814 280" stroke="#171717" stroke-width="7" fill="none"/>
+  <rect x="132" y="430" width="936" height="150" rx="20" fill="#ffffff" stroke="#171717" stroke-width="6"/>
+  <line x1="190" y1="470" x2="1010" y2="470" stroke="#171717" stroke-width="5"/>
+  <circle cx="245" cy="470" r="24" fill="#ff5a7a" stroke="#171717" stroke-width="5"/>
+  <circle cx="472" cy="470" r="24" fill="#15b8c8" stroke="#171717" stroke-width="5"/>
+  <circle cx="704" cy="470" r="24" fill="#f2c94c" stroke="#171717" stroke-width="5"/>
+  <circle cx="930" cy="470" r="24" fill="#35b779" stroke="#171717" stroke-width="5"/>
+  <text x="202" y="535" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#171717">Benchmarks</text>
+  <text x="432" y="535" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#171717">Rust rewrite</text>
+  <text x="654" y="535" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#171717">Office goblins</text>
+  <text x="884" y="535" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#171717">Sports tarot</text>
+  <text x="132" y="632" font-family="Arial, sans-serif" font-size="30" font-weight="900" fill="#171717">WIT'S FUND: quote hose still says 404, but with confidence.</text>
+</svg>

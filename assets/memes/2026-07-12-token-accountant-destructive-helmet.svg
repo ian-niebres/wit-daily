@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">Token accountant with a destructive-command helmet</title>
+<desc id="desc">A satirical dashboard where token overhead, command guards, offline survival computers, AI hedge funds, and Odyssey streaming discourse collide.</desc>
+<rect width="1200" height="760" fill="#fff9ee"/>
+<rect x="36" y="34" width="1128" height="692" rx="26" fill="#fffef8" stroke="#171717" stroke-width="8"/>
+<text x="68" y="93" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#171717">SUNDAY INCIDENT BOARD</text>
+<text x="70" y="132" font-family="monospace" font-size="22" fill="#68635d">status: local-first panic wearing procurement goggles</text>
+<g transform="translate(70 175)">
+  <rect width="470" height="410" rx="18" fill="#171717" stroke="#171717" stroke-width="5"/>
+  <text x="30" y="52" font-family="monospace" font-size="28" font-weight="700" fill="#f2c94c">TOKEN ACCOUNTANT</text>
+  <rect x="42" y="84" width="384" height="46" fill="#fff9ee" stroke="#15b8c8" stroke-width="5"/>
+  <text x="58" y="116" font-family="monospace" font-size="24" fill="#171717">prompt read: 33k</text>
+  <rect x="42" y="150" width="132" height="46" fill="#fff9ee" stroke="#35b779" stroke-width="5"/>
+  <text x="58" y="182" font-family="monospace" font-size="24" fill="#171717">budget?</text>
+  <path d="M66 260 C120 190 220 190 274 260 C310 310 290 365 170 365 C50 365 30 310 66 260Z" fill="#15b8c8" stroke="#fff9ee" stroke-width="6"/>
+  <rect x="104" y="226" width="128" height="52" rx="10" fill="#f2c94c" stroke="#171717" stroke-width="5"/>
+  <text x="91" y="337" font-family="monospace" font-size="22" font-weight="700" fill="#fff9ee">OVERHEAD</text>
+  <path d="M322 218 l78 0 l-12 112 l-54 0 z" fill="#ff5a7a" stroke="#fff9ee" stroke-width="5"/>
+  <text x="313" y="365" font-family="monospace" font-size="18" fill="#fff9ee">coffee for agents</text>
+</g>
+<g transform="translate(610 175)">
+  <rect width="500" height="185" rx="18" fill="#f2fbf7" stroke="#171717" stroke-width="6"/>
+  <text x="28" y="45" font-family="monospace" font-size="25" font-weight="700" fill="#171717">DESTRUCTIVE COMMAND GUARD</text>
+  <path d="M48 75 h180 v55 h-54 v36 h-72 v-36 h-54z" fill="#ff5a7a" stroke="#171717" stroke-width="5"/>
+  <text x="72" y="111" font-family="monospace" font-size="27" font-weight="700" fill="#fff9ee">NOPE</text>
+  <text x="260" y="96" font-family="monospace" font-size="20" fill="#171717">helmet says:</text>
+  <text x="260" y="126" font-family="monospace" font-size="24" font-weight="700" fill="#171717">ask before sudo</text>
+</g>
+<g transform="translate(610 395)">
+  <rect width="500" height="190" rx="18" fill="#fff" stroke="#171717" stroke-width="6"/>
+  <text x="26" y="45" font-family="monospace" font-size="24" font-weight="700" fill="#171717">ODYSSEY COUCH OPS</text>
+  <rect x="35" y="73" width="180" height="80" rx="14" fill="#15b8c8" stroke="#171717" stroke-width="5"/>
+  <text x="60" y="121" font-family="monospace" font-size="22" fill="#fff9ee">modern</text>
+  <path d="M250 92 h140 l42 26 l-42 26 h-140z" fill="#f2c94c" stroke="#171717" stroke-width="5"/>
+  <text x="274" y="126" font-family="monospace" font-size="22" fill="#171717">dialogue</text>
+  <text x="35" y="175" font-family="monospace" font-size="18" fill="#68635d">weekend streaming fog: unresolved</text>
+</g>
+<g transform="translate(180 625)">
+  <rect width="840" height="54" rx="12" fill="#171717"/>
+  <text x="28" y="36" font-family="monospace" font-size="22" fill="#f2c94c">WIT FUND: CRM fatigue queued • MSFT rectangles queued • LOGI nostalgia queued</text>
+</g>
+</svg>

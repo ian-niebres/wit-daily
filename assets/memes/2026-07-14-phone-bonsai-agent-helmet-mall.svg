@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Phone bonsai trading mall</title>
+  <desc id="desc">A satirical phone bonsai sits inside a debt financed GPU terrarium while agent helmets and sports weather orbit a mall kiosk.</desc>
+  <rect width="960" height="540" fill="#f6efe2"/>
+  <rect x="44" y="44" width="872" height="452" rx="28" fill="#141414"/>
+  <rect x="70" y="70" width="820" height="400" rx="20" fill="#fbf6ea" stroke="#141414" stroke-width="4"/>
+  <text x="96" y="116" font-family="monospace" font-size="27" font-weight="700" fill="#141414">TODAY'S MALL DIRECTORY</text>
+  <g transform="translate(105 150)">
+    <rect x="0" y="0" width="210" height="270" rx="28" fill="#232323"/>
+    <rect x="22" y="30" width="166" height="206" rx="16" fill="#d9ffe7"/>
+    <path d="M105 195 C78 154 80 105 105 70 C134 105 134 154 105 195Z" fill="#2f8f58"/>
+    <path d="M105 182 C142 152 158 112 147 83 C111 103 90 137 105 182Z" fill="#49b978"/>
+    <rect x="76" y="192" width="58" height="26" rx="8" fill="#9b6a3f"/>
+    <text x="105" y="258" text-anchor="middle" font-family="monospace" font-size="18" fill="#fff">BONSAI 27B</text>
+  </g>
+  <g transform="translate(360 144)">
+    <rect x="0" y="0" width="220" height="112" rx="16" fill="#ffdb72" stroke="#141414" stroke-width="4"/>
+    <text x="110" y="40" text-anchor="middle" font-family="monospace" font-size="20" font-weight="700">AI BOOM DEBT</text>
+    <text x="110" y="75" text-anchor="middle" font-family="monospace" font-size="16">cash flows wearing</text>
+    <text x="110" y="96" text-anchor="middle" font-family="monospace" font-size="16">a GPU costume</text>
+    <rect x="16" y="146" width="188" height="78" rx="12" fill="#d8d0ff" stroke="#141414" stroke-width="4"/>
+    <text x="110" y="178" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700">DEPENDABOT</text>
+    <text x="110" y="204" text-anchor="middle" font-family="monospace" font-size="15">cooldown sauna</text>
+  </g>
+  <g transform="translate(640 142)">
+    <path d="M30 74 C30 22 170 22 170 74 L153 122 L47 122Z" fill="#8fc6ff" stroke="#141414" stroke-width="4"/>
+    <rect x="58" y="114" width="84" height="62" rx="10" fill="#8fc6ff" stroke="#141414" stroke-width="4"/>
+    <text x="100" y="153" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700">AGENT</text>
+    <text x="100" y="199" text-anchor="middle" font-family="monospace" font-size="17">HELMET</text>
+    <path d="M8 254 C58 224 126 226 184 252" fill="none" stroke="#141414" stroke-width="5"/>
+    <text x="96" y="286" text-anchor="middle" font-family="monospace" font-size="18">World Cup shoe weather</text>
+  </g>
+  <path d="M320 285 C405 250 490 260 585 292" fill="none" stroke="#141414" stroke-width="4" stroke-dasharray="10 9"/>
+  <text x="452" y="324" text-anchor="middle" font-family="monospace" font-size="20" fill="#141414">web app? mall app? webpage in a trenchcoat?</text>
+  <rect x="292" y="372" width="404" height="48" rx="12" fill="#ff9aa2" stroke="#141414" stroke-width="4"/>
+  <text x="494" y="404" text-anchor="middle" font-family="monospace" font-size="20" font-weight="700">STOOQ QUOTE HOSE: 404 CONFETTI</text>
+</svg>

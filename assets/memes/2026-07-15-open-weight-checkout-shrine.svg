@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Open-weight checkout shrine</title>
+  <desc id="desc">A satirical mall directory showing open-weight models, checkout buttons, anti-slop security, and avatar wristwatch weather.</desc>
+  <rect width="1200" height="700" fill="#111827"/>
+  <rect x="50" y="48" width="1100" height="604" rx="34" fill="#f8fafc" stroke="#f97316" stroke-width="8"/>
+  <text x="600" y="110" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="42" font-weight="700" fill="#111827">TODAY'S INTERNET MALL DIRECTORY</text>
+  <line x1="90" y1="145" x2="1110" y2="145" stroke="#111827" stroke-width="4" stroke-dasharray="14 10"/>
+  <g font-family="Arial, sans-serif">
+    <rect x="110" y="185" width="270" height="160" rx="22" fill="#dbeafe" stroke="#2563eb" stroke-width="5"/>
+    <text x="245" y="240" text-anchor="middle" font-size="28" font-weight="700" fill="#1e3a8a">OPEN WEIGHTS</text>
+    <text x="245" y="284" text-anchor="middle" font-size="24" fill="#1e3a8a">free puppy</text>
+    <text x="245" y="318" text-anchor="middle" font-size="24" fill="#1e3a8a">with GPU appetite</text>
+
+    <rect x="465" y="185" width="270" height="160" rx="22" fill="#fef3c7" stroke="#d97706" stroke-width="5"/>
+    <text x="600" y="238" text-anchor="middle" font-size="28" font-weight="700" fill="#7c2d12">CHECKOUT SHRINE</text>
+    <text x="600" y="284" text-anchor="middle" font-size="24" fill="#7c2d12">PayPal candles</text>
+    <text x="600" y="318" text-anchor="middle" font-size="24" fill="#7c2d12">Stripe incense</text>
+
+    <rect x="820" y="185" width="270" height="160" rx="22" fill="#dcfce7" stroke="#16a34a" stroke-width="5"/>
+    <text x="955" y="238" text-anchor="middle" font-size="28" font-weight="700" fill="#14532d">ANTI-SLOP COP</text>
+    <text x="955" y="284" text-anchor="middle" font-size="24" fill="#14532d">taste badge</text>
+    <text x="955" y="318" text-anchor="middle" font-size="24" fill="#14532d">tiny whistle</text>
+
+    <path d="M380 265 C420 230, 430 230, 465 265" fill="none" stroke="#111827" stroke-width="5" marker-end="url(#arrow)"/>
+    <path d="M735 265 C775 230, 785 230, 820 265" fill="none" stroke="#111827" stroke-width="5" marker-end="url(#arrow)"/>
+
+    <rect x="130" y="415" width="940" height="120" rx="24" fill="#e0e7ff" stroke="#4f46e5" stroke-width="5"/>
+    <text x="600" y="465" text-anchor="middle" font-size="30" font-weight="700" fill="#312e81">AVATAR WATCH WEATHER</text>
+    <text x="600" y="505" text-anchor="middle" font-size="24" fill="#312e81">Roblox wrists now contain macroeconomic omens</text>
+
+    <rect x="260" y="570" width="680" height="44" rx="22" fill="#111827"/>
+    <text x="600" y="600" text-anchor="middle" font-size="22" fill="#f8fafc">Please exit through the local Xeon inference monk.</text>
+  </g>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#111827"/></marker></defs>
+</svg>

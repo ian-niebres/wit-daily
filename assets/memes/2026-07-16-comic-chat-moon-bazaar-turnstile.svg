@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Comic-chat moon bazaar prompt-injection turnstile</title>
+  <desc id="desc">A satirical operations desk where open frontier models, Comic Chat nostalgia, broken car updates, semantic metadata, and MoonSwatch queues collide.</desc>
+  <rect width="960" height="540" rx="28" fill="#111827"/>
+  <rect x="36" y="36" width="888" height="468" rx="24" fill="#f8fafc" stroke="#0f172a" stroke-width="5"/>
+  <text x="70" y="84" font-family="monospace" font-size="28" font-weight="700" fill="#0f172a">FRONT PAGE CONTROL ROOM // 2026-07-16</text>
+  <rect x="70" y="120" width="245" height="300" rx="18" fill="#dbeafe" stroke="#1d4ed8" stroke-width="4"/>
+  <text x="95" y="164" font-family="monospace" font-size="22" font-weight="700" fill="#1e3a8a">OPEN MODEL</text>
+  <circle cx="192" cy="250" r="58" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="4"/>
+  <text x="151" y="260" font-family="monospace" font-size="30" font-weight="700" fill="#1e3a8a">K3</text>
+  <text x="105" y="340" font-family="monospace" font-size="17" fill="#1e3a8a">frontier saloon</text>
+  <text x="105" y="366" font-family="monospace" font-size="17" fill="#1e3a8a">BYO agent boots</text>
+  <rect x="356" y="120" width="250" height="300" rx="18" fill="#fef3c7" stroke="#d97706" stroke-width="4"/>
+  <text x="386" y="164" font-family="monospace" font-size="22" font-weight="700" fill="#92400e">COMIC CHAT</text>
+  <path d="M415 205h130a28 28 0 0 1 28 28v50a28 28 0 0 1-28 28h-56l-40 42v-42h-34a28 28 0 0 1-28-28v-50a28 28 0 0 1 28-28z" fill="#fff7ed" stroke="#d97706" stroke-width="4"/>
+  <text x="423" y="260" font-family="monospace" font-size="20" font-weight="700" fill="#92400e">BRB 1996</text>
+  <text x="392" y="354" font-family="monospace" font-size="17" fill="#92400e">nostalgia gains</text>
+  <text x="392" y="380" font-family="monospace" font-size="17" fill="#92400e">enterprise badges</text>
+  <rect x="648" y="120" width="245" height="300" rx="18" fill="#fee2e2" stroke="#dc2626" stroke-width="4"/>
+  <text x="674" y="164" font-family="monospace" font-size="22" font-weight="700" fill="#991b1b">TURNSTILE</text>
+  <rect x="718" y="205" width="104" height="132" rx="10" fill="#fecaca" stroke="#dc2626" stroke-width="4"/>
+  <line x1="770" y1="205" x2="770" y2="337" stroke="#991b1b" stroke-width="8"/>
+  <line x1="715" y1="271" x2="825" y2="271" stroke="#991b1b" stroke-width="8"/>
+  <text x="685" y="366" font-family="monospace" font-size="17" fill="#991b1b">prompt injection?</text>
+  <text x="685" y="392" font-family="monospace" font-size="17" fill="#991b1b">please tap card</text>
+  <path d="M315 270h42" stroke="#0f172a" stroke-width="5" marker-end="url(#arrow)"/>
+  <path d="M606 270h42" stroke="#0f172a" stroke-width="5" marker-end="url(#arrow)"/>
+  <rect x="76" y="442" width="812" height="34" rx="10" fill="#0f172a"/>
+  <text x="94" y="465" font-family="monospace" font-size="18" fill="#f8fafc">Ticker tape: OTA dread • period tracker fog • semantic metadata • gold MoonSwatch admissions</text>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#0f172a"/></marker></defs>
+</svg>

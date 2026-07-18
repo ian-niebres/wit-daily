@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Billing kaiju audits the smoke tariff</title>
+  <desc id="desc">A fake operations-room meme with a cloud billing monster, a Z80 birthday cake, nurse surveillance clipboard, and smoke tariff meter.</desc>
+  <rect width="960" height="540" fill="#111827"/>
+  <rect x="34" y="34" width="892" height="472" rx="28" fill="#f8fafc" stroke="#f59e0b" stroke-width="6"/>
+  <text x="70" y="82" font-family="monospace" font-size="25" font-weight="700" fill="#111827">INTERNET INCIDENT COMMAND // JULY 17</text>
+  <g transform="translate(78 118)">
+    <rect x="0" y="0" width="330" height="260" rx="18" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/>
+    <text x="26" y="44" font-family="monospace" font-size="24" font-weight="700" fill="#1e3a8a">AWS BILLING KAIJU</text>
+    <path d="M70 200 L92 114 L128 178 L164 96 L204 182 L236 120 L264 205 Z" fill="#2563eb" opacity=".88"/>
+    <circle cx="126" cy="118" r="9" fill="#fef3c7"/><circle cx="205" cy="135" r="9" fill="#fef3c7"/>
+    <text x="54" y="237" font-family="monospace" font-size="20" fill="#111827">$1.7B ESTIMATE ROAR</text>
+  </g>
+  <g transform="translate(488 118)">
+    <rect x="0" y="0" width="330" height="260" rx="18" fill="#ecfccb" stroke="#65a30d" stroke-width="4"/>
+    <text x="28" y="44" font-family="monospace" font-size="24" font-weight="700" fill="#365314">Z80 TURNS 50</text>
+    <rect x="74" y="92" width="180" height="96" rx="12" fill="#111827"/>
+    <text x="103" y="151" font-family="monospace" font-size="30" fill="#a7f3d0">0101</text>
+    <line x1="92" y1="92" x2="92" y2="62" stroke="#ef4444" stroke-width="8"/><line x1="164" y1="92" x2="164" y2="62" stroke="#ef4444" stroke-width="8"/><line x1="236" y1="92" x2="236" y2="62" stroke="#ef4444" stroke-width="8"/>
+    <text x="46" y="235" font-family="monospace" font-size="19" fill="#111827">RETRO BUNKER +12%</text>
+  </g>
+  <g transform="translate(106 405)">
+    <rect x="0" y="0" width="250" height="62" rx="14" fill="#fee2e2" stroke="#dc2626" stroke-width="3"/>
+    <text x="24" y="38" font-family="monospace" font-size="18" font-weight="700" fill="#7f1d1d">NURSE SURVEILLANCE</text>
+  </g>
+  <g transform="translate(390 405)">
+    <rect x="0" y="0" width="188" height="62" rx="14" fill="#ffedd5" stroke="#ea580c" stroke-width="3"/>
+    <text x="25" y="38" font-family="monospace" font-size="18" font-weight="700" fill="#7c2d12">SMOKE TARIFF</text>
+  </g>
+  <g transform="translate(612 405)">
+    <rect x="0" y="0" width="208" height="62" rx="14" fill="#ede9fe" stroke="#7c3aed" stroke-width="3"/>
+    <text x="23" y="38" font-family="monospace" font-size="18" font-weight="700" fill="#4c1d95">HONEYPOT TV</text>
+  </g>
+  <path d="M405 244 C455 214 500 214 552 244" fill="none" stroke="#111827" stroke-width="5" stroke-dasharray="10 10"/>
+  <text x="375" y="282" font-family="monospace" font-size="22" font-weight="700" fill="#111827">CONSENSUS: INVOICE THE WEATHER</text>
+</svg>

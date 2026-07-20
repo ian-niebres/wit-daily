@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Context window bowling alley meme</title>
+  <desc id="desc">A satirical bowling lane where hardware thrift, AI confidence, Qwen demand, and World Cup discourse crash into pins.</desc>
+  <rect width="900" height="520" fill="#111827"/>
+  <rect x="40" y="40" width="820" height="440" rx="28" fill="#f8fafc" stroke="#0f172a" stroke-width="6"/>
+  <text x="75" y="95" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="28" fill="#0f172a" font-weight="700">PUBLIC INTERNET LANES</text>
+  <text x="75" y="128" font-family="Arial, sans-serif" font-size="17" fill="#475569">Tonight's special: confidence foam with sports-noise shoes.</text>
+  <polygon points="145,420 365,170 535,170 755,420" fill="#fde68a" stroke="#92400e" stroke-width="4"/>
+  <path d="M365 170 L292 420 M535 170 L608 420" stroke="#f59e0b" stroke-width="5" opacity="0.7"/>
+  <circle cx="230" cy="390" r="48" fill="#2563eb" stroke="#1e3a8a" stroke-width="5"/>
+  <circle cx="213" cy="373" r="7" fill="#dbeafe"/><circle cx="239" cy="369" r="7" fill="#dbeafe"/><circle cx="232" cy="397" r="7" fill="#dbeafe"/>
+  <text x="154" y="468" font-family="Arial, sans-serif" font-size="18" fill="#0f172a" font-weight="700">$1,600 ESP32 ball</text>
+  <g font-family="Arial, sans-serif" font-size="15" fill="#0f172a" text-anchor="middle" font-weight="700">
+    <g transform="translate(515 178)"><path d="M0 -32 L18 32 L-18 32 Z" fill="#fef2f2" stroke="#b91c1c" stroke-width="4"/><text y="7">AI</text></g>
+    <g transform="translate(575 205)"><path d="M0 -32 L18 32 L-18 32 Z" fill="#ecfeff" stroke="#0891b2" stroke-width="4"/><text y="7">QWEN</text></g>
+    <g transform="translate(640 235)"><path d="M0 -32 L18 32 L-18 32 Z" fill="#f0fdf4" stroke="#15803d" stroke-width="4"/><text y="7">BUN/RUST</text></g>
+    <g transform="translate(696 275)"><path d="M0 -32 L18 32 L-18 32 Z" fill="#fff7ed" stroke="#c2410c" stroke-width="4"/><text y="7">WC</text></g>
+    <g transform="translate(595 295)"><path d="M0 -32 L18 32 L-18 32 Z" fill="#f5f3ff" stroke="#6d28d9" stroke-width="4"/><text y="7">CTX</text></g>
+  </g>
+  <rect x="86" y="150" width="225" height="116" rx="16" fill="#e0f2fe" stroke="#075985" stroke-width="4"/>
+  <text x="110" y="190" font-family="Arial, sans-serif" font-size="20" fill="#0c4a6e" font-weight="700">LANE STATUS</text>
+  <text x="110" y="222" font-family="Arial, sans-serif" font-size="17" fill="#0c4a6e">hardware thrift: +22%</text>
+  <text x="110" y="250" font-family="Arial, sans-serif" font-size="17" fill="#0c4a6e">critical thinking: gutter</text>
+  <path d="M305 360 C400 315 438 255 502 210" fill="none" stroke="#ef4444" stroke-width="8" stroke-linecap="round" stroke-dasharray="16 12"/>
+  <text x="498" y="382" font-family="ui-monospace, monospace" font-size="22" fill="#991b1b" font-weight="700">CONFIDENCE RELEASED</text>
+</svg>

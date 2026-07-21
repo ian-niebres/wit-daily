@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Surveillance demo agent swarm</title>
+  <desc id="desc">A fake office dashboard where agent swarms chase a jelly button while a sales demo watches from a security camera.</desc>
+  <rect width="960" height="540" fill="#111827"/>
+  <rect x="54" y="54" width="852" height="432" rx="28" fill="#f8fafc" stroke="#67e8f9" stroke-width="5"/>
+  <text x="88" y="104" font-family="monospace" font-size="34" font-weight="700" fill="#0f172a">SALES DEMO CONTROL ROOM</text>
+  <text x="88" y="136" font-family="monospace" font-size="18" fill="#475569">consent status: pending forever</text>
+  <circle cx="786" cy="126" r="48" fill="#fee2e2" stroke="#ef4444" stroke-width="5"/>
+  <circle cx="786" cy="126" r="18" fill="#ef4444"/>
+  <text x="704" y="202" font-family="monospace" font-size="22" font-weight="700" fill="#991b1b">CREEPY DEMO EYE</text>
+  <rect x="94" y="176" width="352" height="230" rx="20" fill="#e0f2fe" stroke="#0284c7" stroke-width="4"/>
+  <text x="125" y="218" font-family="monospace" font-size="24" font-weight="700" fill="#075985">AGENT SWARM</text>
+  <g font-family="monospace" font-size="18" font-weight="700" fill="#0f172a">
+    <circle cx="146" cy="274" r="28" fill="#a7f3d0"/><text x="133" y="281">AI</text>
+    <circle cx="242" cy="274" r="28" fill="#fde68a"/><text x="225" y="281">MCP</text>
+    <circle cx="338" cy="274" r="28" fill="#ddd6fe"/><text x="322" y="281">KIMI</text>
+    <circle cx="196" cy="348" r="28" fill="#fecaca"/><text x="177" y="355">SEO</text>
+    <circle cx="300" cy="348" r="28" fill="#bfdbfe"/><text x="278" y="355">VOICE</text>
+  </g>
+  <path d="M445 292 C520 246, 562 246, 630 292" fill="none" stroke="#f97316" stroke-width="8" stroke-linecap="round" stroke-dasharray="12 16"/>
+  <rect x="590" y="236" width="242" height="132" rx="46" fill="#fb7185" stroke="#881337" stroke-width="5"/>
+  <text x="640" y="291" font-family="monospace" font-size="30" font-weight="800" fill="white">JELLY UI</text>
+  <text x="632" y="326" font-family="monospace" font-size="18" fill="#fff1f2">button now has feelings</text>
+  <rect x="126" y="432" width="704" height="30" rx="15" fill="#0f172a"/>
+  <rect x="126" y="432" width="448" height="30" rx="15" fill="#22c55e"/>
+  <text x="140" y="455" font-family="monospace" font-size="19" font-weight="700" fill="white">HUMANITY v2026.7.20: privacy -8%, office demons +14%</text>
+</svg>

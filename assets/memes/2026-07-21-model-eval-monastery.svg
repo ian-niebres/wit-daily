@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">Model Evaluation Panic Room</title><desc id="desc">A fake compliance dashboard funnels model evaluation alarms into an e-reader monastery and AI gateway turnstile.</desc>
+<rect width="1200" height="675" fill="#111827"/>
+<rect x="58" y="54" width="1084" height="567" rx="34" fill="#f8fafc" stroke="#94a3b8" stroke-width="6"/>
+<text x="95" y="112" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="38" font-weight="800" fill="#0f172a">INTERNET MOOD CONTROL PANEL</text>
+<text x="95" y="154" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" fill="#475569">2026-07-21 // all alarms routed through vibes compliance</text>
+<rect x="95" y="195" width="300" height="310" rx="22" fill="#fee2e2" stroke="#ef4444" stroke-width="5"/>
+<text x="125" y="245" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#7f1d1d">MODEL EVAL</text>
+<text x="125" y="288" font-family="Arial, sans-serif" font-size="24" fill="#991b1b">security incident</text>
+<path d="M155 395 L245 305 L335 395 Z" fill="#fecaca" stroke="#991b1b" stroke-width="5"/>
+<text x="207" y="382" font-family="Arial, sans-serif" font-size="58" font-weight="900" fill="#991b1b">!</text>
+<text x="134" y="457" font-family="Arial, sans-serif" font-size="22" fill="#7f1d1d">do not lick the</text>
+<text x="134" y="486" font-family="Arial, sans-serif" font-size="22" fill="#7f1d1d">benchmark harness</text>
+<rect x="455" y="195" width="290" height="310" rx="22" fill="#ecfeff" stroke="#0891b2" stroke-width="5"/>
+<text x="500" y="245" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#164e63">E-READER</text>
+<text x="502" y="282" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#164e63">MONASTERY</text>
+<rect x="535" y="325" width="130" height="118" rx="12" fill="#cffafe" stroke="#0e7490" stroke-width="4"/>
+<line x1="552" y1="354" x2="648" y2="354" stroke="#0e7490" stroke-width="5"/>
+<line x1="552" y1="384" x2="648" y2="384" stroke="#0e7490" stroke-width="5"/>
+<line x1="552" y1="414" x2="618" y2="414" stroke="#0e7490" stroke-width="5"/>
+<text x="502" y="480" font-family="Arial, sans-serif" font-size="22" fill="#155e75">FreeInk chants quietly</text>
+<rect x="805" y="195" width="290" height="310" rx="22" fill="#ede9fe" stroke="#7c3aed" stroke-width="5"/>
+<text x="850" y="245" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#4c1d95">AI GATEWAY</text>
+<text x="876" y="282" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#4c1d95">TURNSTILE</text>
+<circle cx="950" cy="370" r="74" fill="#ddd6fe" stroke="#6d28d9" stroke-width="5"/>
+<path d="M950 296 L950 444 M876 370 L1024 370 M898 318 L1002 422 M1002 318 L898 422" stroke="#6d28d9" stroke-width="9" stroke-linecap="round"/>
+<text x="843" y="480" font-family="Arial, sans-serif" font-size="22" fill="#4c1d95">268 providers, one panic</text>
+<path d="M398 350 C430 350 430 350 455 350" stroke="#334155" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
+<path d="M748 350 C780 350 780 350 805 350" stroke="#334155" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#334155"/></marker></defs>
+<rect x="95" y="540" width="1000" height="44" rx="22" fill="#0f172a"/>
+<text x="125" y="570" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="24" fill="#f8fafc">STATUS: tariff fog detected; hedge fund order hose returned HTTP 404</text>
+</svg>

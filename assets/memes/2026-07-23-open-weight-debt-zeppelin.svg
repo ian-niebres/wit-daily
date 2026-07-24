@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Open-weight debt zeppelin over the internet mood desk</title>
+  <desc id="desc">A satirical control-room chart where an AI debt zeppelin, handwriting brain, agent browser, and banana ball siren share one dashboard.</desc>
+  <rect width="960" height="540" fill="#10131f"/>
+  <rect x="38" y="38" width="884" height="464" rx="28" fill="#171b2b" stroke="#f4d35e" stroke-width="3"/>
+  <text x="70" y="86" fill="#f4d35e" font-family="monospace" font-size="28" font-weight="700">TODAY'S INTERNET WEATHER</text>
+  <g transform="translate(78 125)">
+    <ellipse cx="310" cy="76" rx="210" ry="54" fill="#d9e2ff" stroke="#6c7cff" stroke-width="5"/>
+    <rect x="170" y="70" width="280" height="54" rx="22" fill="#d9e2ff" stroke="#6c7cff" stroke-width="5"/>
+    <text x="215" y="70" fill="#121528" font-family="monospace" font-size="24" font-weight="700">AI DEBT</text>
+    <text x="202" y="105" fill="#121528" font-family="monospace" font-size="18">OFF BALANCE SHEET</text>
+    <line x1="310" y1="130" x2="310" y2="205" stroke="#f4d35e" stroke-width="4" stroke-dasharray="8 7"/>
+    <rect x="185" y="205" width="250" height="72" rx="14" fill="#242b45" stroke="#f4d35e" stroke-width="3"/>
+    <text x="214" y="248" fill="#fff" font-family="monospace" font-size="20">SOFTWARE FACTORY</text>
+    <text x="258" y="270" fill="#ff6b6b" font-family="monospace" font-size="16">FAILS QA</text>
+  </g>
+  <g transform="translate(620 130)">
+    <path d="M58 5 C20 40 20 112 76 138 C132 110 126 42 88 5 Z" fill="#fff4c2" stroke="#f4d35e" stroke-width="4"/>
+    <text x="30" y="75" fill="#121528" font-family="monospace" font-size="16" font-weight="700">HAND</text>
+    <text x="24" y="96" fill="#121528" font-family="monospace" font-size="16" font-weight="700">BRAIN</text>
+    <rect x="-18" y="172" width="204" height="74" rx="12" fill="#242b45" stroke="#6c7cff" stroke-width="3"/>
+    <text x="4" y="202" fill="#fff" font-family="monospace" font-size="17">AGENT BROWSER</text>
+    <text x="16" y="224" fill="#9bf6ff" font-family="monospace" font-size="14">opens 290 tabs</text>
+  </g>
+  <g transform="translate(90 390)">
+    <circle cx="42" cy="42" r="36" fill="#ffe066" stroke="#121528" stroke-width="4"/>
+    <path d="M30 13 C58 28 62 58 37 74" fill="none" stroke="#121528" stroke-width="8" stroke-linecap="round"/>
+    <text x="95" y="35" fill="#fff" font-family="monospace" font-size="22" font-weight="700">BANANA BALL ALERT</text>
+    <text x="95" y="62" fill="#b8c1ec" font-family="monospace" font-size="16">search weather now fruit-shaped</text>
+  </g>
+  <g transform="translate(600 390)">
+    <rect width="244" height="64" rx="12" fill="#ff6b6b"/>
+    <text x="25" y="39" fill="#10131f" font-family="monospace" font-size="21" font-weight="700">OPEN WEIGHTS?</text>
+    <path d="M-50 32 H-8" stroke="#ff6b6b" stroke-width="5" marker-end="url(#arrow)"/>
+  </g>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#ff6b6b"/></marker></defs>
+</svg>

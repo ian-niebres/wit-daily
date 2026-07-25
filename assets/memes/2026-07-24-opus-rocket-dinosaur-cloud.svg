@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 520" role="img" aria-labelledby="title desc">
+  <title id="title">Opus rocket credential weather meme</title>
+  <desc id="desc">A fake internet weather dashboard showing an Opus rocket, dinosaur cloud, credential leak, and baseball tarot.</desc>
+  <rect width="920" height="520" rx="28" fill="#10131f"/>
+  <rect x="34" y="34" width="852" height="452" rx="22" fill="#f5efe1" stroke="#262a3f" stroke-width="4"/>
+  <text x="64" y="82" font-family="monospace" font-size="28" font-weight="700" fill="#141827">INTERNET WEATHER DESK</text>
+  <text x="64" y="116" font-family="monospace" font-size="15" fill="#5d6478">2026-07-24 // confidence: leaderboard-shaped</text>
+  <path d="M135 235 C170 170 245 155 300 205 C340 150 420 160 450 220 C520 205 565 250 540 315 C500 375 410 345 365 340 C315 390 230 372 215 318 C160 325 110 295 135 235Z" fill="#d7e7ff" stroke="#26344d" stroke-width="4"/>
+  <circle cx="226" cy="238" r="12" fill="#26344d"/>
+  <path d="M290 250 q35 34 82 0" fill="none" stroke="#26344d" stroke-width="5" stroke-linecap="round"/>
+  <text x="185" y="220" font-family="monospace" font-size="18" font-weight="700" fill="#26344d">DINOSAUR</text>
+  <text x="203" y="344" font-family="monospace" font-size="18" fill="#26344d">CLOUD SAYS: ROAR?</text>
+  <g transform="translate(610 135)">
+    <path d="M70 0 L125 150 L70 125 L15 150 Z" fill="#ff6b57" stroke="#271b1b" stroke-width="4"/>
+    <rect x="48" y="82" width="44" height="70" fill="#ffd166" stroke="#271b1b" stroke-width="3"/>
+    <circle cx="70" cy="60" r="20" fill="#e8f6ff" stroke="#271b1b" stroke-width="3"/>
+    <path d="M45 150 q25 45 50 0" fill="#ffb703" stroke="#271b1b" stroke-width="3"/>
+    <text x="-8" y="190" font-family="monospace" font-size="18" font-weight="700" fill="#141827">OPUS 5</text>
+    <text x="-44" y="216" font-family="monospace" font-size="14" fill="#141827">LEADERBOARD ROCKET</text>
+  </g>
+  <rect x="72" y="385" width="222" height="56" rx="12" fill="#141827"/>
+  <text x="92" y="419" font-family="monospace" font-size="18" fill="#ffdf6e">GITHUB TOKEN</text>
+  <path d="M300 413 C380 390 445 400 520 360" stroke="#ff6b57" stroke-width="6" fill="none" stroke-dasharray="12 10"/>
+  <text x="405" y="396" font-family="monospace" font-size="16" fill="#ff6b57">leaked in login page</text>
+  <rect x="590" y="365" width="230" height="74" rx="14" fill="#e3f8d6" stroke="#26344d" stroke-width="3"/>
+  <text x="612" y="395" font-family="monospace" font-size="16" fill="#26344d">BASEBALL TAROT</text>
+  <text x="612" y="423" font-family="monospace" font-size="16" fill="#26344d">NWSL SCOREBOARD FOG</text>
+</svg>

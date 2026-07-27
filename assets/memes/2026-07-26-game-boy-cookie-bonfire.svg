@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Game Boy cookie-banner bonfire</title>
+  <desc id="desc">A satirical market dashboard where a Game Boy serves htmx 4.0 while cookie banners burn and agent browsers queue tolls.</desc>
+  <rect width="1200" height="700" fill="#120f1f"/>
+  <rect x="55" y="55" width="1090" height="590" rx="34" fill="#f6efe2" stroke="#1b1730" stroke-width="8"/>
+  <text x="600" y="118" text-anchor="middle" font-family="monospace" font-size="42" font-weight="800" fill="#1b1730">SUNDAY INTERNET OPERATIONS BOARD</text>
+  <g transform="translate(95 165)">
+    <rect x="0" y="0" width="330" height="420" rx="28" fill="#8aa39b" stroke="#1b1730" stroke-width="7"/>
+    <rect x="45" y="55" width="240" height="170" rx="8" fill="#c9e79a" stroke="#1b1730" stroke-width="5"/>
+    <text x="165" y="115" text-anchor="middle" font-family="monospace" font-size="32" font-weight="800" fill="#1b1730">htmx 4.0</text>
+    <text x="165" y="158" text-anchor="middle" font-family="monospace" font-size="24" fill="#1b1730">GAME BOY</text>
+    <circle cx="246" cy="310" r="34" fill="#ca3f63" stroke="#1b1730" stroke-width="5"/>
+    <circle cx="165" cy="355" r="20" fill="#1b1730"/>
+    <path d="M70 305 h80 M110 265 v80" stroke="#1b1730" stroke-width="18" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(488 190)">
+    <rect x="0" y="0" width="270" height="95" rx="14" fill="#fff" stroke="#1b1730" stroke-width="5"/>
+    <text x="135" y="38" text-anchor="middle" font-family="monospace" font-size="20" font-weight="800" fill="#1b1730">COOKIE BANNER</text>
+    <text x="135" y="68" text-anchor="middle" font-family="monospace" font-size="18" fill="#1b1730">CONSENT: ON FIRE</text>
+    <path d="M35 130 c20 -35 35 -10 48 -55 c14 42 36 28 45 78 c15 -28 33 -42 52 5 c20 -52 45 -25 58 12" fill="#f06a3a" stroke="#1b1730" stroke-width="5"/>
+    <path d="M75 145 c15 -25 24 -7 35 -40 c15 35 27 20 34 58 c16 -27 30 -18 42 10" fill="#ffd166"/>
+    <text x="135" y="245" text-anchor="middle" font-family="monospace" font-size="28" font-weight="800" fill="#1b1730">771 HN POINTS</text>
+  </g>
+  <g transform="translate(820 175)">
+    <rect x="0" y="0" width="270" height="360" rx="22" fill="#dbe7ff" stroke="#1b1730" stroke-width="6"/>
+    <text x="135" y="48" text-anchor="middle" font-family="monospace" font-size="24" font-weight="800" fill="#1b1730">AGENT BROWSER</text>
+    <path d="M55 105 h160 v74 h-160z" fill="#fff" stroke="#1b1730" stroke-width="5"/>
+    <text x="135" y="150" text-anchor="middle" font-family="monospace" font-size="20" fill="#1b1730">logged-in toll</text>
+    <path d="M65 245 h140" stroke="#1b1730" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="85" cy="245" r="23" fill="#6ee7b7" stroke="#1b1730" stroke-width="5"/>
+    <circle cx="185" cy="245" r="23" fill="#f472b6" stroke="#1b1730" stroke-width="5"/>
+    <text x="135" y="315" text-anchor="middle" font-family="monospace" font-size="20" fill="#1b1730">browser roommate drama</text>
+  </g>
+  <path d="M410 375 C520 330 620 335 760 375" fill="none" stroke="#1b1730" stroke-width="7" stroke-dasharray="16 14" marker-end="url(#arrow)"/>
+  <defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1b1730"/></marker></defs>
+  <text x="600" y="622" text-anchor="middle" font-family="monospace" font-size="26" font-weight="800" fill="#1b1730">Consensus: nostalgia is a compliance strategy with batteries sold separately.</text>
+</svg>

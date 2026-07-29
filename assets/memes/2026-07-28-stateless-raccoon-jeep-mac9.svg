@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Stateless protocol raccoon melts a Jeep in a retro computer museum</title>
+  <desc id="desc">A satirical control room with a raccoon pressing a stateless protocol button while a water-lens sun melts a Jeep and a Mac OS 9 computer watches.</desc>
+  <rect width="900" height="520" fill="#171321"/>
+  <rect x="36" y="36" width="828" height="448" rx="28" fill="#f6efe2" stroke="#2a2138" stroke-width="6"/>
+  <text x="70" y="86" font-family="monospace" font-size="30" font-weight="700" fill="#241b33">TODAY'S INTERNET WEATHER DESK</text>
+  <rect x="70" y="120" width="270" height="300" rx="18" fill="#d7f7ff" stroke="#241b33" stroke-width="4"/>
+  <text x="98" y="164" font-family="monospace" font-size="24" fill="#241b33">MCP</text>
+  <text x="98" y="196" font-family="monospace" font-size="24" fill="#241b33">STATELESS</text>
+  <circle cx="215" cy="282" r="72" fill="#6b5b4b" stroke="#241b33" stroke-width="4"/>
+  <circle cx="188" cy="265" r="12" fill="#241b33"/><circle cx="242" cy="265" r="12" fill="#241b33"/>
+  <path d="M174 238 Q215 212 256 238" fill="none" stroke="#241b33" stroke-width="8"/>
+  <path d="M184 305 Q215 330 248 305" fill="none" stroke="#241b33" stroke-width="5"/>
+  <rect x="140" y="352" width="150" height="38" rx="9" fill="#ff6b6b" stroke="#241b33" stroke-width="3"/>
+  <text x="158" y="378" font-family="monospace" font-size="18" fill="#241b33">PUSH PROTOCOL</text>
+  <rect x="382" y="120" width="200" height="120" rx="16" fill="#222" stroke="#241b33" stroke-width="4"/>
+  <rect x="404" y="144" width="156" height="64" fill="#98f58f"/>
+  <text x="418" y="183" font-family="monospace" font-size="18" fill="#14220f">MAC OS 9</text>
+  <text x="384" y="272" font-family="monospace" font-size="24" fill="#241b33">HALF-LIFE PORT</text>
+  <text x="384" y="304" font-family="monospace" font-size="18" fill="#241b33">museum begins onboarding</text>
+  <circle cx="710" cy="142" r="44" fill="#ffd166" stroke="#241b33" stroke-width="4"/>
+  <path d="M704 188 L642 300" stroke="#ff6b6b" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="650" cy="285" rx="48" ry="28" fill="#8ecae6" opacity=".72" stroke="#241b33" stroke-width="3"/>
+  <path d="M620 350 h185 l-24 50 h-142 z" fill="#4361ee" stroke="#241b33" stroke-width="4"/>
+  <circle cx="654" cy="405" r="18" fill="#241b33"/><circle cx="760" cy="405" r="18" fill="#241b33"/>
+  <path d="M650 326 q40 42 118 0" fill="none" stroke="#ff6b6b" stroke-width="9"/>
+  <text x="604" y="465" font-family="monospace" font-size="22" fill="#241b33">JEEP.EXE HAS SOFTENED</text>
+  <rect x="383" y="330" width="172" height="90" rx="14" fill="#fff" stroke="#241b33" stroke-width="4"/>
+  <text x="402" y="365" font-family="monospace" font-size="17" fill="#241b33">ONLYMARMS</text>
+  <text x="402" y="392" font-family="monospace" font-size="17" fill="#241b33">RESEARCH FUND</text>
+  <text x="402" y="415" font-family="monospace" font-size="14" fill="#241b33">chunky alpha</text>
+</svg>

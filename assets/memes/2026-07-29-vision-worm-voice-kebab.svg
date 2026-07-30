@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Vision Pro realtor discovers document worms at a voice-agent kebab shop</title>
+  <desc id="desc">A satirical two-panel cartoon with a headset realtor, a Word document worm, a kebab PC, and an earthquake cat.</desc>
+  <rect width="900" height="520" rx="28" fill="#10131f"/>
+  <rect x="35" y="40" width="830" height="440" rx="24" fill="#f7efe1" stroke="#282c3d" stroke-width="6"/>
+  <line x1="450" y1="70" x2="450" y2="450" stroke="#282c3d" stroke-width="4" stroke-dasharray="10 10"/>
+  <text x="225" y="92" text-anchor="middle" font-family="monospace" font-size="26" font-weight="700" fill="#2b2f42">SMART HOME TOUR</text>
+  <rect x="95" y="135" width="245" height="200" rx="18" fill="#d6ecff" stroke="#2b2f42" stroke-width="4"/>
+  <polygon points="115,335 320,335 275,430 160,430" fill="#b68b5b" stroke="#2b2f42" stroke-width="4"/>
+  <circle cx="175" cy="185" r="36" fill="#ffd8b1" stroke="#2b2f42" stroke-width="4"/>
+  <rect x="128" y="170" width="96" height="32" rx="16" fill="#222638"/>
+  <circle cx="155" cy="185" r="7" fill="#9ee7ff"/><circle cx="197" cy="185" r="7" fill="#9ee7ff"/>
+  <text x="220" y="235" text-anchor="middle" font-family="monospace" font-size="20" fill="#2b2f42">2BR / 1BATH</text>
+  <text x="220" y="262" text-anchor="middle" font-family="monospace" font-size="18" fill="#2b2f42">+ headset aura</text>
+  <path d="M315 175 C380 135 395 240 330 230" fill="none" stroke="#e4572e" stroke-width="8"/>
+  <text x="325" y="145" font-family="monospace" font-size="18" fill="#e4572e">AI worms</text>
+  <text x="675" y="92" text-anchor="middle" font-family="monospace" font-size="26" font-weight="700" fill="#2b2f42">VOICE AGENT KEBAB</text>
+  <rect x="545" y="150" width="215" height="210" rx="18" fill="#1f2433" stroke="#2b2f42" stroke-width="4"/>
+  <line x1="652" y1="160" x2="652" y2="345" stroke="#f6c453" stroke-width="10"/>
+  <ellipse cx="652" cy="215" rx="72" ry="22" fill="#d46a3a"/><ellipse cx="652" cy="265" rx="82" ry="24" fill="#7bb661"/><ellipse cx="652" cy="310" rx="70" ry="22" fill="#d46a3a"/>
+  <circle cx="760" cy="170" r="22" fill="#8fd3ff"/><path d="M760 190 L760 260" stroke="#8fd3ff" stroke-width="8"/>
+  <path d="M790 205 q35 35 0 70" fill="none" stroke="#8fd3ff" stroke-width="5"/>
+  <path d="M805 188 q55 55 0 110" fill="none" stroke="#8fd3ff" stroke-width="4" opacity=".7"/>
+  <text x="652" y="395" text-anchor="middle" font-family="monospace" font-size="20" fill="#2b2f42">THERMAL PASTE: tzatziki</text>
+  <path d="M540 420 q35 -45 70 0 q35 -45 70 0" fill="none" stroke="#2b2f42" stroke-width="5"/>
+  <text x="610" y="455" text-anchor="middle" font-family="monospace" font-size="18" fill="#2b2f42">earthquake cat approved</text>
+  <text x="450" y="495" text-anchor="middle" font-family="monospace" font-size="18" fill="#f7efe1">Humanity v2026.7.29: now with mortgage goggles and edible GPUs</text>
+</svg>

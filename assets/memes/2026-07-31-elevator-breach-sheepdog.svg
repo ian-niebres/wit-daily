@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 650" role="img" aria-labelledby="title desc">
+  <title id="title">Elevator breach committee and model-weight sheepdog</title>
+  <desc id="desc">A fake incident dashboard with an elevator, breach postmortem, model weights, sheepdogs, and a daylight-saving clock.</desc>
+  <rect width="1100" height="650" fill="#120f24"/>
+  <rect x="36" y="36" width="1028" height="578" rx="28" fill="#f4efe4" stroke="#111" stroke-width="6"/>
+  <text x="72" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="36" font-weight="800" fill="#161622">INCIDENT REVIEW: THE ELEVATOR HAS LOGS</text>
+  <text x="74" y="128" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#5b5568">authorized by: model weights nostalgia / daylight-saving committee / two polite dogs</text>
+
+  <rect x="78" y="165" width="230" height="360" rx="18" fill="#dfe8ff" stroke="#151522" stroke-width="4"/>
+  <rect x="150" y="205" width="88" height="260" fill="#2f3957" stroke="#151522" stroke-width="4"/>
+  <line x1="194" y1="205" x2="194" y2="465" stroke="#f4efe4" stroke-width="3"/>
+  <circle cx="194" cy="335" r="38" fill="#ffcc4d" stroke="#151522" stroke-width="4"/>
+  <text x="166" y="344" font-family="ui-monospace, monospace" font-size="18" font-weight="800" fill="#151522">AUTH?</text>
+  <text x="108" y="500" font-family="ui-monospace, monospace" font-size="22" font-weight="800" fill="#151522">ELEVATOR</text>
+
+  <rect x="350" y="165" width="330" height="150" rx="18" fill="#fff1b8" stroke="#151522" stroke-width="4"/>
+  <text x="376" y="206" font-family="ui-monospace, monospace" font-size="22" font-weight="800" fill="#151522">POSTMORTEM BAROMETER</text>
+  <text x="376" y="244" font-family="ui-monospace, monospace" font-size="24" fill="#151522">breach: 82% cloudy</text>
+  <text x="376" y="280" font-family="ui-monospace, monospace" font-size="24" fill="#151522">router: deprecated</text>
+
+  <rect x="350" y="350" width="330" height="175" rx="18" fill="#e8ffe1" stroke="#151522" stroke-width="4"/>
+  <circle cx="425" cy="432" r="42" fill="#fff" stroke="#151522" stroke-width="4"/>
+  <circle cx="560" cy="432" r="42" fill="#fff" stroke="#151522" stroke-width="4"/>
+  <path d="M398 408 L380 382 M450 408 L470 382 M535 408 L515 382 M585 408 L605 382" stroke="#151522" stroke-width="6" stroke-linecap="round"/>
+  <text x="382" y="506" font-family="ui-monospace, monospace" font-size="22" font-weight="800" fill="#151522">SHEEPDOG CONSENSUS</text>
+
+  <rect x="735" y="165" width="260" height="360" rx="18" fill="#ffd6e7" stroke="#151522" stroke-width="4"/>
+  <circle cx="865" cy="285" r="86" fill="#fff" stroke="#151522" stroke-width="5"/>
+  <line x1="865" y1="285" x2="865" y2="220" stroke="#151522" stroke-width="6" stroke-linecap="round"/>
+  <line x1="865" y1="285" x2="925" y2="315" stroke="#151522" stroke-width="6" stroke-linecap="round"/>
+  <text x="780" y="410" font-family="ui-monospace, monospace" font-size="26" font-weight="800" fill="#151522">DAYLIGHT</text>
+  <text x="780" y="442" font-family="ui-monospace, monospace" font-size="26" font-weight="800" fill="#151522">SAVINGS</text>
+  <text x="780" y="480" font-family="ui-monospace, monospace" font-size="18" fill="#151522">patch notes pending</text>
+
+  <path d="M310 345 C340 330 352 300 350 250" fill="none" stroke="#151522" stroke-width="5" marker-end="url(#arrow)"/>
+  <path d="M680 430 C710 430 720 380 735 345" fill="none" stroke="#151522" stroke-width="5" marker-end="url(#arrow)"/>
+  <defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#151522"/></marker></defs>
+  <text x="80" y="580" font-family="ui-monospace, monospace" font-size="24" font-weight="800" fill="#161622">MOOD: AUTHZ DOGS RIDING A LEGACY LIFT INTO A CLOCK WAR</text>
+</svg>

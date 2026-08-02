@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 520" role="img" aria-labelledby="title desc">
+  <title id="title">Weekend Calculator Linux at the Water Tower</title>
+  <desc id="desc">A fake dashboard showing a calculator running Linux, a water tower PLC alert, anime UI eyeliner, and a rabbit scooter risk warning.</desc>
+  <rect width="920" height="520" fill="#fff9ee"/>
+  <rect x="26" y="26" width="868" height="468" rx="18" fill="#fffef8" stroke="#171717" stroke-width="6"/>
+  <text x="54" y="76" font-family="Georgia,serif" font-size="38" font-weight="700" fill="#171717">SATURDAY SYSTEM STATUS</text>
+  <text x="56" y="112" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#ff5a7a">all infrastructure is now a weekend hobby</text>
+
+  <g transform="translate(58 150)">
+    <rect x="0" y="0" width="245" height="290" rx="24" fill="#15b8c8" stroke="#171717" stroke-width="5"/>
+    <rect x="30" y="32" width="185" height="78" rx="8" fill="#171717"/>
+    <text x="48" y="78" font-family="monospace" font-size="24" fill="#35b779">boot&gt; linux</text>
+    <g fill="#fff9ee" stroke="#171717" stroke-width="3">
+      <rect x="35" y="140" width="42" height="35" rx="6"/><rect x="101" y="140" width="42" height="35" rx="6"/><rect x="167" y="140" width="42" height="35" rx="6"/>
+      <rect x="35" y="194" width="42" height="35" rx="6"/><rect x="101" y="194" width="42" height="35" rx="6"/><rect x="167" y="194" width="42" height="35" rx="6"/>
+    </g>
+    <text x="36" y="267" font-family="Arial,sans-serif" font-size="19" font-weight="900" fill="#171717">CALCULATOR UNION</text>
+  </g>
+
+  <g transform="translate(360 138)">
+    <rect x="0" y="90" width="210" height="190" rx="18" fill="#f2c94c" stroke="#171717" stroke-width="5"/>
+    <path d="M55 90 C62 20 145 20 155 90" fill="none" stroke="#171717" stroke-width="14" stroke-linecap="round"/>
+    <rect x="48" y="125" width="118" height="86" rx="8" fill="#fff9ee" stroke="#171717" stroke-width="4"/>
+    <text x="68" y="158" font-family="Arial,sans-serif" font-size="22" font-weight="900" fill="#171717">PLC</text>
+    <text x="66" y="188" font-family="monospace" font-size="19" fill="#ff5a7a">WARN</text>
+    <text x="24" y="260" font-family="Arial,sans-serif" font-size="18" font-weight="900" fill="#171717">WATER TOWER WITH A PASSWORD</text>
+  </g>
+
+  <g transform="translate(625 150)">
+    <rect x="0" y="0" width="224" height="238" rx="16" fill="#ffffff" stroke="#171717" stroke-width="5"/>
+    <text x="26" y="42" font-family="Arial,sans-serif" font-size="23" font-weight="900" fill="#171717">ANIME UI</text>
+    <path d="M35 94 Q112 40 190 94" fill="none" stroke="#171717" stroke-width="6"/>
+    <circle cx="76" cy="98" r="16" fill="#15b8c8" stroke="#171717" stroke-width="4"/>
+    <circle cx="150" cy="98" r="16" fill="#ff5a7a" stroke="#171717" stroke-width="4"/>
+    <path d="M54 138 C90 168 136 168 174 138" fill="none" stroke="#171717" stroke-width="5"/>
+    <text x="24" y="202" font-family="monospace" font-size="18" fill="#171717">fiduciary mode?</text>
+    <text x="62" y="226" font-family="monospace" font-size="18" fill="#ff5a7a">absolutely not</text>
+  </g>
+
+  <g transform="translate(610 410)">
+    <path d="M0 42 C75 -8 132 90 226 28" fill="none" stroke="#171717" stroke-width="5" stroke-dasharray="10 8"/>
+    <text x="8" y="24" font-family="Arial,sans-serif" font-size="20" font-weight="900" fill="#171717">RABBIT SCOOTER RISK: NEVER ZERO</text>
+  </g>
+</svg>

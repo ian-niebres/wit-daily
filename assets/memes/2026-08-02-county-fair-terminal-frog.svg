@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">County Fair Terminal Frog Compliance Board</title>
+  <desc id="desc">A satirical fair booth where an AI poster cow, a terminal frog, a hardware attestation bouncer, and a baby bird appear on an internet mood dashboard.</desc>
+  <rect width="960" height="540" fill="#10131f"/>
+  <rect x="34" y="34" width="892" height="472" rx="28" fill="#f8efe1" stroke="#20243a" stroke-width="8"/>
+  <text x="70" y="86" font-family="monospace" font-size="32" font-weight="700" fill="#20243a">INTERNET COUNTY FAIR: MACHINE ID CHECK</text>
+  <rect x="70" y="120" width="250" height="310" rx="18" fill="#ffd166" stroke="#20243a" stroke-width="5"/>
+  <text x="96" y="162" font-family="monospace" font-size="22" font-weight="700" fill="#20243a">AI POSTER COW</text>
+  <ellipse cx="194" cy="272" rx="82" ry="58" fill="#fff" stroke="#20243a" stroke-width="5"/>
+  <circle cx="165" cy="256" r="16" fill="#20243a"/><circle cx="218" cy="286" r="22" fill="#20243a"/>
+  <rect x="137" y="214" width="113" height="48" rx="16" fill="#fff" stroke="#20243a" stroke-width="4"/>
+  <text x="111" y="374" font-family="monospace" font-size="20" fill="#20243a">BLUE RIBBON:</text>
+  <text x="104" y="402" font-family="monospace" font-size="20" fill="#20243a">PROMPTED VIBES</text>
+  <rect x="355" y="120" width="250" height="310" rx="18" fill="#9be7c9" stroke="#20243a" stroke-width="5"/>
+  <text x="389" y="162" font-family="monospace" font-size="22" font-weight="700" fill="#20243a">TERMINAL FROG</text>
+  <rect x="392" y="202" width="176" height="126" rx="10" fill="#20243a"/>
+  <text x="414" y="246" font-family="monospace" font-size="24" fill="#9be7c9">$ ribbit</text>
+  <text x="414" y="282" font-family="monospace" font-size="20" fill="#ff6b6b">unsafe++</text>
+  <ellipse cx="480" cy="364" rx="72" ry="28" fill="#4ecdc4" stroke="#20243a" stroke-width="5"/>
+  <text x="398" y="404" font-family="monospace" font-size="19" fill="#20243a">BENCHMARK: JAW</text>
+  <rect x="640" y="120" width="220" height="138" rx="18" fill="#cdb4db" stroke="#20243a" stroke-width="5"/>
+  <text x="674" y="160" font-family="monospace" font-size="21" font-weight="700" fill="#20243a">AGE GATE</text>
+  <text x="668" y="199" font-family="monospace" font-size="18" fill="#20243a">SHOW DEVICE</text>
+  <text x="682" y="225" font-family="monospace" font-size="18" fill="#20243a">NOT FACE</text>
+  <rect x="640" y="292" width="220" height="138" rx="18" fill="#a2d2ff" stroke="#20243a" stroke-width="5"/>
+  <text x="675" y="332" font-family="monospace" font-size="21" font-weight="700" fill="#20243a">BABY BIRD</text>
+  <text x="666" y="372" font-family="monospace" font-size="18" fill="#20243a">EXPECTS FOOD</text>
+  <text x="670" y="398" font-family="monospace" font-size="18" fill="#20243a">AS A SERVICE</text>
+  <path d="M318 270 C344 250 346 250 370 270" stroke="#20243a" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+  <path d="M606 240 C632 224 626 206 648 194" stroke="#20243a" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+  <path d="M606 336 C632 352 626 368 648 378" stroke="#20243a" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#20243a"/></marker></defs>
+  <text x="72" y="470" font-family="monospace" font-size="22" fill="#20243a">JUDGE NOTES: confidence 72%, crumbs queued for Monday</text>
+</svg>

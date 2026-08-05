@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Passkey biscuit sidebar compliance dashboard</title>
+  <desc id="desc">A satirical browser dashboard showing a passkey goblin, Costco biscuits, agent memory binders, a tire kaiju, and a quote hose rejection meter.</desc>
+  <rect width="960" height="540" rx="28" fill="#16151f"/>
+  <rect x="42" y="42" width="876" height="456" rx="24" fill="#f7efe3" stroke="#272331" stroke-width="6"/>
+  <rect x="68" y="82" width="585" height="366" rx="18" fill="#fffaf0" stroke="#272331" stroke-width="4"/>
+  <rect x="682" y="82" width="190" height="366" rx="18" fill="#e8f0ff" stroke="#272331" stroke-width="4"/>
+  <text x="90" y="122" font-family="monospace" font-size="28" font-weight="700" fill="#272331">BROWSER SIDEBAR AUDIT</text>
+  <text x="704" y="122" font-family="monospace" font-size="22" font-weight="700" fill="#272331">SIGNALS</text>
+  <circle cx="205" cy="240" r="64" fill="#8bd3dd" stroke="#272331" stroke-width="5"/>
+  <path d="M160 230 q45 -72 90 0 v70 q-45 35 -90 0z" fill="#5b4b8a" stroke="#272331" stroke-width="5"/>
+  <circle cx="185" cy="230" r="7" fill="#fff"/><circle cx="225" cy="230" r="7" fill="#fff"/>
+  <path d="M184 268 q22 18 44 0" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  <text x="137" y="336" font-family="monospace" font-size="19" font-weight="700" fill="#272331">PASSKEY GOBLIN</text>
+  <rect x="330" y="176" width="220" height="138" rx="16" fill="#ffd166" stroke="#272331" stroke-width="5"/>
+  <path d="M352 218 h176 M352 252 h176" stroke="#b87333" stroke-width="10" stroke-linecap="round"/>
+  <text x="348" y="348" font-family="monospace" font-size="20" font-weight="700" fill="#272331">COSTCO BISCUIT</text>
+  <text x="358" y="376" font-family="monospace" font-size="16" fill="#272331">liquidity event</text>
+  <rect x="92" y="390" width="512" height="36" rx="8" fill="#272331"/>
+  <rect x="104" y="400" width="185" height="16" rx="8" fill="#ef476f"/>
+  <rect x="300" y="400" width="130" height="16" rx="8" fill="#06d6a0"/>
+  <rect x="442" y="400" width="120" height="16" rx="8" fill="#118ab2"/>
+  <text x="112" y="414" font-family="monospace" font-size="12" fill="#fff">QUOTE HOSE: 404</text>
+  <path d="M600 180 q-30 85 22 158" fill="none" stroke="#272331" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="610" cy="180" r="22" fill="#333"/><circle cx="628" cy="242" r="20" fill="#333"/><circle cx="614" cy="314" r="24" fill="#333"/>
+  <text x="704" y="170" font-family="monospace" font-size="16" fill="#272331">agent memory</text>
+  <rect x="704" y="184" width="132" height="42" rx="6" fill="#fff" stroke="#272331" stroke-width="3"/>
+  <text x="716" y="211" font-family="monospace" font-size="14" fill="#272331">BINDER +1</text>
+  <text x="704" y="270" font-family="monospace" font-size="16" fill="#272331">tire kaiju</text>
+  <path d="M724 330 q30 -76 68 0 q22 -34 44 18" fill="none" stroke="#272331" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="746" cy="344" r="18" fill="#444"/><circle cx="804" cy="352" r="20" fill="#444"/>
+  <text x="704" y="415" font-family="monospace" font-size="16" fill="#272331">forecast: biscuit fog</text>
+</svg>

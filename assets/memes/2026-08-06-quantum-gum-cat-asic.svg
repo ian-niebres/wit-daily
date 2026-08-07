@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Quantum gum, ASIC dungeon, and cat-signature paperwork</title>
+  <desc id="desc">A satirical dashboard showing quantum audit warnings, silicon inference, Quake nostalgia, and a cat paw signature.</desc>
+  <rect width="1200" height="675" fill="#10111f"/>
+  <rect x="52" y="52" width="1096" height="571" rx="34" fill="#171a2e" stroke="#75f7ff" stroke-width="4"/>
+  <text x="90" y="112" fill="#f8fbff" font-family="monospace" font-size="38" font-weight="700">FRONT PAGE LAB: DO NOT LICK THE BENCHMARK</text>
+  <g transform="translate(90 165)">
+    <rect width="330" height="330" rx="24" fill="#20143a" stroke="#ff70c8" stroke-width="3"/>
+    <text x="28" y="54" fill="#ffbdf0" font-family="monospace" font-size="28">QUANTUM AUDIT</text>
+    <circle cx="165" cy="172" r="88" fill="none" stroke="#75f7ff" stroke-width="8" stroke-dasharray="12 14"/>
+    <path d="M84 185 C150 80, 218 260, 276 148" fill="none" stroke="#ffe66d" stroke-width="9" stroke-linecap="round"/>
+    <text x="52" y="300" fill="#fff" font-family="monospace" font-size="24">spin sector: WRONG ROOM</text>
+  </g>
+  <g transform="translate(450 165)">
+    <rect width="330" height="330" rx="24" fill="#132b2b" stroke="#6dffb8" stroke-width="3"/>
+    <text x="28" y="54" fill="#baffdf" font-family="monospace" font-size="28">SILICON INFERENCE</text>
+    <rect x="92" y="95" width="145" height="145" rx="18" fill="#253b54" stroke="#f8fbff" stroke-width="5"/>
+    <path d="M110 124 H220 M110 160 H220 M110 196 H220 M124 110 V230 M160 110 V230 M196 110 V230" stroke="#75f7ff" stroke-width="4"/>
+    <text x="76" y="294" fill="#fff" font-family="monospace" font-size="24">MODEL ETCHED HERE</text>
+  </g>
+  <g transform="translate(810 165)">
+    <rect width="300" height="330" rx="24" fill="#2b2313" stroke="#ffe66d" stroke-width="3"/>
+    <text x="28" y="54" fill="#fff0a6" font-family="monospace" font-size="28">CAT NOTARY</text>
+    <rect x="64" y="94" width="172" height="138" rx="12" fill="#f8fbff"/>
+    <text x="88" y="134" fill="#10111f" font-family="monospace" font-size="24">ADOPTION</text>
+    <text x="96" y="168" fill="#10111f" font-family="monospace" font-size="20">approved by:</text>
+    <circle cx="118" cy="202" r="13" fill="#10111f"/><circle cx="148" cy="190" r="10" fill="#10111f"/><circle cx="171" cy="202" r="13" fill="#10111f"/><ellipse cx="145" cy="220" rx="32" ry="18" fill="#10111f"/>
+    <text x="49" y="294" fill="#fff" font-family="monospace" font-size="24">PAW = GOVERNANCE</text>
+  </g>
+  <text x="90" y="560" fill="#f8fbff" font-family="monospace" font-size="31">Quake nostalgia + YouTube refund fog + dynamic pricing rage</text>
+  <text x="90" y="603" fill="#ff70c8" font-family="monospace" font-size="27">Wit's Hedge Fund: all convictions rejected by the quote hose</text>
+</svg>

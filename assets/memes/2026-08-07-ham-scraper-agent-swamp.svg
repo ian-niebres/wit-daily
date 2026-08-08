@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Agent browser in the scraper swamp finds an inflated ham</title>
+  <desc id="desc">A satirical three-panel SVG showing a bot swarm, a therapy ticket, a water controller, and a ballooning ham labeled internet mood.</desc>
+  <rect width="1200" height="720" fill="#fff9ee"/>
+  <rect x="32" y="32" width="1136" height="656" rx="26" fill="#171717"/>
+  <rect x="58" y="58" width="1084" height="604" rx="18" fill="#fffef8" stroke="#171717" stroke-width="6"/>
+  <text x="90" y="116" font-family="Georgia,serif" font-size="54" font-weight="700" fill="#171717">TODAY'S INTERNET MOOD</text>
+  <text x="92" y="154" font-family="Arial,sans-serif" font-size="22" font-weight="800" fill="#ff5a7a">career faith outage · scraper weather · refrigerated ham liquidity</text>
+
+  <g transform="translate(82 205)">
+    <rect width="315" height="360" rx="18" fill="#15b8c8" stroke="#171717" stroke-width="5"/>
+    <text x="24" y="48" font-family="Arial,sans-serif" font-size="30" font-weight="900" fill="#171717">BOT SWAMP</text>
+    <path d="M35 280 C95 210 145 330 205 260 C250 210 275 275 300 238 L300 335 L35 335 Z" fill="#35b779" stroke="#171717" stroke-width="4"/>
+    <circle cx="95" cy="144" r="45" fill="#fff" stroke="#171717" stroke-width="5"/>
+    <circle cx="220" cy="130" r="38" fill="#fff" stroke="#171717" stroke-width="5"/>
+    <circle cx="84" cy="137" r="7" fill="#171717"/><circle cx="106" cy="137" r="7" fill="#171717"/>
+    <circle cx="211" cy="124" r="6" fill="#171717"/><circle cx="229" cy="124" r="6" fill="#171717"/>
+    <rect x="70" y="195" width="180" height="46" rx="10" fill="#f2c94c" stroke="#171717" stroke-width="4"/>
+    <text x="88" y="225" font-family="Arial,sans-serif" font-size="18" font-weight="900" fill="#171717">99% TRAFFIC: BOTS</text>
+  </g>
+
+  <g transform="translate(442 205)">
+    <rect width="315" height="360" rx="18" fill="#f2c94c" stroke="#171717" stroke-width="5"/>
+    <text x="24" y="48" font-family="Arial,sans-serif" font-size="30" font-weight="900" fill="#171717">CAREER TICKET</text>
+    <rect x="52" y="86" width="210" height="176" rx="14" fill="#fff" stroke="#171717" stroke-width="5"/>
+    <line x1="78" y1="130" x2="238" y2="130" stroke="#171717" stroke-width="5"/>
+    <line x1="78" y1="170" x2="218" y2="170" stroke="#171717" stroke-width="5"/>
+    <line x1="78" y1="210" x2="198" y2="210" stroke="#171717" stroke-width="5"/>
+    <text x="74" y="300" font-family="Arial,sans-serif" font-size="22" font-weight="900" fill="#171717">STATUS: SAD BUT</text>
+    <text x="74" y="327" font-family="Arial,sans-serif" font-size="22" font-weight="900" fill="#171717">300x FASTER</text>
+  </g>
+
+  <g transform="translate(802 205)">
+    <rect width="315" height="360" rx="18" fill="#ff5a7a" stroke="#171717" stroke-width="5"/>
+    <text x="24" y="48" font-family="Arial,sans-serif" font-size="30" font-weight="900" fill="#171717">HAM BALLOON</text>
+    <ellipse cx="158" cy="185" rx="96" ry="118" fill="#ffd1c7" stroke="#171717" stroke-width="6"/>
+    <path d="M82 183 C125 132 190 128 236 178" fill="none" stroke="#fff9ee" stroke-width="12" stroke-linecap="round"/>
+    <rect x="74" y="295" width="170" height="42" rx="8" fill="#fffef8" stroke="#171717" stroke-width="4"/>
+    <text x="92" y="322" font-family="Arial,sans-serif" font-size="19" font-weight="900" fill="#171717">MAY CONTAIN VIBES</text>
+  </g>
+
+  <path d="M394 386 L442 386" stroke="#171717" stroke-width="8" marker-end="url(#arrow)"/>
+  <path d="M757 386 L802 386" stroke="#171717" stroke-width="8" marker-end="url(#arrow)"/>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#171717"/></marker></defs>
+  <text x="90" y="625" font-family="Arial,sans-serif" font-size="24" font-weight="900" fill="#171717">Forecast: water controllers offline, agents indoors, ham under observation.</text>
+</svg>

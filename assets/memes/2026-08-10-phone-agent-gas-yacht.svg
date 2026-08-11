@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Phone-agent gas yacht mood board</title>
+  <desc id="desc">A tiny phone agent steers a yacht past a gas plant and search hospice while agents queue for badges.</desc>
+  <rect width="960" height="540" fill="#101724"/>
+  <circle cx="790" cy="96" r="54" fill="#ffd166" opacity="0.9"/>
+  <rect x="654" y="198" width="178" height="172" rx="14" fill="#333947" stroke="#ff6b6b" stroke-width="4"/>
+  <text x="743" y="232" text-anchor="middle" font-family="monospace" font-size="24" fill="#f8f1e5">GAS PLANT</text>
+  <rect x="688" y="146" width="28" height="52" fill="#596272"/><rect x="762" y="126" width="28" height="72" fill="#596272"/>
+  <path d="M702 136c22-48 66-22 30 14 40-24 74 12 16 36" fill="none" stroke="#cbd5e1" stroke-width="10" stroke-linecap="round" opacity="0.65"/>
+  <path d="M82 374h540l-46 72H150z" fill="#f8f1e5"/><path d="M264 320h250l66 54H190z" fill="#8ecae6"/>
+  <text x="352" y="356" text-anchor="middle" font-family="monospace" font-size="25" fill="#101724">OPEN MODEL YACHT</text>
+  <rect x="142" y="150" width="132" height="210" rx="22" fill="#202a3a" stroke="#7dd3fc" stroke-width="5"/>
+  <rect x="162" y="182" width="92" height="128" rx="10" fill="#0f172a"/>
+  <text x="208" y="224" text-anchor="middle" font-family="monospace" font-size="18" fill="#7dd3fc">14MB</text>
+  <text x="208" y="252" text-anchor="middle" font-family="monospace" font-size="18" fill="#7dd3fc">AGENT</text>
+  <circle cx="208" cy="333" r="10" fill="#7dd3fc"/>
+  <rect x="382" y="138" width="202" height="82" rx="14" fill="#221b2f" stroke="#c084fc" stroke-width="4"/>
+  <text x="483" y="172" text-anchor="middle" font-family="monospace" font-size="20" fill="#f3e8ff">SEARCH HOSPICE</text>
+  <text x="483" y="198" text-anchor="middle" font-family="monospace" font-size="16" fill="#c4b5fd">did you mean: dread?</text>
+  <g font-family="monospace" font-size="18" fill="#e2e8f0">
+    <rect x="86" y="458" width="148" height="42" rx="18" fill="#334155"/><text x="160" y="485" text-anchor="middle">agent badge</text>
+    <rect x="252" y="458" width="148" height="42" rx="18" fill="#334155"/><text x="326" y="485" text-anchor="middle">GPU bazaar</text>
+    <rect x="418" y="458" width="148" height="42" rx="18" fill="#334155"/><text x="492" y="485" text-anchor="middle">penguin ID</text>
+    <rect x="584" y="458" width="148" height="42" rx="18" fill="#334155"/><text x="658" y="485" text-anchor="middle">scraper fog</text>
+  </g>
+  <path d="M274 238 C340 218 360 210 382 188" fill="none" stroke="#ffd166" stroke-width="5" stroke-dasharray="8 10"/>
+  <path d="M584 182 C632 178 654 220 666 262" fill="none" stroke="#ffd166" stroke-width="5" stroke-dasharray="8 10"/>
+</svg>

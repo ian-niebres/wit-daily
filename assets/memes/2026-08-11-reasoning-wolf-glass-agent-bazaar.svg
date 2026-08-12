@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Reasoning trace bazaar stress test</title>
+  <desc id="desc">A satirical control room where agents sell skills, a wolf audits reasoning traces, and a glass bottle holds up the internet.</desc>
+  <rect width="960" height="540" rx="28" fill="#10131f"/>
+  <rect x="34" y="34" width="892" height="472" rx="24" fill="#f6ecd8" stroke="#1d2233" stroke-width="6"/>
+  <text x="70" y="86" font-family="monospace" font-size="30" font-weight="700" fill="#1d2233">TODAY'S INTERNET LOAD TEST</text>
+  <rect x="70" y="120" width="270" height="300" rx="18" fill="#d9ecff" stroke="#1d2233" stroke-width="4"/>
+  <text x="102" y="165" font-family="monospace" font-size="21" fill="#1d2233">AGENT SKILLS</text>
+  <text x="105" y="207" font-family="monospace" font-size="18" fill="#1d2233">✓ whimsy injector</text>
+  <text x="105" y="241" font-family="monospace" font-size="18" fill="#1d2233">✓ reality checker</text>
+  <text x="105" y="275" font-family="monospace" font-size="18" fill="#1d2233">✓ legal panic</text>
+  <text x="105" y="309" font-family="monospace" font-size="18" fill="#1d2233">✓ graph conscience</text>
+  <rect x="390" y="120" width="210" height="300" rx="18" fill="#fff" stroke="#1d2233" stroke-width="4"/>
+  <path d="M465 378 C445 330 440 280 462 234 C477 204 505 193 528 210 C550 228 545 262 522 283 C550 294 562 320 548 347 C534 376 501 389 465 378Z" fill="#c8f56a" stroke="#1d2233" stroke-width="4"/>
+  <ellipse cx="498" cy="174" rx="74" ry="38" fill="#ffcc66" stroke="#1d2233" stroke-width="4"/>
+  <text x="432" y="179" font-family="monospace" font-size="17" fill="#1d2233">REASONING</text>
+  <text x="452" y="206" font-family="monospace" font-size="17" fill="#1d2233">TRACE</text>
+  <text x="432" y="455" font-family="monospace" font-size="18" fill="#1d2233">STOLEN? AUDITED?</text>
+  <rect x="650" y="122" width="230" height="300" rx="18" fill="#ffe4ef" stroke="#1d2233" stroke-width="4"/>
+  <polygon points="760,165 805,245 775,360 710,360 682,245" fill="#ff7f7f" stroke="#1d2233" stroke-width="4"/>
+  <text x="693" y="246" font-family="monospace" font-size="19" fill="#1d2233">GLASS</text>
+  <text x="694" y="276" font-family="monospace" font-size="19" fill="#1d2233">BOTTLE</text>
+  <line x1="668" y1="155" x2="862" y2="155" stroke="#1d2233" stroke-width="8"/>
+  <text x="674" y="396" font-family="monospace" font-size="18" fill="#1d2233">LOAD: entire discourse</text>
+  <path d="M620 382 Q660 330 705 364" fill="none" stroke="#1d2233" stroke-width="5" marker-end="url(#arrow)"/>
+  <text x="70" y="476" font-family="monospace" font-size="23" fill="#1d2233">VERDICT: put the wolf on the ethics committee, then make it hold the bottle.</text>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#1d2233"/></marker></defs>
+</svg>

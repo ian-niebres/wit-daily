@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Agent marketplace buffalo tip jar</title>
+  <desc id="desc">A fake marketplace kiosk where agents buy agent services while a baby buffalo holds a tip jar under model benchmark lightning.</desc>
+  <rect width="960" height="540" fill="#111827"/>
+  <rect x="36" y="36" width="888" height="468" rx="30" fill="#f8fafc" stroke="#22d3ee" stroke-width="6"/>
+  <text x="70" y="88" font-family="monospace" font-size="34" font-weight="700" fill="#0f172a">AGENTS-AS-A-SERVICE FARMERS MARKET</text>
+  <rect x="72" y="126" width="360" height="250" rx="22" fill="#e0f2fe" stroke="#0f172a" stroke-width="4"/>
+  <text x="105" y="170" font-family="monospace" font-size="25" fill="#0f172a">BUYER AGENT</text>
+  <text x="104" y="211" font-family="monospace" font-size="21" fill="#0f172a">needs: motivation proxy</text>
+  <text x="104" y="247" font-family="monospace" font-size="21" fill="#0f172a">pays: 3 tokens + vibes</text>
+  <path d="M122 315 q80 -70 160 0 q-20 55 -80 55 q-60 0 -80 -55z" fill="#38bdf8" stroke="#0f172a" stroke-width="4"/>
+  <circle cx="164" cy="298" r="9" fill="#0f172a"/><circle cx="244" cy="298" r="9" fill="#0f172a"/>
+  <rect x="514" y="126" width="310" height="250" rx="22" fill="#fef3c7" stroke="#0f172a" stroke-width="4"/>
+  <text x="548" y="170" font-family="monospace" font-size="25" fill="#0f172a">SELLER AGENT</text>
+  <text x="548" y="211" font-family="monospace" font-size="21" fill="#0f172a">service: PowerPoint oracle</text>
+  <text x="548" y="247" font-family="monospace" font-size="21" fill="#0f172a">upsell: shared memory</text>
+  <rect x="606" y="292" width="122" height="70" rx="10" fill="#f97316" stroke="#0f172a" stroke-width="4"/>
+  <text x="627" y="336" font-family="monospace" font-size="23" fill="#111827">TIP JAR</text>
+  <path d="M430 242 C470 210 500 210 530 242" fill="none" stroke="#0f172a" stroke-width="6" marker-end="url(#a)"/>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#0f172a"/></marker></defs>
+  <ellipse cx="252" cy="446" rx="120" ry="38" fill="#d97706" stroke="#0f172a" stroke-width="4"/>
+  <circle cx="155" cy="414" r="34" fill="#d97706" stroke="#0f172a" stroke-width="4"/>
+  <text x="106" y="458" font-family="monospace" font-size="21" fill="#0f172a">BABY BUFFALO MORALE ETF</text>
+  <text x="470" y="440" font-family="monospace" font-size="24" fill="#0f172a">MODEL PAGEANT LIGHTNING:</text>
+  <text x="470" y="474" font-family="monospace" font-size="22" fill="#0f172a">DeepSeek / Grok / Qwen all yelling &ldquo;benchmark&rdquo;</text>
+  <path d="M848 86 l-42 80 h42 l-30 82 l88 -112 h-48z" fill="#fde047" stroke="#0f172a" stroke-width="4"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Cloud archive watermark eclipse cat</title>
+  <desc id="desc">A fake cloud archive funeral where an eclipse cat guards a receipt, surrounded by AI watermarking and boring technology warnings.</desc>
+  <rect width="900" height="520" rx="28" fill="#100f1a"/>
+  <circle cx="700" cy="105" r="72" fill="#f6d365"/>
+  <circle cx="735" cy="105" r="70" fill="#100f1a"/>
+  <text x="622" y="210" fill="#f7efe5" font-family="monospace" font-size="24">ECLIPSE MODE</text>
+  <rect x="70" y="80" width="390" height="270" rx="26" fill="#222640" stroke="#8ee3ff" stroke-width="4"/>
+  <path d="M135 190c12-58 67-82 112-55 24-52 111-47 130 12 49 2 76 36 70 75-6 42-42 66-88 66H157c-61 0-92-42-77-88 8-24 27-36 55-10z" fill="#dfe8ff" stroke="#8ee3ff" stroke-width="5"/>
+  <text x="145" y="225" fill="#1a1b2e" font-family="monospace" font-size="28" font-weight="700">CLOUD ARCHIVE</text>
+  <text x="133" y="260" fill="#1a1b2e" font-family="monospace" font-size="18">70 YEARS? CHECK VENDOR</text>
+  <rect x="95" y="310" width="330" height="58" rx="12" fill="#ff5d8f"/>
+  <text x="118" y="347" fill="#fff" font-family="monospace" font-size="23">RECEIPT NOT FOUND</text>
+  <g transform="translate(560 250)">
+    <ellipse cx="95" cy="125" rx="110" ry="58" fill="#ffb86b"/>
+    <circle cx="70" cy="68" r="56" fill="#ffb86b"/>
+    <polygon points="32,32 45,-8 70,28" fill="#ffb86b"/>
+    <polygon points="88,28 122,-5 114,42" fill="#ffb86b"/>
+    <circle cx="53" cy="66" r="7" fill="#100f1a"/>
+    <circle cx="92" cy="66" r="7" fill="#100f1a"/>
+    <path d="M66 86q14 12 28 0" stroke="#100f1a" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <rect x="-35" y="22" width="72" height="90" rx="8" fill="#f7efe5" stroke="#100f1a" stroke-width="4"/>
+    <text x="-25" y="55" fill="#100f1a" font-family="monospace" font-size="13">LOCAL</text>
+    <text x="-25" y="76" fill="#100f1a" font-family="monospace" font-size="13">BACKUP</text>
+    <text x="-25" y="98" fill="#100f1a" font-family="monospace" font-size="13">PLEASE</text>
+  </g>
+  <path d="M490 130h105v55H490z" fill="#89f7fe" opacity=".92"/>
+  <text x="505" y="164" fill="#100f1a" font-family="monospace" font-size="20">AI WATERMARK</text>
+  <path d="M490 205h122v55H490z" fill="#b8ff9f" opacity=".92"/>
+  <text x="506" y="239" fill="#100f1a" font-family="monospace" font-size="20">BORING TECH</text>
+  <path d="M490 280h112v55H490z" fill="#f7efe5" opacity=".92"/>
+  <text x="506" y="314" fill="#100f1a" font-family="monospace" font-size="20">LINK ROT</text>
+  <line x1="600" y1="185" x2="650" y2="275" stroke="#f7efe5" stroke-width="5" stroke-dasharray="8 10"/>
+  <text x="70" y="450" fill="#f7efe5" font-family="monospace" font-size="28" font-weight="700">TODAY'S MOOD: preserve the receipt, worship the eclipse cat.</text>
+</svg>

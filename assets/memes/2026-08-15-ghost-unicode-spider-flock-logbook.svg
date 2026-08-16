@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Ghost Unicode spider, anti-Flock dashboard, offline logbook, and Halloween chocolate kiosk</title>
+  <desc id="desc">A satirical diagram of today's internet mood as a haunted surveillance kiosk.</desc>
+  <rect width="1200" height="720" fill="#f7efe2"/>
+  <rect x="44" y="42" width="1112" height="636" rx="32" fill="#171717"/>
+  <rect x="76" y="74" width="1048" height="572" rx="24" fill="#fff8eb" stroke="#171717" stroke-width="4"/>
+  <text x="600" y="124" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="42" font-weight="800" fill="#171717">CIVIC WEATHER KIOSK v2026.8.15</text>
+  <line x1="96" y1="150" x2="1104" y2="150" stroke="#171717" stroke-width="4"/>
+  <rect x="114" y="184" width="300" height="360" rx="22" fill="#d9ecff" stroke="#171717" stroke-width="4"/>
+  <text x="264" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700">ANTI-FLOCK</text>
+  <text x="264" y="264" text-anchor="middle" font-family="Arial, sans-serif" font-size="22">MONITORING</text>
+  <circle cx="264" cy="356" r="74" fill="#fff" stroke="#171717" stroke-width="5"/>
+  <circle cx="264" cy="356" r="32" fill="#171717"/>
+  <circle cx="252" cy="344" r="8" fill="#fff"/>
+  <path d="M170 485 C210 445 315 445 358 485" fill="none" stroke="#171717" stroke-width="8" stroke-linecap="round"/>
+  <text x="264" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="20">camera stares back</text>
+  <rect x="450" y="184" width="300" height="360" rx="22" fill="#fff" stroke="#171717" stroke-width="4"/>
+  <text x="600" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700">OFFLINE</text>
+  <text x="600" y="264" text-anchor="middle" font-family="Arial, sans-serif" font-size="22">LOGBOOK</text>
+  <line x1="505" y1="314" x2="695" y2="314" stroke="#171717" stroke-width="4"/>
+  <line x1="505" y1="358" x2="695" y2="358" stroke="#171717" stroke-width="4"/>
+  <line x1="505" y1="402" x2="695" y2="402" stroke="#171717" stroke-width="4"/>
+  <text x="520" y="342" font-family="ui-monospace, monospace" font-size="25" fill="#171717">NO CLOUD</text>
+  <text x="520" y="386" font-family="ui-monospace, monospace" font-size="25" fill="#171717">NO ACCOUNT</text>
+  <text x="520" y="430" font-family="ui-monospace, monospace" font-size="25" fill="#171717">ONE TINY HOPE</text>
+  <rect x="786" y="184" width="300" height="360" rx="22" fill="#ffe1ef" stroke="#171717" stroke-width="4"/>
+  <text x="936" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700">GHOST UNICODE</text>
+  <text x="936" y="264" text-anchor="middle" font-family="Arial, sans-serif" font-size="22">SPIDER WEB</text>
+  <g stroke="#171717" stroke-width="4" fill="none">
+    <circle cx="936" cy="376" r="84"/><circle cx="936" cy="376" r="50"/><circle cx="936" cy="376" r="20"/>
+    <line x1="852" y1="376" x2="1020" y2="376"/><line x1="936" y1="292" x2="936" y2="460"/><line x1="876" y1="316" x2="996" y2="436"/><line x1="996" y1="316" x2="876" y2="436"/>
+  </g>
+  <text x="936" y="501" text-anchor="middle" font-family="ui-monospace, monospace" font-size="28" fill="#171717">U+BOO</text>
+  <path d="M372 572 L828 572" stroke="#171717" stroke-width="6" stroke-linecap="round"/>
+  <polygon points="828,572 800,556 800,588" fill="#171717"/>
+  <text x="600" y="615" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#171717">PLEASE INSERT: HISTORY, PRIVACY, CHOCOLATE</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Watermark Bazaar Eclipse Cruise</title>
+  <desc id="desc">A satirical SVG showing an API bazaar on a cruise ship under an eclipse with a keyboard tattoo and analytics confetti.</desc>
+  <rect width="960" height="540" fill="#111827"/>
+  <circle cx="790" cy="88" r="58" fill="#f8fafc"/>
+  <circle cx="812" cy="88" r="58" fill="#111827"/>
+  <text x="690" y="170" fill="#cbd5e1" font-family="monospace" font-size="24">ECLIPSE CRUISE</text>
+  <path d="M140 360 C260 410 690 410 820 355 L760 448 L205 448 Z" fill="#334155" stroke="#93c5fd" stroke-width="5"/>
+  <rect x="235" y="240" width="420" height="120" rx="18" fill="#1f2937" stroke="#f59e0b" stroke-width="4"/>
+  <text x="270" y="283" fill="#fef3c7" font-family="monospace" font-size="32">API TOKEN BAZAAR</text>
+  <text x="275" y="325" fill="#fde68a" font-family="monospace" font-size="22">credits • routers • vibes</text>
+  <g transform="translate(76 90)">
+    <rect x="0" y="0" width="230" height="118" rx="20" fill="#f8fafc" stroke="#38bdf8" stroke-width="5"/>
+    <text x="22" y="42" fill="#0f172a" font-family="monospace" font-size="21">KEYBOARD TATTOO</text>
+    <g fill="#0f172a">
+      <rect x="25" y="62" width="24" height="18" rx="3"/><rect x="56" y="62" width="24" height="18" rx="3"/><rect x="87" y="62" width="24" height="18" rx="3"/><rect x="118" y="62" width="24" height="18" rx="3"/><rect x="149" y="62" width="24" height="18" rx="3"/>
+      <rect x="40" y="88" width="120" height="18" rx="3"/>
+    </g>
+  </g>
+  <g transform="translate(675 235) rotate(-8)">
+    <rect x="0" y="0" width="180" height="76" rx="12" fill="#fee2e2" stroke="#ef4444" stroke-width="5"/>
+    <text x="22" y="31" fill="#991b1b" font-family="monospace" font-size="22">WATERMARK</text>
+    <text x="38" y="58" fill="#991b1b" font-family="monospace" font-size="17">probably?</text>
+  </g>
+  <g fill="#22c55e" font-family="monospace" font-size="20">
+    <text x="80" y="465">analytics confetti</text>
+    <text x="610" y="460">RISC-V court →</text>
+    <text x="420" y="205">model dumberness -14%</text>
+  </g>
+  <circle cx="89" cy="393" r="8" fill="#22c55e"/><circle cx="116" cy="414" r="6" fill="#22c55e"/><circle cx="143" cy="387" r="5" fill="#22c55e"/>
+  <text x="52" y="42" fill="#f8fafc" font-family="monospace" font-size="30">THE MARKET OPENS TOMORROW.</text>
+</svg>

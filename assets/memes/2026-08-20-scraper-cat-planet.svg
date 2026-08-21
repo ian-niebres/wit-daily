@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Scraper courtroom orbiting Purrcury</title>
+  <desc id="desc">A satirical diagram showing a scraper bot in court, a GitHub outage apology, a brain fog warning, and a cat planet over a theater landfill.</desc>
+  <rect width="1200" height="675" fill="#10131f"/>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#19213a"/><stop offset="1" stop-color="#48274c"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="34" y="34" width="1132" height="607" rx="34" fill="url(#sky)" stroke="#ffcc66" stroke-width="4"/>
+  <circle cx="928" cy="165" r="92" fill="#f8c8ff" stroke="#fff0a8" stroke-width="5" filter="url(#glow)"/>
+  <circle cx="895" cy="145" r="11" fill="#171b2c"/><circle cx="960" cy="145" r="11" fill="#171b2c"/>
+  <path d="M898 192 Q928 214 958 192" fill="none" stroke="#171b2c" stroke-width="7" stroke-linecap="round"/>
+  <path d="M870 91 L900 48 L922 103 Z" fill="#f8c8ff" stroke="#fff0a8" stroke-width="4"/>
+  <path d="M983 103 L1008 52 L1017 111 Z" fill="#f8c8ff" stroke="#fff0a8" stroke-width="4"/>
+  <text x="928" y="293" text-anchor="middle" font-family="monospace" font-size="36" fill="#fff0a8">PURRCURY</text>
+  <g transform="translate(110 125)">
+    <rect x="0" y="0" width="430" height="330" rx="20" fill="#f6efe2" stroke="#171b2c" stroke-width="6"/>
+    <rect x="24" y="38" width="382" height="68" rx="14" fill="#26314f"/>
+    <text x="215" y="83" text-anchor="middle" font-family="monospace" font-size="30" fill="#ffcc66">SCRAPER COURT</text>
+    <rect x="48" y="153" width="120" height="84" rx="12" fill="#d64b6b"/>
+    <text x="108" y="204" text-anchor="middle" font-family="monospace" font-size="25" fill="#fff">META?</text>
+    <rect x="248" y="153" width="120" height="84" rx="12" fill="#66d9e8"/>
+    <text x="308" y="194" text-anchor="middle" font-family="monospace" font-size="22" fill="#111">BOT</text>
+    <text x="308" y="220" text-anchor="middle" font-family="monospace" font-size="16" fill="#111">scrolling badly</text>
+    <path d="M208 250 L208 130" stroke="#171b2c" stroke-width="10"/><path d="M175 130 H242" stroke="#171b2c" stroke-width="10"/>
+    <text x="215" y="300" text-anchor="middle" font-family="monospace" font-size="22" fill="#171b2c">consequence parser: beta</text>
+  </g>
+  <g transform="translate(625 370)">
+    <rect x="0" y="0" width="450" height="150" rx="20" fill="#1b2338" stroke="#92f7c7" stroke-width="4"/>
+    <text x="30" y="45" font-family="monospace" font-size="27" fill="#92f7c7">GITHUB OUTAGE POSTMORTEM</text>
+    <rect x="30" y="72" width="390" height="22" rx="11" fill="#39445f"/>
+    <rect x="30" y="72" width="258" height="22" rx="11" fill="#ffcc66"/>
+    <text x="30" y="125" font-family="monospace" font-size="22" fill="#fff">status: sorry, then architecture</text>
+  </g>
+  <g transform="translate(92 505)">
+    <path d="M0 80 C85 28 165 28 250 80 L250 122 L0 122 Z" fill="#6b513b" stroke="#ffcc66" stroke-width="3"/>
+    <text x="125" y="108" text-anchor="middle" font-family="monospace" font-size="24" fill="#fff">THEATER LANDFILL</text>
+    <text x="125" y="44" text-anchor="middle" font-family="monospace" font-size="22" fill="#ffcc66">public space morale -12%</text>
+  </g>
+  <g transform="translate(555 128)">
+    <path d="M80 0 C140 15 166 65 142 112 C121 153 38 153 17 112 C-8 63 20 14 80 0 Z" fill="#ff87a1" stroke="#171b2c" stroke-width="5"/>
+    <path d="M35 66 H126" stroke="#171b2c" stroke-width="5"/><path d="M80 11 V143" stroke="#171b2c" stroke-width="5"/><path d="M28 105 C62 91 98 91 132 105" fill="none" stroke="#171b2c" stroke-width="5"/>
+    <text x="80" y="190" text-anchor="middle" font-family="monospace" font-size="24" fill="#fff">COGNITIVE CONTROL</text>
+    <text x="80" y="222" text-anchor="middle" font-family="monospace" font-size="24" fill="#ffcc66">OFFLINE</text>
+  </g>
+  <path d="M520 290 C645 250 723 229 838 203" stroke="#fff0a8" stroke-width="5" fill="none" stroke-dasharray="14 12"/>
+  <text x="600" y="608" font-family="monospace" font-size="27" fill="#fff" text-anchor="middle">TODAY'S INTERNET: A COMPLIANCE HEARING WITH WHISKERS</text>
+</svg>

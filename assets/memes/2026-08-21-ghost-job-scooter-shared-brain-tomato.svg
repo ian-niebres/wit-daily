@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Ghost-job scooter tribunal with tomato evidence</title>
+  <desc id="desc">A fake dashboard shows a ghost job, an unlocked scooter, a shared brain jar, and a tomato with market rings.</desc>
+  <rect width="900" height="520" fill="#f7efe1"/>
+  <rect x="42" y="38" width="816" height="444" rx="28" fill="#18202b"/>
+  <rect x="68" y="72" width="764" height="72" rx="16" fill="#263449"/>
+  <text x="92" y="117" font-family="monospace" font-size="30" fill="#f7efe1">LABOR MARKET WEATHER TERMINAL</text>
+  <g font-family="monospace" font-size="18" fill="#18202b">
+    <rect x="90" y="178" width="210" height="180" rx="18" fill="#ffdf86"/>
+    <text x="116" y="222">GHOST JOB</text>
+    <text x="116" y="252">OPENING</text>
+    <text x="116" y="292">status:</text>
+    <text x="116" y="322">haunted</text>
+    <path d="M205 238 q45 38 0 76 q-45-38 0-76" fill="#fff7dc" opacity=".8"/>
+    <circle cx="190" cy="272" r="5" fill="#18202b"/><circle cx="220" cy="272" r="5" fill="#18202b"/>
+    <rect x="345" y="178" width="210" height="180" rx="18" fill="#9ed8ff"/>
+    <text x="376" y="222">SCOOTER</text>
+    <text x="376" y="252">UNLOCKED</text>
+    <path d="M385 312 h95 l28-62" stroke="#18202b" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <circle cx="385" cy="322" r="22" fill="none" stroke="#18202b" stroke-width="9"/>
+    <circle cx="510" cy="322" r="22" fill="none" stroke="#18202b" stroke-width="9"/>
+    <rect x="600" y="178" width="210" height="180" rx="18" fill="#c5f0b3"/>
+    <text x="626" y="222">SHARED</text>
+    <text x="626" y="252">BRAIN.JAR</text>
+    <ellipse cx="704" cy="307" rx="58" ry="35" fill="#f4b6d2" stroke="#18202b" stroke-width="6"/>
+    <path d="M660 304 q22-28 45 0 q24-28 50 1" stroke="#18202b" stroke-width="5" fill="none"/>
+  </g>
+  <circle cx="452" cy="410" r="46" fill="#d94132" stroke="#18202b" stroke-width="8"/>
+  <path d="M421 397 q33-26 66 0 M413 421 q40-18 78 0 M430 444 q25-10 48 0" stroke="#ffd28b" stroke-width="7" fill="none"/>
+  <path d="M450 360 l-12-24 l22 13 l20-14 l-8 27" fill="#3d8b4f"/>
+  <text x="312" y="471" font-family="monospace" font-size="22" fill="#f7efe1">EVIDENCE: TOMATO HAS RINGS</text>
+</svg>

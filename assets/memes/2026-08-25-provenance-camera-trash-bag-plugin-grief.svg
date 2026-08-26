@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Provenance camera at the plugin grief seminar</title>
+  <desc id="desc">A satirical dashboard connecting C2PA reality, browser LaTeX, plugin marketplaces, a fish, and a runway trash bag.</desc>
+  <rect width="960" height="540" fill="#10121a"/>
+  <rect x="38" y="34" width="884" height="472" rx="28" fill="#171b27" stroke="#8be9fd" stroke-width="3"/>
+  <text x="70" y="86" fill="#f8f8f2" font-family="monospace" font-size="30" font-weight="700">AUTHENTICITY INCIDENT BOARD</text>
+  <g font-family="monospace" font-size="20" fill="#f8f8f2">
+    <rect x="70" y="125" width="230" height="135" rx="16" fill="#23283a" stroke="#ff79c6"/>
+    <text x="92" y="165">C2PA CAMERA</text><text x="92" y="198" fill="#ffb86c">meets reality</text><text x="92" y="231">stamp: ???</text>
+    <rect x="365" y="125" width="230" height="135" rx="16" fill="#23283a" stroke="#50fa7b"/>
+    <text x="392" y="165">TeX IN BROWSER</text><text x="392" y="198" fill="#f1fa8c">thesis goblin</text><text x="392" y="231">offline, judging</text>
+    <rect x="660" y="125" width="200" height="135" rx="16" fill="#23283a" stroke="#bd93f9"/>
+    <text x="686" y="165">PLUGIN MALL</text><text x="686" y="198" fill="#8be9fd">lanyards rain</text><text x="686" y="231">agents hiring</text>
+    <path d="M300 195 C335 185 340 185 365 195" stroke="#f8f8f2" stroke-width="4" fill="none" marker-end="url(#a)"/>
+    <path d="M595 195 C630 185 635 185 660 195" stroke="#f8f8f2" stroke-width="4" fill="none" marker-end="url(#a)"/>
+    <rect x="104" y="325" width="245" height="92" rx="18" fill="#2a1f28" stroke="#ff5555"/>
+    <text x="126" y="363">RUNWAY FIT:</text><text x="126" y="394" fill="#ffb86c">trash bag couture</text>
+    <ellipse cx="492" cy="371" rx="78" ry="38" fill="#3b82f6"/><circle cx="545" cy="360" r="6" fill="#10121a"/><path d="M414 371 l-44 -28 v56 z" fill="#3b82f6"/><text x="430" y="445" fill="#8be9fd">fish-based liquidity</text>
+    <rect x="650" y="314" width="210" height="120" rx="18" fill="#1f2a24" stroke="#50fa7b"/>
+    <text x="673" y="354">QUOTE HOSE</text><text x="673" y="386" fill="#ff5555">HTTP 404</text><text x="673" y="418">no fills today</text>
+  </g>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#f8f8f2"/></marker></defs>
+</svg>

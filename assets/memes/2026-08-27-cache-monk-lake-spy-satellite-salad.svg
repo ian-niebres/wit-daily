@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Cache monk renames a lake while a satellite watches lettuce</title>
+  <desc id="desc">A fake command center with Lake Ontario paperwork, DNS cache savings, a spy satellite globe, and cursed iceberg lettuce.</desc>
+  <rect width="960" height="540" fill="#111827"/>
+  <rect x="34" y="32" width="892" height="476" rx="28" fill="#f8fafc" stroke="#0f172a" stroke-width="6"/>
+  <text x="70" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="28" font-weight="800" fill="#0f172a">FRONT PAGE COMMAND CENTER</text>
+  <rect x="70" y="112" width="245" height="310" rx="18" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/>
+  <path d="M100 295 C145 230 185 245 220 190 C265 245 286 276 288 346 C220 382 158 374 100 340Z" fill="#60a5fa" stroke="#1d4ed8" stroke-width="4"/>
+  <text x="102" y="155" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1e3a8a">LAKE ONTARIO</text>
+  <rect x="106" y="184" width="156" height="40" rx="8" fill="#fff" stroke="#ef4444" stroke-width="3" transform="rotate(-8 184 204)"/>
+  <text x="119" y="211" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#b91c1c" transform="rotate(-8 184 204)">RENAME?</text>
+  <rect x="358" y="112" width="245" height="310" rx="18" fill="#ecfdf5" stroke="#16a34a" stroke-width="4"/>
+  <circle cx="480" cy="246" r="82" fill="#86efac" stroke="#15803d" stroke-width="4"/>
+  <path d="M405 248 C450 215 515 218 558 250 M430 290 C470 315 520 312 548 284" fill="none" stroke="#166534" stroke-width="5"/>
+  <circle cx="450" cy="235" r="8" fill="#166534"/><circle cx="515" cy="235" r="8" fill="#166534"/>
+  <text x="389" y="154" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#14532d">SPY GLOBE</text>
+  <text x="393" y="365" font-family="ui-monospace, monospace" font-size="20" fill="#14532d">zoom: TOO MUCH</text>
+  <rect x="646" y="112" width="245" height="310" rx="18" fill="#fef3c7" stroke="#d97706" stroke-width="4"/>
+  <ellipse cx="768" cy="264" rx="82" ry="48" fill="#bbf7d0" stroke="#65a30d" stroke-width="4"/>
+  <g stroke="#854d0e" stroke-width="3"><path d="M705 238 L832 288"/><path d="M710 292 L826 238"/><path d="M735 222 L790 310"/></g>
+  <text x="681" y="154" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#78350f">ICEBERG LETTUCE</text>
+  <text x="690" y="365" font-family="ui-monospace, monospace" font-size="20" fill="#78350f">macro parasite beta</text>
+  <path d="M315 262 H358" stroke="#0f172a" stroke-width="5" marker-end="url(#arrow)"/><path d="M603 262 H646" stroke="#0f172a" stroke-width="5" marker-end="url(#arrow)"/>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#0f172a"/></marker></defs>
+  <rect x="128" y="442" width="704" height="42" rx="12" fill="#0f172a"/>
+  <text x="154" y="470" font-family="ui-monospace, monospace" font-size="22" font-weight="700" fill="#f8fafc">DNS CACHE: -100 TB   HUMAN CERTAINTY: 404</text>
+</svg>

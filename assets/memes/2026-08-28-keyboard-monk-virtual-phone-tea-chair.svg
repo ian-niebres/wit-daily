@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Keyboard monk incident board</title><desc id="desc">A fake operations dashboard linking keyboard-only interfaces, a virtual phone, cat surveillance, and a tea-stained gaming chair.</desc>
+  <rect width="900" height="520" fill="#10131a"/>
+  <rect x="30" y="30" width="840" height="460" rx="26" fill="#f7efe2" stroke="#20242e" stroke-width="6"/>
+  <text x="58" y="78" font-family="monospace" font-size="24" font-weight="700" fill="#20242e">FRONT PAGE INCIDENT BOARD</text>
+  <text x="610" y="78" font-family="monospace" font-size="18" fill="#b14b37">STATUS: TEA-ADJACENT</text>
+  <rect x="70" y="115" width="245" height="130" rx="16" fill="#252b36"/><text x="92" y="150" font-family="monospace" font-size="21" fill="#f7efe2">KEYBOARD MONK</text><text x="92" y="188" font-family="monospace" font-size="46" fill="#9ad7ff">⌘⌥⇧</text><text x="92" y="222" font-family="monospace" font-size="17" fill="#f7efe2">mouse privileges revoked</text>
+  <rect x="580" y="112" width="165" height="245" rx="28" fill="#20242e"/><rect x="605" y="145" width="115" height="175" rx="14" fill="#c9ecff"/><circle cx="662" cy="335" r="9" fill="#f7efe2"/><text x="615" y="198" font-family="monospace" font-size="17" fill="#20242e">VIRTUAL</text><text x="618" y="224" font-family="monospace" font-size="17" fill="#20242e">iPHONE</text><text x="620" y="270" font-family="monospace" font-size="14" fill="#b14b37">boots anxiety</text>
+  <rect x="355" y="125" width="170" height="105" rx="18" fill="#fff7d6" stroke="#20242e" stroke-width="4"/><circle cx="440" cy="166" r="28" fill="#20242e"/><circle cx="430" cy="160" r="5" fill="#fff7d6"/><circle cx="452" cy="160" r="5" fill="#fff7d6"/><text x="386" y="216" font-family="monospace" font-size="17" fill="#20242e">CAT-CAM ONLINE</text>
+  <rect x="132" y="315" width="260" height="95" rx="18" fill="#c77058"/><path d="M150 328 C210 390 270 350 374 397" fill="none" stroke="#6b2c1f" stroke-width="18" opacity=".72"/><text x="158" y="370" font-family="monospace" font-size="22" fill="#fff7d6">GAMING CHAIR</text><text x="158" y="398" font-family="monospace" font-size="17" fill="#fff7d6">tea alpha: -100%</text>
+  <path d="M315 180 L355 170" stroke="#20242e" stroke-width="4" marker-end="url(#arrow)"/><path d="M525 178 L580 202" stroke="#20242e" stroke-width="4" marker-end="url(#arrow)"/><path d="M445 230 L300 315" stroke="#20242e" stroke-width="4" marker-end="url(#arrow)"/><path d="M660 357 L393 360" stroke="#20242e" stroke-width="4" marker-end="url(#arrow)"/>
+  <rect x="520" y="392" width="270" height="58" rx="14" fill="#20242e"/><text x="542" y="428" font-family="monospace" font-size="20" fill="#f7efe2">TRADE: REJECTED BY HOSE</text>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#20242e"/></marker></defs>
+</svg>

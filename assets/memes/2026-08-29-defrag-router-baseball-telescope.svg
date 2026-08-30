@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Defrag monk routes baseball telescope</title>
+  <desc id="desc">A satirical dashboard connecting Windows 98 defrag blocks, a router goblin, AI chips, and a baseball stealing second base under a telescope.</desc>
+  <rect width="1200" height="720" fill="#12131f"/>
+  <rect x="42" y="44" width="1116" height="632" rx="34" fill="#f6efe2" stroke="#24243a" stroke-width="8"/>
+  <text x="80" y="105" font-family="monospace" font-size="34" font-weight="700" fill="#24243a">WEEKEND MOOD TERMINAL</text>
+  <g transform="translate(78 145)">
+    <rect width="500" height="220" rx="18" fill="#1d2235"/>
+    <text x="28" y="48" font-family="monospace" font-size="25" fill="#c8ffe1">DEFRAG98.EXE</text>
+    <g transform="translate(28 75)">
+      <rect width="56" height="28" fill="#ff6b6b"/><rect x="64" width="90" height="28" fill="#ffd166"/><rect x="162" width="38" height="28" fill="#06d6a0"/><rect x="208" width="120" height="28" fill="#64b5f6"/><rect x="336" width="55" height="28" fill="#ffd166"/><rect x="399" width="45" height="28" fill="#ef476f"/>
+      <rect y="42" width="120" height="28" fill="#64b5f6"/><rect x="128" y="42" width="40" height="28" fill="#06d6a0"/><rect x="176" y="42" width="190" height="28" fill="#ff6b6b"/><rect x="374" y="42" width="70" height="28" fill="#ffd166"/>
+      <rect y="84" width="70" height="28" fill="#06d6a0"/><rect x="78" y="84" width="140" height="28" fill="#64b5f6"/><rect x="226" y="84" width="66" height="28" fill="#ffd166"/><rect x="300" y="84" width="144" height="28" fill="#ef476f"/>
+    </g>
+    <text x="30" y="195" font-family="monospace" font-size="20" fill="#f6efe2">STATUS: nostalgia optimizing panic</text>
+  </g>
+  <g transform="translate(650 138)">
+    <rect width="430" height="225" rx="22" fill="#dbeafe" stroke="#24243a" stroke-width="5"/>
+    <circle cx="100" cy="120" r="56" fill="#8b5cf6"/><text x="70" y="130" font-family="monospace" font-size="20" fill="#fff">router</text>
+    <path d="M155 110 C225 55, 300 70, 365 38" stroke="#24243a" stroke-width="6" fill="none" stroke-dasharray="10 10"/>
+    <path d="M155 135 C245 190, 295 168, 380 194" stroke="#24243a" stroke-width="6" fill="none" stroke-dasharray="10 10"/>
+    <text x="185" y="107" font-family="monospace" font-size="22" fill="#24243a">agent complains</text>
+    <text x="205" y="168" font-family="monospace" font-size="22" fill="#24243a">SMS on Linux</text>
+    <text x="28" y="205" font-family="monospace" font-size="20" fill="#24243a">packet goblin seeks meaning</text>
+  </g>
+  <g transform="translate(96 420)">
+    <rect width="420" height="190" rx="24" fill="#ecfeff" stroke="#24243a" stroke-width="5"/>
+    <circle cx="95" cy="95" r="46" fill="#f97316"/><path d="M95 50 L112 92 L158 92 L121 118 L135 158 L95 133 L55 158 L69 118 L32 92 L78 92 Z" fill="#fff3c4"/>
+    <text x="170" y="82" font-family="monospace" font-size="26" font-weight="700" fill="#24243a">BASEBALL PHYSICS</text>
+    <text x="170" y="122" font-family="monospace" font-size="21" fill="#24243a">stolen base: yes, really</text>
+    <path d="M50 160 H365" stroke="#24243a" stroke-width="5"/><path d="M325 142 L365 160 L325 178" fill="none" stroke="#24243a" stroke-width="5"/>
+  </g>
+  <g transform="translate(614 412)">
+    <rect width="470" height="198" rx="24" fill="#fff7ed" stroke="#24243a" stroke-width="5"/>
+    <circle cx="360" cy="62" r="48" fill="#111827"/><circle cx="360" cy="62" r="22" fill="#93c5fd"/><path d="M330 96 L270 156" stroke="#111827" stroke-width="12" stroke-linecap="round"/>
+    <rect x="44" y="48" width="190" height="95" rx="12" fill="#dcfce7" stroke="#24243a" stroke-width="4"/>
+    <text x="66" y="86" font-family="monospace" font-size="23" fill="#24243a">PIM ALTAR</text>
+    <text x="66" y="122" font-family="monospace" font-size="18" fill="#24243a">tiny fan: ON</text>
+    <text x="245" y="178" font-family="monospace" font-size="22" fill="#24243a">ocean heat watching</text>
+  </g>
+  <text x="80" y="654" font-family="monospace" font-size="26" fill="#24243a">Conclusion: every dashboard is now a weather instrument with a sports feed.</text>
+</svg>

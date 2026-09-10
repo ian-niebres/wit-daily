@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Rectangle launch weather dashboard</title><desc id="desc">A fake operating room where Apple rectangles, agent skills, streaming bills, and sports fog compete for the internet's attention.</desc>
+<rect width="1200" height="720" fill="#110f18"/>
+<rect x="52" y="50" width="1096" height="620" rx="34" fill="#f6efe3" stroke="#2b2238" stroke-width="8"/>
+<text x="90" y="115" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#241d2f">TODAY'S INTERNET TRIAGE BOARD</text>
+<text x="92" y="155" font-family="Arial, sans-serif" font-size="22" fill="#6e6179">all symptoms are shaped like procurement</text>
+<rect x="90" y="205" width="285" height="330" rx="26" fill="#d9e7ff" stroke="#241d2f" stroke-width="5"/>
+<rect x="145" y="260" width="175" height="245" rx="28" fill="#17141f"/>
+<rect x="166" y="282" width="133" height="200" rx="18" fill="#fff8ea"/>
+<circle cx="233" cy="493" r="8" fill="#fff8ea"/>
+<text x="125" y="585" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#241d2f">RECTANGLE</text>
+<text x="116" y="620" font-family="Arial, sans-serif" font-size="22" fill="#4f4559">launch fever</text>
+<rect x="455" y="205" width="290" height="330" rx="26" fill="#e4ffd9" stroke="#241d2f" stroke-width="5"/>
+<circle cx="600" cy="320" r="70" fill="#fff8ea" stroke="#241d2f" stroke-width="5"/>
+<path d="M555 332c38 46 78 45 113 0" fill="none" stroke="#241d2f" stroke-width="8" stroke-linecap="round"/>
+<circle cx="575" cy="300" r="8" fill="#241d2f"/><circle cx="625" cy="300" r="8" fill="#241d2f"/>
+<text x="500" y="430" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#241d2f">AGENT SKILL</text>
+<text x="494" y="466" font-family="Arial, sans-serif" font-size="22" fill="#4f4559">now has a manager</text>
+<rect x="825" y="205" width="285" height="330" rx="26" fill="#ffe1cf" stroke="#241d2f" stroke-width="5"/>
+<path d="M885 285h165v190H885z" fill="#fff8ea" stroke="#241d2f" stroke-width="5"/>
+<text x="918" y="335" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#241d2f">$50M?</text>
+<path d="M910 380h115M910 420h80" stroke="#241d2f" stroke-width="8" stroke-linecap="round"/>
+<text x="868" y="585" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#241d2f">STREAMING BILL</text>
+<text x="883" y="620" font-family="Arial, sans-serif" font-size="22" fill="#4f4559">small-claims aura</text>
+<path d="M375 365h78M745 365h78" stroke="#241d2f" stroke-width="8" stroke-linecap="round" marker-end="url(#arrow)"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#241d2f"/></marker></defs>
+<text x="395" y="675" font-family="Arial, sans-serif" font-size="24" fill="#6e6179">sports fog and quote-hose rejection not pictured, but spiritually present</text>
+</svg>

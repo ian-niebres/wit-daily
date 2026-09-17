@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Privacy browser camera goblin dashboard</title>
+  <desc id="desc">A satirical control room where a private browser umbrella, hacked camera goblin, e-ink bird, and query-plan robot argue over one dashboard.</desc>
+  <rect width="960" height="540" fill="#111827"/>
+  <rect x="40" y="40" width="880" height="460" rx="28" fill="#f8fafc" stroke="#f59e0b" stroke-width="6"/>
+  <text x="80" y="96" font-family="monospace" font-size="30" font-weight="700" fill="#111827">TODAY'S FRONT-PAGE INCIDENT ROOM</text>
+  <rect x="78" y="125" width="230" height="285" rx="18" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/>
+  <path d="M110 245 Q190 120 278 245" fill="#60a5fa" stroke="#1d4ed8" stroke-width="5"/>
+  <line x1="194" y1="245" x2="194" y2="350" stroke="#1d4ed8" stroke-width="7"/>
+  <text x="104" y="386" font-family="monospace" font-size="22" fill="#111827">PRIVATE</text>
+  <text x="104" y="414" font-family="monospace" font-size="22" fill="#111827">BROWSER</text>
+  <rect x="365" y="125" width="230" height="285" rx="18" fill="#fee2e2" stroke="#dc2626" stroke-width="4"/>
+  <circle cx="480" cy="230" r="62" fill="#111827"/>
+  <circle cx="458" cy="218" r="10" fill="#fef3c7"/><circle cx="502" cy="218" r="10" fill="#fef3c7"/>
+  <path d="M430 190 L398 158 M530 190 L562 158" stroke="#111827" stroke-width="10" stroke-linecap="round"/>
+  <rect x="424" y="298" width="112" height="54" rx="10" fill="#fff7ed" stroke="#111827" stroke-width="4"/>
+  <text x="407" y="386" font-family="monospace" font-size="22" fill="#111827">CAMERA</text>
+  <text x="407" y="414" font-family="monospace" font-size="22" fill="#111827">GOBLIN</text>
+  <rect x="652" y="125" width="230" height="285" rx="18" fill="#dcfce7" stroke="#16a34a" stroke-width="4"/>
+  <rect x="705" y="165" width="124" height="96" rx="8" fill="#fefce8" stroke="#111827" stroke-width="4"/>
+  <path d="M742 230 q25 -50 52 0" fill="none" stroke="#111827" stroke-width="5"/>
+  <circle cx="750" cy="204" r="6"/><circle cx="792" cy="204" r="6"/>
+  <polyline points="700,330 735,300 770,320 810,272 845,285" fill="none" stroke="#16a34a" stroke-width="7"/>
+  <text x="688" y="386" font-family="monospace" font-size="22" fill="#111827">QUERY-PLAN</text>
+  <text x="688" y="414" font-family="monospace" font-size="22" fill="#111827">BIRDHOUSE</text>
+  <path d="M310 260 C345 238 340 238 365 260" stroke="#111827" stroke-width="4" fill="none" marker-end="url(#a)"/>
+  <path d="M595 260 C630 238 625 238 652 260" stroke="#111827" stroke-width="4" fill="none" marker-end="url(#a)"/>
+  <text x="106" y="472" font-family="monospace" font-size="24" fill="#111827">CONSENSUS: OPTIMIZE THE PANIC, THEN ASK THE BIRD FOR SECURITY CLEARANCE.</text>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#111827"/></marker></defs>
+</svg>

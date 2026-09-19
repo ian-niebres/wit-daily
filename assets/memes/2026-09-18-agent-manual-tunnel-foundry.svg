@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Agent manual tunnel foundry meme</title>
+  <desc id="desc">A satirical factory dashboard where agent manuals feed a tunnel, a jalapeno chip, and plastic transit seating.</desc>
+  <rect width="1200" height="760" fill="#101522"/>
+  <rect x="54" y="48" width="1092" height="664" rx="34" fill="#182238" stroke="#7de3ff" stroke-width="4"/>
+  <text x="90" y="112" fill="#f8f1d8" font-family="monospace" font-size="44" font-weight="700">TODAY'S INTERNET OPERATING SYSTEM</text>
+  <g transform="translate(90 160)">
+    <rect width="310" height="210" rx="22" fill="#25304b" stroke="#f9c74f" stroke-width="4"/>
+    <text x="28" y="55" fill="#f9c74f" font-family="monospace" font-size="27" font-weight="700">AGENTS.md</text>
+    <text x="28" y="96" fill="#f8f1d8" font-family="monospace" font-size="22">inside</text>
+    <text x="28" y="130" fill="#f8f1d8" font-family="monospace" font-size="22">AGENTS.md</text>
+    <text x="28" y="164" fill="#f8f1d8" font-family="monospace" font-size="22">inside HR</text>
+  </g>
+  <path d="M420 255 C505 255 525 255 610 255" fill="none" stroke="#7de3ff" stroke-width="8" marker-end="url(#arrow)"/>
+  <g transform="translate(625 160)">
+    <rect width="220" height="210" rx="105" fill="#111827" stroke="#90be6d" stroke-width="6"/>
+    <path d="M52 118 C87 58 139 58 173 118 C138 178 86 178 52 118Z" fill="#1f9d55"/>
+    <text x="52" y="115" fill="#fff" font-family="monospace" font-size="24" font-weight="700">QUICK</text>
+    <text x="58" y="148" fill="#fff" font-family="monospace" font-size="24" font-weight="700">TUNNEL</text>
+  </g>
+  <path d="M845 255 C910 255 930 255 1000 255" fill="none" stroke="#7de3ff" stroke-width="8" marker-end="url(#arrow)"/>
+  <g transform="translate(960 155)">
+    <rect width="130" height="220" rx="18" fill="#f3722c" stroke="#f8f1d8" stroke-width="5"/>
+    <text x="25" y="62" fill="#101522" font-family="monospace" font-size="24" font-weight="700">LLM</text>
+    <text x="16" y="103" fill="#101522" font-family="monospace" font-size="24" font-weight="700">CHIP</text>
+    <text x="18" y="154" fill="#101522" font-family="monospace" font-size="21">🌶️</text>
+  </g>
+  <g transform="translate(110 440)">
+    <rect width="420" height="128" rx="26" fill="#30384f" stroke="#adb5bd" stroke-width="4"/>
+    <text x="30" y="54" fill="#f8f1d8" font-family="monospace" font-size="28" font-weight="700">CIVIC COMFORT UPDATE</text>
+    <text x="30" y="92" fill="#adb5bd" font-family="monospace" font-size="24">bus seat: straight plastic</text>
+  </g>
+  <g transform="translate(610 430)">
+    <rect width="460" height="150" rx="26" fill="#273449" stroke="#f94144" stroke-width="4"/>
+    <text x="32" y="55" fill="#f8f1d8" font-family="monospace" font-size="28" font-weight="700">DIPLOMACY HOODIE</text>
+    <text x="32" y="98" fill="#adb5bd" font-family="monospace" font-size="24">LAKE AMERICA: AI EXCUSE</text>
+  </g>
+  <text x="90" y="665" fill="#f8f1d8" font-family="monospace" font-size="30">OUTPUT: compliance confetti + recession omens + one spicy semiconductor</text>
+  <defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#7de3ff"/></marker></defs>
+</svg>

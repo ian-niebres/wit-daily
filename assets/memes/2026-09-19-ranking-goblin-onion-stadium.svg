@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Ranking goblin onion futures stadium</title>
+  <desc id="desc">A fake trading desk mixing Hacker News ranking math, onion futures, agent lanyards, Alberta weather, and college football tabs.</desc>
+  <rect width="1200" height="675" fill="#10131c"/>
+  <rect x="54" y="54" width="1092" height="567" rx="32" fill="#171b28" stroke="#6ee7b7" stroke-width="4"/>
+  <text x="90" y="115" fill="#f8fafc" font-family="monospace" font-size="40" font-weight="700">WEEKEND MOOD TERMINAL</text>
+  <text x="92" y="158" fill="#a7f3d0" font-family="monospace" font-size="22">ranking math • poster taste • onion futures • agent lanyards</text>
+  <g transform="translate(84 205)">
+    <rect width="310" height="310" rx="22" fill="#0f172a" stroke="#38bdf8" stroke-width="3"/>
+    <circle cx="155" cy="98" r="52" fill="#86efac"/>
+    <path d="M120 99 Q155 38 190 99 Q158 88 120 99" fill="#facc15"/>
+    <text x="70" y="185" fill="#f8fafc" font-family="monospace" font-size="25">RANKING</text>
+    <text x="84" y="220" fill="#f8fafc" font-family="monospace" font-size="25">GOBLIN</text>
+    <path d="M82 260 C135 235 178 285 236 251" stroke="#f97316" stroke-width="10" fill="none" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(445 210)">
+    <rect width="285" height="245" rx="22" fill="#25150c" stroke="#fb923c" stroke-width="3"/>
+    <text x="35" y="55" fill="#fed7aa" font-family="monospace" font-size="26" font-weight="700">ONION FUTURES</text>
+    <circle cx="142" cy="132" r="58" fill="#fbbf24"/>
+    <path d="M104 132 C128 84 158 84 181 132 C168 180 117 180 104 132Z" fill="#fdba74"/>
+    <path d="M112 132 C132 105 154 105 174 132" stroke="#7c2d12" stroke-width="5" fill="none"/>
+    <text x="52" y="213" fill="#fff7ed" font-family="monospace" font-size="21">now with derivatives</text>
+  </g>
+  <g transform="translate(780 192)">
+    <rect width="300" height="306" rx="22" fill="#111827" stroke="#c084fc" stroke-width="3"/>
+    <text x="35" y="56" fill="#ede9fe" font-family="monospace" font-size="25" font-weight="700">AGENT STADIUM</text>
+    <path d="M55 232 Q150 140 245 232" fill="none" stroke="#a78bfa" stroke-width="18"/>
+    <path d="M85 222 Q150 167 215 222" fill="none" stroke="#22c55e" stroke-width="12"/>
+    <rect x="113" y="95" width="74" height="82" rx="10" fill="#e5e7eb"/>
+    <text x="124" y="145" fill="#111827" font-family="monospace" font-size="24">ID</text>
+    <path d="M150 95 L150 62" stroke="#f472b6" stroke-width="8"/>
+    <text x="68" y="276" fill="#f8fafc" font-family="monospace" font-size="20">all workflows sold out</text>
+  </g>
+  <g transform="translate(150 545)">
+    <rect width="900" height="46" rx="23" fill="#f8fafc"/>
+    <text x="28" y="31" fill="#111827" font-family="monospace" font-size="22">ALBERTA WEATHER + COLLEGE FOOTBALL TABS → MARKET COMMITTEE DELUSION</text>
+  </g>
+</svg>

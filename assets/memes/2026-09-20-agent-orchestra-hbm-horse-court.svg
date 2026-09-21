@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Agent orchestra HBM horse court</title><desc id="desc">A satirical operations board where an agent orchestra, HBM monk, ad collector, model pirate, civic court, and missing horse feed Wit's hedge fund.</desc>
+<rect width="1200" height="720" fill="#111827"/><rect x="44" y="44" width="1112" height="632" rx="34" fill="#f8fafc" stroke="#38bdf8" stroke-width="6"/>
+<text x="90" y="110" font-family="ui-monospace, Menlo, monospace" font-size="34" font-weight="800" fill="#0f172a">PUBLIC INTERNET WEATHER DESK</text>
+<rect x="82" y="145" width="500" height="210" rx="24" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/>
+<text x="120" y="195" font-family="ui-monospace, Menlo, monospace" font-size="28" font-weight="700" fill="#1e3a8a">AGENT ORCHESTRA</text>
+<circle cx="165" cy="265" r="34" fill="#fde68a" stroke="#92400e" stroke-width="4"/><text x="140" y="274" font-size="24">AI</text>
+<path d="M220 255 C270 210 320 310 370 250" fill="none" stroke="#1d4ed8" stroke-width="8"/>
+<text x="235" y="315" font-family="ui-monospace, Menlo, monospace" font-size="20" fill="#1e3a8a">orchestrator baton</text>
+<rect x="620" y="145" width="480" height="210" rx="24" fill="#ecfccb" stroke="#65a30d" stroke-width="4"/>
+<text x="660" y="195" font-family="ui-monospace, Menlo, monospace" font-size="28" font-weight="700" fill="#365314">HBM MONK</text>
+<rect x="700" y="225" width="82" height="82" rx="14" fill="#84cc16"/><rect x="805" y="225" width="82" height="82" rx="14" fill="#84cc16"/><rect x="910" y="225" width="82" height="82" rx="14" fill="#84cc16"/>
+<text x="718" y="278" font-size="24" font-family="ui-monospace">DRAM</text><text x="670" y="330" font-size="20" font-family="ui-monospace" fill="#365314">silicon incense + quarterly chanting</text>
+<rect x="82" y="390" width="318" height="220" rx="24" fill="#fee2e2" stroke="#dc2626" stroke-width="4"/>
+<text x="115" y="440" font-family="ui-monospace, Menlo, monospace" font-size="24" font-weight="700" fill="#7f1d1d">AD COLLECTOR</text>
+<path d="M155 485 h170 v70 h-170z" fill="#fff" stroke="#991b1b" stroke-width="4"/><circle cx="190" cy="520" r="18" fill="#fca5a5"/><text x="220" y="528" font-size="20" font-family="ui-monospace">browser crumbs</text>
+<rect x="442" y="390" width="318" height="220" rx="24" fill="#ede9fe" stroke="#7c3aed" stroke-width="4"/>
+<text x="474" y="440" font-family="ui-monospace, Menlo, monospace" font-size="24" font-weight="700" fill="#4c1d95">MODEL PIRATE</text>
+<path d="M545 520 q55 -70 110 0 q-55 48 -110 0z" fill="#c4b5fd" stroke="#4c1d95" stroke-width="4"/><text x="535" y="572" font-family="ui-monospace" font-size="20" fill="#4c1d95">rescues weights</text>
+<rect x="800" y="390" width="300" height="220" rx="24" fill="#ffedd5" stroke="#ea580c" stroke-width="4"/>
+<text x="832" y="440" font-family="ui-monospace, Menlo, monospace" font-size="24" font-weight="700" fill="#7c2d12">CIVIC HORSE COURT</text>
+<path d="M870 525 h145 l32 45 h-210z" fill="#fed7aa" stroke="#9a3412" stroke-width="4"/><text x="865" y="575" font-family="ui-monospace" font-size="20" fill="#7c2d12">missing horse / mayor fog</text>
+<path d="M240 355 L520 390 M850 355 L690 390 M600 610 L600 655" stroke="#0f172a" stroke-width="6" stroke-dasharray="12 10"/>
+<text x="365" y="665" font-family="ui-monospace, Menlo, monospace" font-size="26" font-weight="800" fill="#0f172a">OUTPUT: queued orders, no fills, vibes marked stale</text>
+</svg>

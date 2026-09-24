@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The internet mood board: enzyme oracle, VR glasses, Vary header, and agent harness</title>
+  <desc id="desc">A satirical control panel linking AI enzyme discovery, VR glasses, HTTP Vary headers, and agent orchestration into one absurd weather machine.</desc>
+  <rect width="900" height="520" fill="#fff6e7"/>
+  <rect x="22" y="22" width="856" height="476" rx="26" fill="#fffdf8" stroke="#171717" stroke-width="6"/>
+  <text x="450" y="64" text-anchor="middle" font-family="monospace" font-size="28" font-weight="700" fill="#171717">TODAY'S INTERNET WEATHER MACHINE</text>
+  <line x1="450" y1="92" x2="450" y2="448" stroke="#171717" stroke-width="3" stroke-dasharray="10 8"/>
+  <line x1="90" y1="260" x2="810" y2="260" stroke="#171717" stroke-width="3" stroke-dasharray="10 8"/>
+
+  <g transform="translate(80 105)">
+    <rect width="300" height="120" rx="18" fill="#d7f3ff" stroke="#171717" stroke-width="4"/>
+    <text x="150" y="30" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700">LAB COAT AGENT</text>
+    <path d="M72 82 C98 30, 145 122, 180 65 S245 64, 258 42" fill="none" stroke="#171717" stroke-width="5"/>
+    <circle cx="72" cy="82" r="8" fill="#ff5a5f" stroke="#171717" stroke-width="3"/>
+    <circle cx="258" cy="42" r="8" fill="#57c785" stroke="#171717" stroke-width="3"/>
+    <text x="150" y="105" text-anchor="middle" font-family="monospace" font-size="15">“I found an enzyme and a press kit.”</text>
+  </g>
+
+  <g transform="translate(520 105)">
+    <rect width="300" height="120" rx="18" fill="#eee0ff" stroke="#171717" stroke-width="4"/>
+    <text x="150" y="30" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700">VR GLASSES DESK</text>
+    <rect x="70" y="54" width="72" height="38" rx="14" fill="#171717"/>
+    <rect x="158" y="54" width="72" height="38" rx="14" fill="#171717"/>
+    <line x1="142" y1="73" x2="158" y2="73" stroke="#171717" stroke-width="6"/>
+    <text x="150" y="110" text-anchor="middle" font-family="monospace" font-size="15">face computer seeking purpose</text>
+  </g>
+
+  <g transform="translate(80 300)">
+    <rect width="300" height="120" rx="18" fill="#e9ffd8" stroke="#171717" stroke-width="4"/>
+    <text x="150" y="30" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700">CACHE THEOLOGY</text>
+    <rect x="52" y="52" width="196" height="42" rx="8" fill="#fff" stroke="#171717" stroke-width="3"/>
+    <text x="150" y="79" text-anchor="middle" font-family="monospace" font-size="20">Vary: vibes</text>
+    <text x="150" y="111" text-anchor="middle" font-family="monospace" font-size="15">the ugliest part of HTTP got tenure</text>
+  </g>
+
+  <g transform="translate(520 300)">
+    <rect width="300" height="120" rx="18" fill="#ffe3d4" stroke="#171717" stroke-width="4"/>
+    <text x="150" y="30" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700">AGENT HARNESS MALL</text>
+    <rect x="52" y="52" width="58" height="46" rx="8" fill="#fff" stroke="#171717" stroke-width="3"/>
+    <rect x="122" y="52" width="58" height="46" rx="8" fill="#fff" stroke="#171717" stroke-width="3"/>
+    <rect x="192" y="52" width="58" height="46" rx="8" fill="#fff" stroke="#171717" stroke-width="3"/>
+    <path d="M110 75 H122 M180 75 H192" stroke="#171717" stroke-width="4"/>
+    <text x="150" y="113" text-anchor="middle" font-family="monospace" font-size="15">orchestration, but make it invoices</text>
+  </g>
+
+  <path d="M382 165 C430 150, 470 150, 518 165" fill="none" stroke="#ff9f1c" stroke-width="6" marker-end="url(#arrow)"/>
+  <path d="M382 360 C430 380, 470 380, 518 360" fill="none" stroke="#ff9f1c" stroke-width="6" marker-end="url(#arrow)"/>
+  <path d="M230 228 C250 260, 250 282, 230 298" fill="none" stroke="#ff9f1c" stroke-width="6" marker-end="url(#arrow)"/>
+  <path d="M670 228 C650 260, 650 282, 670 298" fill="none" stroke="#ff9f1c" stroke-width="6" marker-end="url(#arrow)"/>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#ff9f1c"/></marker></defs>
+  <text x="450" y="472" text-anchor="middle" font-family="monospace" font-size="18" fill="#171717">OUTPUT: enterprise prophecy with cache headers and cheekbones</text>
+</svg>

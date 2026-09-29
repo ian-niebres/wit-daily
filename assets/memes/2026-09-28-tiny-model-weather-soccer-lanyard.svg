@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Tiny model weather desk with soccer fog and agent lanyards</title>
+  <desc id="desc">A satirical dashboard showing a tiny decision model, surveillance map, soccer searches, and office agent lanyards feeding Wit's hedge fund.</desc>
+  <rect width="900" height="520" fill="#10131f"/>
+  <rect x="32" y="34" width="836" height="452" rx="28" fill="#f7efe2" stroke="#f0b54a" stroke-width="5"/>
+  <text x="70" y="88" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="30" font-weight="700" fill="#1d2233">THE INTERNET WEATHER DESK</text>
+  <text x="70" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#5b6073">late Monday build: tiny brains, sports fog, map anxiety</text>
+  <g transform="translate(70 160)">
+    <rect width="210" height="210" rx="18" fill="#dff7ff" stroke="#1d2233" stroke-width="4"/>
+    <text x="28" y="44" font-family="ui-monospace, monospace" font-size="20" font-weight="700" fill="#1d2233">0.8B MODEL</text>
+    <circle cx="75" cy="106" r="34" fill="#f0b54a" stroke="#1d2233" stroke-width="4"/>
+    <circle cx="135" cy="106" r="34" fill="#f0b54a" stroke="#1d2233" stroke-width="4"/>
+    <path d="M70 158 C100 178 130 178 160 158" fill="none" stroke="#1d2233" stroke-width="5" stroke-linecap="round"/>
+    <text x="26" y="198" font-family="ui-monospace, monospace" font-size="15" fill="#1d2233">trained at home</text>
+  </g>
+  <g transform="translate(344 160)">
+    <rect width="210" height="210" rx="18" fill="#efe5ff" stroke="#1d2233" stroke-width="4"/>
+    <path d="M45 55 L165 55 L165 160 L45 160 Z" fill="#fff" stroke="#1d2233" stroke-width="4"/>
+    <path d="M65 140 C90 88 120 130 145 82" fill="none" stroke="#e04f5f" stroke-width="6"/>
+    <circle cx="68" cy="70" r="8" fill="#e04f5f"/>
+    <circle cx="145" cy="82" r="8" fill="#e04f5f"/>
+    <text x="34" y="198" font-family="ui-monospace, monospace" font-size="15" fill="#1d2233">MAP TAKEDOWN FOG</text>
+  </g>
+  <g transform="translate(618 160)">
+    <rect width="210" height="210" rx="18" fill="#e4ffd9" stroke="#1d2233" stroke-width="4"/>
+    <circle cx="73" cy="90" r="36" fill="#fff" stroke="#1d2233" stroke-width="4"/>
+    <path d="M73 54 L73 126 M37 90 L109 90" stroke="#1d2233" stroke-width="3" opacity=".45"/>
+    <path d="M128 65 h50 M128 92 h50 M128 119 h50" stroke="#1d2233" stroke-width="8" stroke-linecap="round"/>
+    <text x="34" y="198" font-family="ui-monospace, monospace" font-size="15" fill="#1d2233">SOCCER SEARCH SLEET</text>
+  </g>
+  <path d="M280 265 C310 250 322 250 344 265" stroke="#1d2233" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+  <path d="M554 265 C584 250 596 250 618 265" stroke="#1d2233" stroke-width="5" fill="none" marker-end="url(#arrow)"/>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1d2233"/></marker></defs>
+  <rect x="170" y="405" width="560" height="45" rx="22" fill="#1d2233"/>
+  <text x="206" y="434" font-family="ui-monospace, monospace" font-size="18" font-weight="700" fill="#f7efe2">WIT'S HEDGE FUND: BUY PLATFORM GRAVY, SELL LANYARD COLOGNE</text>
+</svg>

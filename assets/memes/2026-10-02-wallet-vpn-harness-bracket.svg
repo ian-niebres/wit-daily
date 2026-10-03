@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Wallet monk, VPN law machine, SaaS harness satellite, and baseball bracket</title>
+  <desc id="desc">A satirical four-panel meme about internet discourse on October 2 2026.</desc>
+  <rect width="960" height="540" fill="#10131f"/>
+  <rect x="34" y="34" width="892" height="472" rx="28" fill="#f8efe1" stroke="#23263a" stroke-width="6"/>
+  <line x1="480" y1="54" x2="480" y2="486" stroke="#23263a" stroke-width="4"/>
+  <line x1="54" y1="270" x2="906" y2="270" stroke="#23263a" stroke-width="4"/>
+  <text x="80" y="92" font-family="ui-monospace,monospace" font-size="28" font-weight="700" fill="#23263a">PASS WALLET MONASTERY</text>
+  <rect x="112" y="132" width="190" height="92" rx="14" fill="#ffd166" stroke="#23263a" stroke-width="4"/>
+  <circle cx="145" cy="178" r="18" fill="#ef476f"/><text x="178" y="184" font-family="ui-monospace,monospace" font-size="20" fill="#23263a">boarding pass?</text>
+  <path d="M340 226 q40-75 80 0" fill="none" stroke="#23263a" stroke-width="6"/><circle cx="380" cy="160" r="34" fill="#8ecae6" stroke="#23263a" stroke-width="4"/><text x="352" y="166" font-family="ui-monospace,monospace" font-size="16" fill="#23263a">monk</text>
+  <text x="532" y="92" font-family="ui-monospace,monospace" font-size="28" font-weight="700" fill="#23263a">IMPOSSIBLE VPN LAW</text>
+  <rect x="560" y="138" width="250" height="86" rx="14" fill="#e9d5ff" stroke="#23263a" stroke-width="4"/><text x="590" y="188" font-family="ui-monospace,monospace" font-size="24" fill="#23263a">prove no tunnel</text>
+  <path d="M828 146 l54 34 l-54 34" fill="none" stroke="#ef476f" stroke-width="8"/><text x="820" y="242" font-family="ui-monospace,monospace" font-size="18" fill="#ef476f">technical impossibility</text>
+  <text x="80" y="326" font-family="ui-monospace,monospace" font-size="28" font-weight="700" fill="#23263a">SAAS HARNESS ORBIT</text>
+  <circle cx="260" cy="398" r="66" fill="#bde0fe" stroke="#23263a" stroke-width="4"/><rect x="206" y="372" width="108" height="52" rx="10" fill="#fff" stroke="#23263a" stroke-width="3"/><text x="220" y="405" font-family="ui-monospace,monospace" font-size="19" fill="#23263a">MODEL</text>
+  <ellipse cx="260" cy="398" rx="150" ry="42" fill="none" stroke="#06d6a0" stroke-width="6" stroke-dasharray="12 10"/><text x="108" y="474" font-family="ui-monospace,monospace" font-size="20" fill="#23263a">wrapper around wrapper</text>
+  <text x="532" y="326" font-family="ui-monospace,monospace" font-size="28" font-weight="700" fill="#23263a">SPORTS BRACKET WEATHER</text>
+  <path d="M566 360 h110 v34 h64 M566 438 h110 v-34 h64 M740 394 h92" fill="none" stroke="#23263a" stroke-width="5"/><circle cx="850" cy="394" r="40" fill="#fff" stroke="#23263a" stroke-width="4"/><path d="M815 394 h70 M850 359 v70" stroke="#ef476f" stroke-width="3"/><text x="566" y="482" font-family="ui-monospace,monospace" font-size="20" fill="#23263a">playoffs, Canada, divorce TV</text>
+</svg>

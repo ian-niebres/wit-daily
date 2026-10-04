@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Sovereign camera bird and Git tollbooth weather desk</title>
+  <desc id="desc">A satirical dashboard where a camera bird, sovereign model bird, Git tollbooth, and quarterback panic room share one Saturday incident board.</desc>
+  <rect width="1200" height="720" fill="#111827"/>
+  <rect x="54" y="50" width="1092" height="620" rx="34" fill="#f8fafc" stroke="#0f172a" stroke-width="8"/>
+  <text x="92" y="116" font-family="monospace" font-size="38" font-weight="700" fill="#0f172a">SATURDAY MOOD INCIDENT BOARD</text>
+  <rect x="92" y="154" width="300" height="420" rx="24" fill="#dbeafe" stroke="#1d4ed8" stroke-width="5"/>
+  <circle cx="242" cy="290" r="92" fill="#93c5fd" stroke="#1d4ed8" stroke-width="6"/>
+  <circle cx="215" cy="275" r="18" fill="#0f172a"/><circle cx="270" cy="275" r="18" fill="#0f172a"/>
+  <path d="M242 308 l-32 34 h64z" fill="#f97316" stroke="#0f172a" stroke-width="4"/>
+  <rect x="150" y="402" width="184" height="72" rx="14" fill="#eff6ff" stroke="#1d4ed8" stroke-width="4"/>
+  <text x="172" y="446" font-family="monospace" font-size="26" fill="#0f172a">FLOCK?</text>
+  <text x="132" y="530" font-family="monospace" font-size="24" fill="#1d4ed8">camera bird says</text>
+  <text x="132" y="560" font-family="monospace" font-size="24" fill="#1d4ed8">it is just weather</text>
+  <rect x="450" y="154" width="300" height="420" rx="24" fill="#fef3c7" stroke="#b45309" stroke-width="5"/>
+  <path d="M570 330 q30-95 90 0 q-45-30-90 0z" fill="#f59e0b" stroke="#92400e" stroke-width="6"/>
+  <text x="500" y="260" font-family="monospace" font-size="32" font-weight="700" fill="#78350f">KOLIBRI</text>
+  <text x="492" y="302" font-family="monospace" font-size="21" fill="#78350f">sovereign open-weight bird</text>
+  <rect x="500" y="384" width="200" height="86" rx="14" fill="#fff7ed" stroke="#b45309" stroke-width="4"/>
+  <text x="535" y="420" font-family="monospace" font-size="24" fill="#78350f">MODEL</text>
+  <text x="520" y="452" font-family="monospace" font-size="24" fill="#78350f">WITH FLAG</text>
+  <rect x="808" y="154" width="250" height="190" rx="24" fill="#dcfce7" stroke="#166534" stroke-width="5"/>
+  <text x="842" y="220" font-family="monospace" font-size="30" font-weight="700" fill="#14532d">GIT TOLL</text>
+  <path d="M880 270 h110" stroke="#166534" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="875" cy="270" r="22" fill="#bbf7d0" stroke="#166534" stroke-width="5"/>
+  <text x="850" y="318" font-family="monospace" font-size="20" fill="#14532d">pay in edge tokens</text>
+  <rect x="808" y="384" width="250" height="190" rx="24" fill="#fee2e2" stroke="#991b1b" stroke-width="5"/>
+  <text x="838" y="446" font-family="monospace" font-size="28" font-weight="700" fill="#7f1d1d">QB PANIC</text>
+  <path d="M862 500 h142" stroke="#991b1b" stroke-width="6" stroke-dasharray="12 10"/>
+  <text x="848" y="540" font-family="monospace" font-size="20" fill="#7f1d1d">refresh depth chart</text>
+  <path d="M392 330 C430 300 430 300 450 330" fill="none" stroke="#0f172a" stroke-width="5" marker-end="url(#arrow)"/>
+  <path d="M750 330 C790 300 790 260 808 250" fill="none" stroke="#0f172a" stroke-width="5" marker-end="url(#arrow)"/>
+  <path d="M750 430 C790 460 790 490 808 500" fill="none" stroke="#0f172a" stroke-width="5" marker-end="url(#arrow)"/>
+  <text x="107" y="626" font-family="monospace" font-size="30" font-weight="700" fill="#0f172a">VERDICT: civic infrastructure now chirps in release notes.</text>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto"><path d="M0,0 L0,6 L6,3 z" fill="#0f172a"/></marker></defs>
+</svg>
